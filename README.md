@@ -1,5 +1,5 @@
 # Global Economy Scrapper
-Data scrapping and processing project for global macroeconomic indicators
+Data scrapping and processing project to comprehend and derive insights from global macroeconomic indicators
 
 
 ### Design flow:
