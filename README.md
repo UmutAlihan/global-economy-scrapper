@@ -13,7 +13,4 @@ Raw Unstructured -> Process -> Raw Structured -> Visualizations -> Information
 
 ### Built With:
 
-Beautiful Soup, Pandas, Matplotlib
-
-
-### Authors:
+Beautiful Soup, Pandas, Requests
