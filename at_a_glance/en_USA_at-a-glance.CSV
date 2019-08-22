@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+United States,2017,Canada,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,282242.783021
+United States,2017,Mexico,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,243314.383193
+United States,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,129893.514886
+United States,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,67602.39657
+United States,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,56243.524085
+United States,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,526022.30797
+United States,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,317207.180158
+United States,2017,Canada,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,305878.828303
+United States,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,139797.020593
+United States,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,119991.393155
+United States,2017,World,Animal,Export,Export(US$ Mil),28190.296121
+United States,2017,World,Vegetable,Export,Export(US$ Mil),71555.759643
+United States,2017,World,Food Products,Export,Export(US$ Mil),44107.137177
+United States,2017,World,Minerals,Export,Export(US$ Mil),9549.510759
+United States,2017,World,Fuels,Export,Export(US$ Mil),139025.423812
+United States,2017,World,Chemicals,Export,Export(US$ Mil),159505.535507
+United States,2017,World,Plastic or Rubber,Export,Export(US$ Mil),75774.868145
+United States,2017,World,Hides and Skins,Export,Export(US$ Mil),4539.193447
+United States,2017,World,Wood,Export,Export(US$ Mil),39612.129344
+United States,2017,World,Textiles and Clothing,Export,Export(US$ Mil),25919.93266
+United States,2017,World,Footwear,Export,Export(US$ Mil),1924.353802
+United States,2017,World,Stone and Glass,Export,Export(US$ Mil),70606.704063
+United States,2017,World,Metals,Export,Export(US$ Mil),68463.305189
+United States,2017,World,Mach and Elec,Export,Export(US$ Mil),363046.801151
+United States,2017,World,Transportation,Export,Export(US$ Mil),266676.175181
+United States,2017,World,Miscellaneous,Export,Export(US$ Mil),177112.03249
+United States,2017,World,Raw materials,Export,Export(US$ Mil),158213.925565
+United States,2017,World,Intermediate goods,Export,Export(US$ Mil),301867.633408
+United States,2017,World,Consumer goods,Export,Export(US$ Mil),400453.994191
+United States,2017,World,Capital goods,Export,Export(US$ Mil),518469.988863
+United States,2017,World,Raw materials,Import,Import(US$ Mil),227576.326465
+United States,2017,World,Intermediate goods,Import,Import(US$ Mil),356723.000752
+United States,2017,World,Consumer goods,Import,Import(US$ Mil),885929.063979999
+United States,2017,World,Capital goods,Import,Import(US$ Mil),837058.331288001
+United States,2017,World,All Products,Export,Exports (in US$ Mil),1545609.158491
+United States,2017,World,All Products,Import,Imports (in US$ Mil),2407390.18946
+United States,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1412414808.39
+United States,2017,...,...,Development,GDP (current US$ Mil),19390604
+United States,2017,...,...,Tariff,No. Of Tariff Agreement,25
+United States,2017,...,...,Import,No. Of Import partners,222
+United States,2017,...,...,Import,No. Of Import products,4528
+United States,2017,...,...,Export,No. Of Export partners,224
+United States,2017,...,...,Export,No. Of Export products,4523
+United States,2016,...,...,Others,Population,323405935
+United States,2018,...,...,Others,Ease of Doing Business Rank,6
+United States,2018,...,...,Others,Trading Across Borders Rank,36
+United States,2016,...,...,Others,LPI Rank,10
+United States,2016,...,...,Others,LPI Score,3.992172
+United States,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5207
+United States,2014,...,...,Others,No Of NTM Measures,92
+United States,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0568988
+United States,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0645536
+United States,,...,...,Others,Services Trade Restrictions Index - Over All,17.7
+United States,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,6.37349844
+United States,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,3.002649069
+United States,2017,Canada,All Products,Export,Partner share(%)-Top 5 Export Partner,18.2609
+United States,2017,Mexico,All Products,Export,Partner share(%)-Top 5 Export Partner,15.7423
+United States,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,8.404
+United States,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,4.3738
+United States,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,3.6389
+United States,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.8503
+United States,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,13.1764
+United States,2017,Canada,All Products,Import,Partner share(%)-Top 5 Import Partner,12.7058
+United States,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,5.807
+United States,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,4.9843
+United States,2017,World,Animal,Export,Export Product share(%),1.8239
+United States,2017,World,Vegetable,Export,Export Product share(%),4.6296
+United States,2017,World,Food Products,Export,Export Product share(%),2.8537
+United States,2017,World,Minerals,Export,Export Product share(%),0.6178
+United States,2017,World,Fuels,Export,Export Product share(%),8.9949
+United States,2017,World,Chemicals,Export,Export Product share(%),10.3199
+United States,2017,World,Plastic or Rubber,Export,Export Product share(%),4.9026
+United States,2017,World,Hides and Skins,Export,Export Product share(%),0.2937
+United States,2017,World,Wood,Export,Export Product share(%),2.5629
+United States,2017,World,Textiles and Clothing,Export,Export Product share(%),1.677
+United States,2017,World,Footwear,Export,Export Product share(%),0.1245
+United States,2017,World,Stone and Glass,Export,Export Product share(%),4.5682
+United States,2017,World,Metals,Export,Export Product share(%),4.4295
+United States,2017,World,Mach and Elec,Export,Export Product share(%),23.4889
+United States,2017,World,Transportation,Export,Export Product share(%),17.2538
+United States,2017,World,Miscellaneous,Export,Export Product share(%),11.459
+United States,2017,World,Raw materials,Export,Export Product share(%),10.2363
+United States,2017,World,Intermediate goods,Export,Export Product share(%),19.5307
+United States,2017,World,Consumer goods,Export,Export Product share(%),25.9091
+United States,2017,World,Capital goods,Export,Export Product share(%),33.5447
+United States,2017,World,Raw materials,Import,Import Product share(%),9.4532
+United States,2017,World,Intermediate goods,Import,Import Product share(%),14.8178
+United States,2017,World,Consumer goods,Import,Import Product share(%),36.8004
+United States,2017,World,Capital goods,Import,Import Product share(%),34.7704
+United States,2017,World,Raw materials,Tariff,Weighted Average (%),0.377009347901323
+United States,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.05197319093461
+United States,2017,World,Consumer goods,Tariff,Weighted Average (%),3.44176882446741
+United States,2017,World,Capital goods,Tariff,Weighted Average (%),0.397921330778469
+United States,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+United States,2017,World,All Products,Trade Indicator,Country Growth (%),-0.32687442802054
+United States,2017,World,All Products,Tariff,Simple Average (%),3.356200128684
+United States,2017,World,All Products,Tariff,Weighted Average (%),1.66479210115739
+United States,2017,World,All Products,Tariff,Maximum Rate (%),3000
+United States,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),53.1384998829169
+United States,2017,...,...,Trade Indicator,Index of export market penetration,37.883109198773
+United States,2017,...,...,Trade Indicator,HH Market concentration index,0.0675284324474919
+United States,2017,...,...,Development,Trade in services (% of GDP),6.91134737216025
+United States,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",58270
