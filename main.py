@@ -1,5 +1,3 @@
-from html5print import HTMLBeautifier as htmlb
-import re
 import csv
 import urllib.request
 import requests
@@ -10,7 +8,13 @@ if (not os.environ.get('PYTHONHTTPSVERIFY', '') and
     getattr(ssl, '_create_unverified_context', None)): 
     ssl._create_default_https_context = ssl._create_unverified_context
 
-	
+
+#Get country abbrevations	
+#All countries list:
+#https://wits.worldbank.org/countrystats.aspx?lang=en
+
+#downlad data for each country
+#parse
 
 #Country - All Years - All Indicators
 url = "http://wits.worldbank.org/data/public/cp/en_USA_allyears_wits_trade_summary.csv"
