@@ -1,0 +1,734 @@
+""
+<!DOCTYPE html>
+"<html xmlns=""http://www.w3.org/1999/xhtml"" manifest=""https://wits.worldbank.org/witscpSSL.appcache"" lang=""en"">"
+"   <head id=""Head1""><title>"
+	Turkey | Trade Summary | 2016 | WITS | Data
+"</title><meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" /><meta name=""viewport"" content=""target-densitydpi=device-dpi", initial-scale=1.0," user-scalable=no"" /><meta name=""language"" content=""English"" /><meta http-equiv=""content-language"" content=""en"" /><meta name=""description"" content=""Merchandise Trade summary statistics data for Turkey (TUR) including exports and imports", applied tariffs, top export and import by partner countries and top exported/imported product groups, along with development indicators from WDI such as GDP, GNI per capita," trade balance and trade as percentage of GDP for year 2016"" /><meta name=""keywords"" content=""international", merchandise trade, exports value, imports value, Number of trading partners, number of products, top export/import partners, herfindahl- hirschman index, Index of export market penetration,World Growth, Country Growth, Number of tariff agreements, Tariff Maximum and Minimum rate, Simple/Weighted Average tariff, duty free imports, GDP, GNI per capita, Trade Balance," Trade as percentage of GDP"" /><link href=""/Styles/bootstrap.css"" rel=""stylesheet"" media=""screen"" /><link href=""/Styles/defaultTheme.css"" rel=""stylesheet"" media=""screen"" /><link rel=""stylesheet"" href=""/Styles/grid/jqx.base.css"" type=""text/css"" /><link href=""/Styles/customStyles.css"" rel=""stylesheet"" media=""screen"" />"
+      <!--[if lt IE 8]>
+"      <link href=""../../../../../../Styles/customStylesIE7.css"" rel=""stylesheet"" media=""screen"" />"
+      <![endif]-->
+      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+"      <script src=""https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js""></script>"
+"      <script src=""https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js""></script>"
+      <![endif]-->
+""
+                  <!-- ChatBot include files starts -->
+""
+"        <link rel=""stylesheet"" type=""text/css"" href=""/ChatBot/styles/jquery-ui.css"" /><link href=""/ChatBot/styles/common.css"" rel=""stylesheet"" /><link href=""/ChatBot/styles/botchat.css"" rel=""stylesheet"" /><link rel=""stylesheet"" href=""/ChatBot/styles/chatbotCustom.css"" />"
+       <!-- ChatBot include files ends -->
+""
+"      <script type=""text/javascript"" src=""https://wits.worldbank.org/Scripts/jquery.js""></script>"
+""
+"       <script src=""https://wits.worldbank.org/Scripts/jquery-1.11.1.min.js"" type=""text/javascript""></script>"
+      
+"      <script src=""https://wits.worldbank.org/Scripts/Utilites.js"" type=""text/javascript""></script>"
+"      <script type=""text/javascript"">"
+          if (top.location != location) {
+              top.location.href = document.location.href;
+          }
+         
+         
+      </script>
+      <style>
+      
+      .labels{ white-space:nowrap!important; padding-right:20px!important}
+      .labels sup{ left:-2px; font-size:10px}
+      .labels sup a{ font-size:10px}
+      </style>
+       <style>
+          .jqx-treemap-label {color:#FFF}
+      </style>
+   
+" <script src=""//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-efd6120a6f6ed94da49cf49e2ba626ac110c7e3c.js""></script> "
+</head>
+   <body>
+"      <header role=""banner"" class=""navbar navbar-inverse navbar-fixed-top bs-docs-nav"""
+"         id=""bannerStrip"">"
+""
+"         <div class=""navbar-header"">"
+"           <div class=""pull-left"">"
+"             <a class=""navbar-brand"" href=""https://wits.worldbank.org/Default.aspx?lang=en"" title=""logo for World Integrated Trade Solution"">WITS</a>"
+           </div>
+           
+"           <div class=""pull-right"">"
+            <ul class='multilangMenu'><li class='optMultiLangChatBot'></li><li class='optMultiLangChatBot '><span class='spnLogoText'>Chat bot Search</span></li><li ><a href='javascript:void(0)'>En</a>&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a title='Click here to view this page in Español' href='https://wits.worldbank.org/CountryProfile/es/Country/TUR/Year/2016/Summary'>Es</a></li></ul>
+"            <button data-target=""#topRightNav"" data-toggle=""collapse"" type=""button"" class=""navbar-toggle"" id=""topRightNavCollapsed"">"
+"            <span class=""sr-only"">Toggle navigation</span>"
+"            <span class=""glyphicon glyphicon-cog""></span>"
+            </button>
+"            <button data-target=""#navList"" data-toggle=""collapse"" type=""button"" class=""navbar-toggle"" id=""navListCollapsed"">"
+"            <span class=""sr-only"">Toggle navigation</span>"
+"            <span class=""icon-bar""></span>"
+"            <span class=""icon-bar""></span>"
+"            <span class=""icon-bar""></span>"
+            </button>
+            
+"            <nav class=""collapse navbar-collapse bs-navbar-collapse"" role=""navigation"" id=""topRightNav"">"
+            
+"               <ul class=""nav navbar-nav"" id=""topRightLink"">"
+                  <li class='optMultiLangChatBot'><span class='spnLogoText'>Chat bot Search</span></li><li class='botSeperator'></li><li class='optMultiLang bold'><a href='javascript:void(0)'>English</a></li><li class='optMultiLang'><a title='Click here to view this page in Español' href='https://wits.worldbank.org/CountryProfile/es/Country/TUR/Year/2016/Summary'> Español</a></li><li class='optMultiLangSaprtr'><a>|</a></li>
+"                  <li class=""""><a href=""javascript:void(0)""><span class=""glyphicon glyphicon-log-in""></span> <span id=""lblLogin"">Login</span></a> </li>"
+"                  <li class=""""><a href=""https://wits.worldbank.org/register.html""><span class=""glyphicon glyphicon-edit""></span> <span id=""lblRegister"">Register</span></a> </li>"
+               </ul>
+            </nav>
+"             <div class=""clearfix""></div>"
+"<ul class=""shareLinkList pull-right desktop"">"
+"                     <li class=""facebook""><a title=""Facebook"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""twitter""><a title=""Twitter"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""linkedin""><a title=""Linkedin"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""gPlus""><a title=""Google Plus"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""reddit""><a title=""Reddit"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""stumbleupon""><a title=""StumbleUpon"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                      </a>
+                     </li>
+"                     <li class=""delicious""><a title=""Delicious"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+"                     <li class=""email""><a title=""Email"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        </a>
+                     </li>
+                  </ul>         
+""
+            
+         
+           
+           </div>
+          
+               
+         </div> 
+      </header>
+"      <div id=""fixedContent"">"
+        <div id='mainMenuWrapper'><div id='mainMenu'><nav role='navigation' class='collapse navbar-collapse bs-navbar-collapse' id='navList'><ul class='nav navbar-nav'><li class=''><a href='#void' class='dropdown-toggle' data-toggle='dropdown'>Trade Stats <span class='caret'></span></a><ul class='dropdown-menu'><li><a href='https://wits.worldbank.org/countrystats.aspx?lang=en'>By Country</a></li><li><a href='https://wits.worldbank.org/country-indicator.aspx?lang=en'>By Indicator</a></li><li><a href='https://wits.worldbank.org/trade-visualization.aspx?lang=en'>Visualization</a></li><li><a href='https://wits.worldbank.org/datadownload.aspx?lang=en'>Data Download</a></li><li><a href='https://wits.worldbank.org/CountryProfile/Metadata/en/Country/All'>Metadata</a></li><li><a href='https://wits.worldbank.org/countryprofile-dataavailability.aspx?lang=en'>Data Availability</a></li><li><a href='https://wits.worldbank.org/Help/country-summary-help.html'>Help</a></li></ul></li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>Tariffs<span class='caret'></span></a><ul class='dropdown-menu'><li class=''><a href='https://wits.worldbank.org/gptad.html'>GPTAD</a> </li><li class=''><a href='https://wits.worldbank.org/tariff/trains/en/country/USA'>UNCTAD TRAINS</a> </li></ul></li><li class=''><a href='#void' class='dropdown-toggle' data-toggle='dropdown'>Non-Tariff Measures <span class='caret'></span></a><ul class='dropdown-menu'><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/country/CAN'>Summary</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/ntm-bycountry'>By Country</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/ntm-datavisualization'>Visualization</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/ntm-datadownload'>Data Download</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/metadata/en/country/All'>Metadata</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/ntm-dataavailability'>Data Availability</a></li><li><a href='https://wits.worldbank.org/tariff/non-tariff-measures/en/ntm-about'>About NTM</a></li></ul></li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>API<span class='caret'></span></a><ul class='dropdown-menu'><li class=''><a href='https://wits.worldbank.org/witsapiintro.aspx?lang=en'>API overview</a> </li><li class=''><a href='http://wits.worldbank.org/data/public/WITSAPI_UserGuide.pdf' target='_blank'>API documentation</a> </li></ul><li class=''><a href='https://wits.worldbank.org/analyticaldata/analyticaldata.aspx'>Analytical database</a> </li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>Tools<span class='caret'></span></a><ul class='dropdown-menu'><li class=''><a id='compare' href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/region/ECS/show/line'>Compare Countries</a> </li><li><a href='https://wits.worldbank.org/simulationtool.html'>Simulation Tool</a></li></ul></li><li class=''><a href='https://wits.worldbank.org/module/ALL/sub-module/ALL/reporter/ALL/year/ALL/tradeflow/ALL/pagesize/50/page/1'>Data Download</a> </li></li></ul><ul class='nav navbar-nav navbar-right'><li class=''><a href='https://wits.worldbank.org/Default.aspx?lang=en'>Home</a> </li><li class=''><a href='https://wits.worldbank.org/about_wits.html'>About WITS</a> </li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>Reference<span class='caret'></span></a><ul class='dropdown-menu'><li><a href='https://wits.worldbank.org/methodology.html'>Methodology</a></li><li><a href='https://wits.worldbank.org/glossary.html'>Glossary</a></li><li><a href='https://wits.worldbank.org/referencedata.html'>Reference Data</a></li><li><a href='https://wits.worldbank.org/product_concordance.html'>Concordances</a></li><li><a href='https://wits.worldbank.org/links.html'>Links</a></li></ul></li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>Training<span class='caret'></span></a><ul class='dropdown-menu'><li class=''><a href='https://wits.worldbank.org/training.html'>Training overview</a> </li><li class=''><a href='https://wits.worldbank.org/trainingVideos.aspx?lang=en'>Video Tutorials</a> </li><li class=''><a href='#' onclick='LauncheLearning();'>eLearning</a> </li></ul></li><li class=''><a  class='dropdown-toggle' data-toggle='dropdown'>Support Links<span class='caret'></span></a><ul class='dropdown-menu'><li><a href='https://wits.worldbank.org/didyouknow.html'>Did you know</a></li><li><a href='https://wits.worldbank.org/faqs.html'>FAQ</a></li><li><a href='http://wits.worldbank.org/data/public/WITS_User_Manual.pdf' target='_blank'>WITS manual</a></li><li><a href='https://wits.worldbank.org/wits/wits/witshelp/Welcome.htm' target='_blank'>Help</a></li><li><a href='http://wits.worldbank.org/WITS/training/player.html' target='_blank'>eLearning</a></li></ul></li></ul></nav></div></div><div id='pageHeader'><div class='row'><div id='pageTabs'><div class='tabs'><ul class='nav nav-tabs' id='switchPage'><li id='ataglance'><a title= 'Turkey exports,imports, trade and tariff indicators for latest year'  href='https://wits.worldbank.org/countrysnapshot/en/TUR'>At a Glance</a></li><li id='summary' class='active'><a href='javascript:void'>Summary</a></li><li id='partner'><a title='Turkey exports and imports by Country 2016'  href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/EXPIMP/Partner/by-country'>Partner</a></li><li id='product'><a title= 'Turkey exports and import of products by world 2016'  href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/EXPIMP/Partner/WLD/Product/All-Groups'>Product Group</a></li><li id='country'><a title= 'Turkey Trade and Development Indicators for 2016'  href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016'>Country</a></li></ul></div></div></div></div>
+"        <!-- <div id=""mainMenuWrapper"">"
+"            <div id=""mainMenu"">"
+"               <nav role=""navigation"" class=""collapse navbar-collapse bs-navbar-collapse"" id=""navList"">"
+"                  <ul class=""nav navbar-nav"">"
+"                     <li class=""""><a href=""https://wits.worldbank.org/Default.aspx"">Home</a> </li>"
+"                     <li class=""""><a href=""https://wits.worldbank.org/about_wits.html"">About WITS</a> </li>"
+"                     <li class=""active"">"
+"                         <a class=""dropdown-toggle"" data-toggle=""dropdown"">Trade Stats  <span class=""caret""></span></a>"
+"                        <ul class=""dropdown-menu"">"
+"                            <li><a href=""https://wits.worldbank.org/countrystats.aspx"">By Country</a></li>"
+"                            <li><a href=""https://wits.worldbank.org/country-indicator.aspx"">By Indicator</a></li>"
+"                            <li><a href=""https://wits.worldbank.org/trade-visualization.aspx"">Visualization</a></li>"
+"                            <li><a href=""https://wits.worldbank.org/CountryProfile/Metadata/Country/All"">Metadata</a></li>"
+"                            <li><a href=""https://wits.worldbank.org/countryprofile-dataavailability.aspx"">Data Availability</a></li>"
+"                            <li ><a href=""https://wits.worldbank.org/Help/country-summary-help.html"">Help</a></li>"
+                        </ul>
+                     </li>
+"                     <li class="""">"
+"                        <a  class=""dropdown-toggle"" data-toggle=""dropdown"">Reference<span class=""caret""></span></a>"
+"                        <ul class=""dropdown-menu"">"
+"                           <li><a href=""https://wits.worldbank.org/methodology.html"">Methodology</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/glossary.html"">Glossary</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/referencedata.html"">Reference Data</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/product_concordance.html"">Concordances</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/links.html"">Links</a></li>"
+                        </ul>
+                     </li>
+"                     <li class=""""><a href=""https://wits.worldbank.org/training.html"">Training</a> </li>"
+"                     <li class=""""><a href=""https://wits.worldbank.org/gptad.html"">GPTAD</a> </li>"
+"                     <li class="""">"
+"                        <a  class=""dropdown-toggle"" data-toggle=""dropdown"">Support Links<span class=""caret""></span></a>"
+"                        <ul class=""dropdown-menu"">"
+"                           <li><a href=""https://wits.worldbank.org/didyouknow.html"">Did you know</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/faqs.html"">FAQ</a></li>"
+"                           <li><a href=""http://wits.worldbank.org/data/public/WITS_User_Manual.pdf"" target=""_blank"">WITS manual</a></li>"
+"                           <li><a href=""https://wits.worldbank.org/WITS/WITS/WITSHELP/WITSHelp.htm"" target=""_blank"">Help</a></li>"
+"                           <li><a href=""http://wits.worldbank.org/WITS/training/player.html"" target=""_blank"">eLearning</a></li>"
+                        </ul>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+         </div>
+         
+"         <div id=""pageHeader"">"
+        
+"            <div class=""row"">"
+"               <div id=""pageTabs"">"
+"                  <div class=""tabs"">"
+"                     <ul class=""nav nav-tabs"" id=""switchPage"">"
+"                        <li><a href=""https://wits.worldbank.org/countrysnapshot/TUR"">At a Glance</a></li>"
+"                        <li class=""active""><a href=""javascript:void(0)"">Summary</a></li>"
+"                        <li><a href=""https://wits.worldbank.org/CountryProfile/Country/TUR/Year/2016/TradeFlow/Import"">Partner</a></li>"
+"                        <li><a href=""https://wits.worldbank.org/CountryProfile/Country/TUR/Year/2016/TradeFlow/Import/Partner/WLD/Product/All-Groups"">Product Group</a></li>"
+"                         <li><a href=""https://wits.worldbank.org/CountryProfile/Country/TUR/Year/2016"">Country</a></li>"
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>  -->
+"         <div id=""mainHeading"">"
+"            <div class=""pull-right"">"
+"               <div class=""btn-group pull-right"" id=""goTo"">"
+"                  <button class=""btn btn-default btn-sm dropdown-toggle"" type=""button"" data-toggle=""dropdown"">"
+"                  Go To <span class=""caret""></span>"
+                  </button>
+"                  <ul class=""dropdown-menu"">"
+"                     <li><a href=""#export"">Exports</a></li>"
+"                     <li><a href=""#import"">Imports</a></li>"
+"                     <li><a href=""#tradePer"">Trade % of GDP MRV</a></li>"
+"                     <li><a href=""#trade"">Trade</a></li>"
+"                     <li><a href=""#tradeIndicators"">Trade Indicators</a></li>"
+"                     <li><a href=""#tariffIndicators"">Tariff</a></li>"
+"                     <li><a href=""#developmentIndicators"">Developement Indicators</a></li>"
+"                     <li><a href=""#topExportWrapper"">Top Exports</a></li>"
+"                     <li><a href=""#topImportWrapper"">Top Imports</a></li>"
+"                     <li><a href=""#products"">Products</a></li>"
+                  </ul>
+               </div>
+               &nbsp; &nbsp;
+"               <div class=""btn-group pull-right phone"" id=""share"">"
+"                  <button class=""btn btn-default btn-sm dropdown-toggle"" type=""button"" data-toggle=""dropdown"""
+"                     title=""Share"">"
+"                  <span class=""glyphicon glyphicon-share""></span><span class=""text""><span id=""btnShare"">Share</span></span> <span"
+"                     class=""caret""></span>"
+                  </button>
+"                  <ul class=""shareLinkList dropdown-menu"">"
+"                     <li class=""facebook""><a title=""Facebook"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Facebook</a>
+                     </li>
+"                     <li class=""twitter""><a title=""Twitter"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Twitter</a>
+                     </li>
+"                     <li class=""linkedin""><a title=""Linkedin"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Linkedin</a>
+                     </li>
+"                     <li class=""gPlus""><a title=""Google Plus"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Google Plus</a>
+                     </li>
+"                     <li class=""reddit""><a title=""Reddit"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Reddit</a>
+                     </li>
+"                     <li class=""stumbleupon""><a title=""StumbleUpon"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Stumble Upon</a>
+                     </li>
+"                     <li class=""delicious""><a title=""Delicious"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Delicious</a>
+                     </li>
+"                     <li class=""email""><a title=""Email"" onclick=""buildShareURL();"" href=""javascript:void(0);"">"
+                        Email</a>
+                     </li>
+"		     <li class=""whatsapp""><a title=""whatsapp"" onclick=""buildShareURL();"" href=""#"">whatsapp</a></li>"
+                  </ul>
+               </div>
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+"               <button class=""btn btn-default btn-sm pull-right "" type=""button"" data-toggle=""dropdown"""
+"                  id=""customQuery"">"
+"               <span class=""glyphicon glyphicon-transfer""></span><span class=""text""><span id=""btnCustomQuery"">Custom Query</span>"
+               </span>
+               </button>
+               &nbsp; &nbsp; &nbsp; &nbsp;
+               
+"               <a class=""btn btn-default btn-sm  mR10  "" id=""bulkdownlaod"" title=""Download"" href='http://wits.worldbank.org/data/public/cp/en_TUR_allyears_wits_trade_summary.csv'>"
+"               <span class=""glyphicon glyphicon-arrow-down""></span><span class=""text""><span id=""btnDownload"">Download</span></span>"
+               </a>
+"               <button id=""Help"" class=""btn btn-default btn-sm   "" type=""button"" title=""Help"">"
+"               <span class=""glyphicon glyphicon-info-sign""></span><span class=""text""><span id=""btnHelp"">Help</span></span>"
+               </button>
+               &nbsp; &nbsp;
+            </div>
+         </div>
+      </div>
+"      <div class=""clearfix"">"
+      </div>
+"      <div id=""contentWrapper"">"
+"         <div class=""loader"">"
+"            <span id=""lblHeading""></span>"
+         </div>
+"         <div id=""pageContent"">"
+"            <div class=""tabContent"" id=""summary"">"
+"               <div class=""row"">"
+"                  <div class=""col-md-12"">"
+"                     <div class=""elements variableHeader"">"
+                        <h1> Turkey Trade Summary</h1> 2016 Data<em></em>
+"                        <p class=""normalFont"">"
+"                           Turkey <span id=""lblSubHeading"">exports", imports, tariff by year</span>. <br class='rwd-break' /><strong><span id='monthlyspan' style='font-size: 14px;'><a href='http://wits.worldbank.org/trade-data/monthlydata/en/country/TUR/year/2016/monthly' title='Turkey monthly trade data for the year 2016 '>Turkey  monthly trade data</a></span> <br class='rwd-break' /><span id='quarterlyspan' style='font-size: 14px;'><a href='http://wits.worldbank.org/trade-data/monthlydata/en/country/TUR/year/2016/quarterly' title='Turkey quarterly trade data for the year 2016 ' >Turkey  quarterly trade data</a></span></strong>
+                        </p>
+                     </div>
+"                     <div class=""clearfix"">"
+                     </div>
+"                     <div class=""variableContainer"" id=""summaryVariable"">"
+"                        <div class=""variableInnerContainer"">"
+"                           <div class=""dottedBdrBox countryBox"">"
+"                              <div class=""icon iconCountry"">"
+"                                 <span class=""glyphicon glyphicon-globe""></span>"
+                              </div>
+"                              <div class=""variable"">"
+"                                 <div class=""variableLabel"">"
+"                                   <span id=""lblCountryOrRegion"">Country / Region</span>"
+                                 </div>
+"                                 <div class=""variableValue"">"
+"                                    <span id=""countryName1"" onclick=""ShowCountryToolTip(this);"" class=""glyphicon glyphicon-eye-open ttIcon metadataMain"">"
+                                    </span>
+                                    
+                                    
+"                                    <div class=""btn-group"">"
+"                                       <input type=""hidden"" id=""url"" value=""https://wits.worldbank.org/"" />"
+"                                       <a class=""btn btn-default  btn-sm modalTrigger"""
+"                                          data-toggle=""modal"" data-target=""#changeDropdownModal"" id=""selectedCountryRegion"">"
+"                                       <span class=""text""></span><span class=""caret""></span></a>"
+                                       
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+"                           <div class=""dottedBdrBox yearBox"">"
+"                              <div class=""icon iconYear"">"
+"                                 <span class=""glyphicon glyphicon-calendar""></span>"
+                              </div>
+"                              <div class=""variable"">"
+"                                 <div class=""variableLabel"">"
+"                                    <span id=""lblYear"">Year</span>"
+                                 </div>
+"                                 <div class=""variableValue"">"
+                                    
+"                                    <div class=""btn-group"">"
+"                                       <a  class=""btn btn-default  btn-sm modalTrigger"" data-toggle=""modal"" data-target=""#changeDropdownModal"" id=""selectedYear""><span class=""text"">"
+"                                       </span><span class=""caret""></span></a>"
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+""
+""
+"                             <div class=""dottedBdrBox updateBox  dispNone""  id=""atGlanceTxt"">"
+"                           <div class=""variableValue"">"
+"                                <i> <span id=""lblAtGlancea"">For</span> <a title=""Turkey exports", imports," trade and tariff indicators for latest year"" href=""https://wits.worldbank.org/countrysnapshot/en/TUR""><span id=""lblAtGlanceb"">at a glance</span></a> <span id=""lblAtGlancec"">i.e. latest available trade", tariff," trade barriers and other trade related data</span> <a title=""Turkey exports", imports," trade and tariff indicators for latest year"" href=""https://wits.worldbank.org/countrysnapshot/en/TUR""><span id=""lblClickHere"">Click Here</span></a></i>."
+                                <br /> 
+"                                <div  style=""font-size:10px;"">"
+                                    Please note the exports," imports and tariff data are based on reported data and not gap filled. Please check the <a title=""Country Profile – Data Availability"" href=""https://wits.worldbank.org/countryprofile-dataavailability.aspx?lang=en"" > Data Availability </a> for coverage. "
+                                </div>
+                           </div>
+                           </div>
+                        </div>
+                           
+                     </div>
+                  </div>
+               </div>
+"               <div class=""row"">"
+"               <div class=""col-md-12"">"
+"                  <div class=""outerTab"">"
+                        
+"                           <ul class=""outerTabLinks list-inline list-unstyled"">"
+"                              <li  class=""active tableView""><a href=""javascript:void(0)""><span class=""icon""></span> <span id=""lblTabButtonTable"">TABLE</span></a></li>"
+                             
+"                              <li class=""textView""><a href=""https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/Summarytext""><span class=""icon""></span> <span id=""lblTabButtonText"">TEXT</span></a></li>"
+                           </ul>
+                        </div>
+               </div>
+               
+               </div>
+"               <div class=""row"">"
+"                  <div class=""col-md-3"" id=""leftCol"">"
+"                     <div class=""row"">"
+"                        <div class=""col-md-6"" id=""export"">"
+                           <section>
+                              <h4>
+"                                 <span id=""lblImportorExport"">Imports/Exports</span>"
+                              </h4>
+"                              <div class=""content"">"
+"                                 <div id=""exportChart"">"
+                                 </div>
+                              </div>
+                           </section>
+                        </div>
+"                        <div class=""col-md-6"" id=""tradePer"">"
+                           <section>
+"                              <h4><span id=""lblProducts"">Products</span></h4>"
+"                              <div class=""content"">"
+"                                 <div id=""Errmsg""></div>"
+"                                 <div id=""jqxtradePerChart""></div>"
+                              </div>
+                           </section>
+                        </div>
+                     </div>
+                  </div>
+"                  <div class=""col-md-9 posRelative"" id=""rightCol"">"
+                  
+                     <section>
+"                        <h2 class=""sectionHeading""><span id=""lblHeadingTwo"">TRADE SUMMARY FOR</span> Turkey</h2>"
+"                        <div class=""clearfix""></div>"
+"                        <div class=""content"">"
+"                           <div class=""row"">"
+"                              <div class=""col-md-6"">"
+"                                 <div class=""tabbedBox"">"
+"                                    <div class=""boxHeading"">"
+"                                       <h3 class=""headingUnstyled"">"
+"                                          <span id=""lblSectionTwoSub1Heading"">Overall Exports and Imports</span> "
+                                       </h3>
+                                    </div>
+"                                    <div class=""tab-content"">"
+"                                       <div class=""tab-pane active"">"
+"                                          <div class=""row"">"
+                                             <div class='col-md-6' id='colExport'>  <div class='table-responsive'><table class='table  table-striped'><tr><td  class='labels alignLeft'>Exports</td><td class='data alignRight'><a class='pull-right more' href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/Export/Show/NMBR-XPRT-HS6-PRDCT;XPRT-TRD-VL;XPRT-PRTNR-SHR;/Sort/Export (US$ Thousand)' title='Turkey Exports by Country and Region in 2016'>more &raquo;</a></td></tr><tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Total Import/Export Value in thousands of US Dollars current value.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> US Dollar - Current value</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/indicator/XPRT-TRD-VL title='Turkey  Exports (in US$ Mil) between 2013 and 2017'> Exports (in US$ Mil)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Exports compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>142,530</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Total number of products exported by a country at the Harmonized System six digit level in any given year.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1)  All traded products at HS 6 digits are considered for this computation.  </td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NMBR-PRDCT-XPRTD title='Turkey number of products exported between 2013 and 2017'> No. Of products</a>:  </td><td class='data alignRight'>4,293</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Number of countries to whom a particular country exports data in any given year.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Product 'Total' is used for this computation. </td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NMBR-XPRT-PRTNR title='Turkey number of export partners between 2013 and 2017'> No. Of partners</a>:  </td><td class='data alignRight'>220</a></td></tr> </table></div></div><div class='col-md-6' id='colImport'><div class='table-responsive'><table class='table  table-striped'><tr><td class='labels alignLeft'>Imports</td><td><a class='pull-right more' href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/Import/Show/NMBR-MPRT-HS6-PRDCT;MPRT-TRD-VL;MPRT-PRTNR-SHR;/Sort/Import (US$ Thousand)'  title='Turkey Imports by Country and Region in 2016' >more &raquo;</a></td></tr><tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Total Import/Export Value in thousands of US Dollars current value.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> US Dollar - Current value</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/indicator/MPRT-TRD-VL title='Turkey  Imports (in US$ Mil) between 2013 and 2017'> Imports (in US$ Mil)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Imports compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>198,618</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Total number of products imported by a country at the Harmonized System (HS) six digit level in any given year.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1)  All traded products at HS 6 digits are considered for this computation.  </td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/indicator/NMBR-PRDCT-MPRTD title='Turkey number of products imported between 2013 and 2017'> No. Of products</a>:  </td><td class='data alignRight'>4,354</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Number of countries from which a particular country imports data in any given year.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Product 'Total' is used for this computation.  </td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NMBR-MPRT-PRTNR title='Turkey number of import partners between 2013 and 2017'> No. Of partners</a>:  </td><td class='data alignRight'>215</a></td></tr>  </table></div></div>
+                                          
+                                           
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+""
+"                                 <div class=""col-md-6 dottedBdr"">"
+"                                                <div class=""tabbedBox"">"
+"                                                   <div class=""boxHeading"">"
+"                                                      <h3 class=""headingUnstyled"">"
+"                                                        <span id=""lblSectionTwoSub2Heading"">Top 5 Products exports imports at HS 6 digit level</span>                                  "
+                                                      </h3>
+                                                    
+                                                   </div>
+"                                                   <div class=""tab-content"">"
+"                                                      <div class=""tab-pane active"">"
+"                                                         <div class=""row"">"
+"                                                            <div class=""col-md-6"">"
+"                                                               <div class=""table-responsive"">"
+"                                                                  <table class=""table  table-striped"">"
+                                                                   
+                                                                     <tbody>
+"                                                                       <tr> <th class=""labels alignLeft""><span id=""lblSectionTwoSub2HeadingInner1Txt"">Exports (US$ Thousands)</span>"
+                                                                        </th>
+"                                                                        <th class=""alignRight"">&nbsp;"
+"                                                                          <!-- <a class=""pull-right more"" href=""javascript:navigate2Data('http://localhost:56397/CountryProfile/Country/USA/Year/2012/TradeFlow/Export'","'export')"">"
+                                                                              more »</a>-->
+                                                                        </th></tr>
+                                                                     
+                                                                    <tr><td class='labels alignLeft' title='Gold in unwrought forms non-monetary'> <div class='metaData' id='0'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 710812</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Gold in unwrought forms non-monetary</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Gold in unwrought fo ...</td><td class='alignRight'>8,248,518.45</td></tr><tr><td class='labels alignLeft' title='Diesel powered trucks with a GVW not exceeding'> <div class='metaData' id='1'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 870421</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Diesel powered trucks with a GVW not exceeding</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Diesel powered truck ...</td><td class='alignRight'>4,131,729.27</td></tr><tr><td class='labels alignLeft' title='Art. of jewellery and pts thereof of/o prec mtl'> <div class='metaData' id='2'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 711319</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Art. of jewellery and pts thereof of/o prec mtl</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Art. of jewellery an ...</td><td class='alignRight'>3,676,266.89</td></tr><tr><td class='labels alignLeft' title='Petroleum oils, etc, (excl. crude); preparation'> <div class='metaData' id='3'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 271000</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Petroleum oils, etc, (excl. crude); preparation</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Petroleum oils, etc, ...</td><td class='alignRight'>2,788,401.12</td></tr><tr><td class='labels alignLeft' title='Automobiles with reciprocating piston engine di'> <div class='metaData' id='4'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 870322</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Automobiles with reciprocating piston engine di</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Automobiles with rec ...</td><td class='alignRight'>2,649,847.53</td></tr> 
+                                                                     </tbody>
+                                                                  </table>
+                                                               </div>
+                                                            </div>
+"                                                            <div class=""col-md-6"">"
+"                                                               <div class=""table-responsive"">"
+"                                                                  <table class=""table  table-striped"">"
+                                                                   
+                                                                     <tbody>
+                                                                     <tr>
+"                                                                           <th class=""labels alignLeft""><span id=""lblSectionTwoSub2HeadingInner2Txt"">Imports  (US$ Thousands)</span>"
+                                                                           </th>
+"                                                                           <th class=""alignRight"">"
+"                                                                            <!--  <a class=""pull-right more"" href=""javascript:navigate2Data('http://localhost:56397/CountryProfile/Country/USA/Year/2012/TradeFlow/Export'","'export')"">"
+                                                                                 more »</a> -->
+                                                                           </th>
+                                                                        </tr>
+                                                                    <!-- <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span4""></span> Label7"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value7</a>"
+                                                                     </td>
+                                                                     </tr>
+                                                                     <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span5""></span> Label8"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value8</a>"
+                                                                     </td>
+                                                                     </tr>
+                                                                     <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span6""></span> Label9"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value9</a>"
+                                                                     </td>
+                                                                     </tr>
+                                                                     <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span10""></span> Label10"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value10</a>"
+                                                                     </td>
+                                                                     </tr>
+                                                                     <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span11""></span> Label1"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value11</a>"
+                                                                     </td>
+                                                                     </tr>
+                                                                     <tr>
+"                                                                     <td class=""labels alignLeft""><span class=""metaData ttIcon"" onclick=""showToolTip(this);"" id=""Span12""></span> Label2"
+                                                                     </td>
+"                                                                     <td class=""alignRight""><a href=""#"" onclick=""exportCellClick(1","'TradeUS$Mil')"">Value12</a>"
+                                                                     </td>
+                                                                     </tr>-->
+                                                                     <tr><td class='labels alignLeft' title='Petroleum oils, etc, (excl. crude); preparation'> <div class='metaData' id='E0'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 271000</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Petroleum oils, etc, (excl. crude); preparation</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Petroleum oils, etc, ...</td><td class='alignRight'>7,342,817.68</td></tr><tr><td class='labels alignLeft' title='Gold in unwrought forms non-monetary'> <div class='metaData' id='E1'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 710812</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Gold in unwrought forms non-monetary</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Gold in unwrought fo ...</td><td class='alignRight'>6,456,907.96</td></tr><tr><td class='labels alignLeft' title='Automobiles with diesel engine displacing more'> <div class='metaData' id='E2'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 870332</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Automobiles with diesel engine displacing more</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Automobiles with die ...</td><td class='alignRight'>4,342,837.04</td></tr><tr><td class='labels alignLeft' title='Ferrous waste and scrap, iron or steel, nes'> <div class='metaData' id='E3'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 720449</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Ferrous waste and scrap, iron or steel, nes</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Ferrous waste and sc ...</td><td class='alignRight'>3,904,385.75</td></tr><tr><td class='labels alignLeft' title='Aircraft nes of an unladen weight exceeding 15,'> <div class='metaData' id='E4'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Product Code </td><td class='alignLeft data'> 880240</td> </tr><tr><td class='alignLeft labels'> Product Name </td><td class='alignLeft data'>Aircraft nes of an unladen weight exceeding 15,</td> </tr><tr><td class='alignLeft labels'> Data Source </td><td class='alignLeft data'>UN Comtrade</td> </tr></table></div></div> </div>Aircraft nes of an u ...</td><td class='alignRight'>3,614,883.76</td></tr> 
+                                                                     </tbody>
+                                                                  </table>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                           </div>
+                           <br />
+"                           <div class=""row"">"
+"                              <div class=""col-md-12"">"
+"                                 <div class=""tabbedBox"">"
+"                                    <div class=""boxHeading"">"
+"                                       <h3 class=""headingUnstyled"">"
+"                                         <span id=""lblSectionTwoSub3Heading"">Top 5 Export and Import partners</span>"
+                                       </h3>
+                                    </div>
+"                                    <div class=""tab-content"">"
+"                                       <div class=""tab-pane active"">"
+"                                          <div class=""row"">"
+"                                             <div class=""col-md-6"">"
+"                                                <div class=""table-responsive"">"
+"                                                   <table class=""table  table-striped"">"
+                                                      <thead>
+                                                         <tr>
+"                                                            <th class='labels alignLeft'><span id=""lblSectionTwoSub3HeadingInner1Txt"">Market</span>"
+                                                            </th>
+"                                                            <th class=""alignRight""><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showTextviewToolTip(this);' id='I-importusmil'></span><span><span id=""ReslblSectionTwoSub3HeadingInner2Txt"">Trade (US$ Mil)</span></span>"
+                                                            </th>
+"                                                            <th class=""alignRight""><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showTextviewToolTip(this);' id='I-importpartnershare'></span><span><span id=""lblSectionTwoSub3HeadingInner3Txt"">Partner share(%)</span></span>"
+                                                            </th>
+                                                         </tr>
+                                                      </thead>
+                                                      <tbody>
+                                                         
+                                                         <tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='E-Germany'></span>Germany</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/DEU/Product/All-Groups title='Turkey exports to Germany between 2013 and 2017'>13,999</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/country/DEU/show/line' title = ' Compare Turkey and Germany exports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/DEU/Indicator/XPRT-PRTNR-SHR title='Turkey Export Partner Share (%) with Germany between 2013 and 2017'>9.82</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='E-UnitedKingdom'></span>United Kingdom</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/GBR/Product/All-Groups title='Turkey exports to United Kingdom between 2013 and 2017'>11,686</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/country/GBR/show/line' title = ' Compare Turkey and United Kingdom exports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/GBR/Indicator/XPRT-PRTNR-SHR title='Turkey Export Partner Share (%) with United Kingdom between 2013 and 2017'>8.20</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='E-Iraq'></span>Iraq</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/IRQ/Product/All-Groups title='Turkey exports to Iraq between 2013 and 2017'>7,637</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/country/IRQ/show/line' title = ' Compare Turkey and Iraq exports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/IRQ/Indicator/XPRT-PRTNR-SHR title='Turkey Export Partner Share (%) with Iraq between 2013 and 2017'>5.36</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='E-Italy'></span>Italy</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/ITA/Product/All-Groups title='Turkey exports to Italy between 2013 and 2017'>7,581</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/country/ITA/show/line' title = ' Compare Turkey and Italy exports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/ITA/Indicator/XPRT-PRTNR-SHR title='Turkey Export Partner Share (%) with Italy between 2013 and 2017'>5.32</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='E-UnitedStates'></span>United States</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/USA/Product/All-Groups title='Turkey exports to United States between 2013 and 2017'>6,624</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/Total/country/USA/show/line' title = ' Compare Turkey and United States exports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/USA/Indicator/XPRT-PRTNR-SHR title='Turkey Export Partner Share (%) with United States between 2013 and 2017'>4.65</a></td></tr>
+                                                      </tbody>
+                                                   </table>
+                                                </div>
+                                             </div>
+"                                             <div class=""col-md-6 dottedBdr"">"
+"                                                <div class=""table-responsive"">"
+"                                                   <table class=""table  table-striped"">"
+                                                      <thead>
+                                                         <tr>
+"                                                            <th><span id=""lblSectionTwoSub3HeadingInner4Txt"">Exporter</span>"
+                                                            </th>
+"                                                            <th class=""alignRight""><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showTextviewToolTip(this);' id='E-exportusmil'></span><span><span id=""lblSectionTwoSub3HeadingInner2Txt1"">Trade (US$ Mil)</span></span>"
+                                                            </th>
+"                                                            <th class=""alignRight""><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showTextviewToolTip(this);' id='E-exportpartnershare'></span><span><span id=""lblSectionTwoSub3HeadingInner3Txt2"">Partner share(%)</span></span>"
+                                                            </th>
+                                                         </tr>
+                                                      </thead>
+                                                      <tbody>
+                                                         
+                                                         <tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-China'></span>China</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/CHN/Product/All-Groups title=' Turkey imports from China between 2013 and 2017'>25,441</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/country/CHN/show/line' title = 'Compare Turkey and China imports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/CHN/Indicator/MPRT-PRTNR-SHR title='Turkey Import Partner Share (%) with China between 2013 and 2017'>12.81</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Germany'></span>Germany</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/DEU/Product/All-Groups title=' Turkey imports from Germany between 2013 and 2017'>21,475</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/country/DEU/show/line' title = 'Compare Turkey and Germany imports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/DEU/Indicator/MPRT-PRTNR-SHR title='Turkey Import Partner Share (%) with Germany between 2013 and 2017'>10.81</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-RussianFederation'></span>Russian Federation</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/RUS/Product/All-Groups title=' Turkey imports from Russian Federation between 2013 and 2017'>15,162</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/country/RUS/show/line' title = 'Compare Turkey and Russian Federation imports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/RUS/Indicator/MPRT-PRTNR-SHR title='Turkey Import Partner Share (%) with Russian Federation between 2013 and 2017'>7.63</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-UnitedStates'></span>United States</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/USA/Product/All-Groups title=' Turkey imports from United States between 2013 and 2017'>10,868</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/country/USA/show/line' title = 'Compare Turkey and United States imports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/USA/Indicator/MPRT-PRTNR-SHR title='Turkey Import Partner Share (%) with United States between 2013 and 2017'>5.47</a></td></tr><tr><td class='labels alignLeft'> <span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Italy'></span>Italy</td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/ITA/Product/All-Groups title=' Turkey imports from Italy between 2013 and 2017'>10,218</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/Total/country/ITA/show/line' title = 'Compare Turkey and Italy imports'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/ITA/Indicator/MPRT-PRTNR-SHR title='Turkey Import Partner Share (%) with Italy between 2013 and 2017'>5.14</a></td></tr>
+                                                      </tbody>
+                                                   </table>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+"                                    <div class=""clearfix"">"
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <br />
+"                           <div class=""row"">"
+"                              <div class=""col-md-12"">"
+"                                 <div class=""tabbedBox"">"
+"                                    <div class=""boxHeading"">"
+"                                       <h3 class=""headingUnstyled"">"
+"                                          <span id=""lblSectionTwoSub4Heading"">Exports and Imports of Product Groups</span>"
+                                       </h3>
+                                    </div>
+"                                    <div class=""tab-content"">"
+"                                       <div class=""tab-pane active"">"
+"                                          <div class=""table-responsive"">"
+"                                             <table class=""table  table-striped"" id=""productSummary"">"
+                                                <thead>
+"                                                   <tr class=""header"">"
+"                                                      <th class=""alignLeft alignMiddle"" rowspan=""2""><span id=""lblSectionTwoSub4HeadingInner2Txt"">Product Categories</span></th>"
+"                                                      <th class=""alignCenter"" colspan=""2""><span id=""lblExports"">Exports</span></th>"
+                                                      <th class='separator'></th>
+                                                      <th class='separator dottedBdr'></th>
+"                                                      <th class=""alignCenter"" colspan=""3""><span id=""lblImports"">Imports</span></th>"
+                                                   </tr>
+"                                                   <tr class=""header"">"
+"                                                      <th class=""alignRight""><span> <span id=""lblSectionTwoSub4HeadingInner3Txt"">Export(US$ Mil)</span></span><span class=""glyphicon glyphicon-eye-open ttIcon"" onclick=""showToolTip(this);"" id=""0-ExportUSMil""></span></th>"
+"                                                      <th class=""alignRight""><span> <span id=""lblSectionTwoSub4HeadingInner4Txt"">Product share(%)</span></span><span class=""glyphicon glyphicon-eye-open ttIcon"" onclick=""showToolTip(this);"" id=""1-Productshare""></span></th>"
+                                                      <th class='separator'></th>
+                                                      <th class='separator dottedBdr'></th>
+"                                                      <th class=""alignRight""><span> <span id=""lblSectionTwoSub4HeadingInner5Txt"">Import(US$ Mil)</span></span><span class=""glyphicon glyphicon-eye-open ttIcon"" onclick=""showToolTip(this);"" id=""2-ImportUSMil""></span></th>"
+"                                                      <th class=""alignRight""><span> <span id=""SectionTwoSub4HeadingInner6Txt"">Prod share(%)</span></span><span class=""glyphicon glyphicon-eye-open ttIcon"" onclick=""showToolTip(this);"" id=""3-Prodshare""></span></th>"
+"                                                      <th class=""alignRight""><span> <span id=""lblSectionTwoSub4HeadingInner7Txt"">Weighted Average (%)</span></span><span class=""glyphicon glyphicon-eye-open ttIcon"" onclick=""showToolTip(this);"" id=""4-WeightedAverage""></span></th>"
+                                                   </tr>
+"                                                   <tr class=""spacer"">"
+"                                                      <td colspan=""6""></td>"
+                                                   </tr>
+                                                </thead>
+                                                <tbody>
+                                                   
+                                                   <tr><td class='labels alignLeft'><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Rawmaterials'></span>Raw materials</td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/Endyear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Export (US$ Thousand) of Products by Stages of Processing to World between 2013 and 2017'>9,847</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP1/region/ECS/show/line' title = 'Compare Turkey Raw materials Exports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Export Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>6.91</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP1/region/ECS/show/line' title = 'Compare Turkey Raw materials Exports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='separator'></td><td class='separator dottedBdr'></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Import (US$ Thousand) of Products by Stages of Processing from World between 2013 and 2017'>15,689</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP1/region/ECS/show/line' title = 'Compare Turkey Raw materials Imports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Import Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>7.90</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP1/region/ECS/show/line' title = 'Compare Turkey Raw materials Imports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/AHS-WGHTD-AVRG/Partner/WLD/Product/stages-of-processing title='Turkey AHS Weighted Average (%) of Products by Stages of Processing with World between 2013 and 2017'>5.42</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-WGHTD-AVRG/partner/WLD/product/UNCTAD-SoP1/region/ECS/show/line' title = 'Compare Turkey Raw materials AHS Weighted Average with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td></tr><tr><td class='labels alignLeft'><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Intermediategoods'></span>Intermediate goods</td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/Endyear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Export (US$ Thousand) of Products by Stages of Processing to World between 2013 and 2017'>36,521</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP2/region/ECS/show/line' title = 'Compare Turkey Intermediate goods Exports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Export Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>25.62</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP2/region/ECS/show/line' title = 'Compare Turkey Intermediate goods Exports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='separator'></td><td class='separator dottedBdr'></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Import (US$ Thousand) of Products by Stages of Processing from World between 2013 and 2017'>60,157</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP2/region/ECS/show/line' title = 'Compare Turkey Intermediate goods Imports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Import Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>30.29</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP2/region/ECS/show/line' title = 'Compare Turkey Intermediate goods Imports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/AHS-WGHTD-AVRG/Partner/WLD/Product/stages-of-processing title='Turkey AHS Weighted Average (%) of Products by Stages of Processing with World between 2013 and 2017'>2.25</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-WGHTD-AVRG/partner/WLD/product/UNCTAD-SoP2/region/ECS/show/line' title = 'Compare Turkey Intermediate goods AHS Weighted Average with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td></tr><tr><td class='labels alignLeft'><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Consumergoods'></span>Consumer goods</td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/Endyear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Export (US$ Thousand) of Products by Stages of Processing to World between 2013 and 2017'>66,216</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP3/region/ECS/show/line' title = 'Compare Turkey Consumer goods Exports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Export Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>46.46</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP3/region/ECS/show/line' title = 'Compare Turkey Consumer goods Exports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='separator'></td><td class='separator dottedBdr'></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Import (US$ Thousand) of Products by Stages of Processing from World between 2013 and 2017'>45,421</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP3/region/ECS/show/line' title = 'Compare Turkey Consumer goods Imports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Import Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>22.87</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP3/region/ECS/show/line' title = 'Compare Turkey Consumer goods Imports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/AHS-WGHTD-AVRG/Partner/WLD/Product/stages-of-processing title='Turkey AHS Weighted Average (%) of Products by Stages of Processing with World between 2013 and 2017'>2.48</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-WGHTD-AVRG/partner/WLD/product/UNCTAD-SoP3/region/ECS/show/line' title = 'Compare Turkey Consumer goods AHS Weighted Average with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td></tr><tr><td class='labels alignLeft'><span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='I-Capitalgoods'></span>Capital goods</td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/Endyear/2017/TradeFlow/Export/Indicator/XPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Export (US$ Thousand) of Products by Stages of Processing to World between 2013 and 2017'>28,102</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP4/region/ECS/show/line' title = 'Compare Turkey Capital goods Exports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Indicator/XPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Export Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>19.72</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/XPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP4/region/ECS/show/line' title = 'Compare Turkey Capital goods Exports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='separator'></td><td class='separator dottedBdr'></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-TRD-VL/Partner/WLD/Product/stages-of-processing title='Turkey Import (US$ Thousand) of Products by Stages of Processing from World between 2013 and 2017'>60,999</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-TRD-VL/partner/WLD/product/UNCTAD-SoP4/region/ECS/show/line' title = 'Compare Turkey Capital goods Imports with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/MPRT-PRDCT-SHR/Partner/WLD/Product/stages-of-processing title='Turkey Import Product Share (%) of Products by Stages of Processing with World between 2013 and 2017'>30.71</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/MPRT-PRDCT-SHR/partner/WLD/product/UNCTAD-SoP4/region/ECS/show/line' title = 'Compare Turkey Capital goods Imports product share with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td><td class='data alignRight'><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Indicator/AHS-WGHTD-AVRG/Partner/WLD/Product/stages-of-processing title='Turkey AHS Weighted Average (%) of Products by Stages of Processing with World between 2013 and 2017'>0.38</a>  <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-WGHTD-AVRG/partner/WLD/product/UNCTAD-SoP4/region/ECS/show/line' title = 'Compare Turkey Capital goods AHS Weighted Average with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a></td></tr>
+                                                </tbody>
+                                             </table>
+                                          </div>
+                                       </div>
+                                    </div>
+"                                    <div class=""clearfix"">"
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <br />
+"                           <div class=""row"" id=""tradeInfo1"">"
+                              <div class='col-md-4'><div class='tabbedBox' id='Section3'><div class='boxHeading'><h3 class='headingUnstyled'>Trade Indicators</h3><a href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/Export/Partner/WLD/Product/All-Groups/Show/RCA;WRLD-GRWTH;CNTRY-GRWTH;/Sort/Product%20Group' class='pull-right more' title='Turkey trade indicators for 2016'>more &raquo;</a></div><div class='colExport'><div class='tab-content'><div class='tab-pane active'><div class='table-responsive'><table class='table  table-striped'><tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Hirschman Herfindahl index  is a measure of the dispersion of trade value across an exporter’s partners. A country with trade (export or import) that is concentrated in a very few markets will have an index value close to 1. Similarly, a country with a perfectly diversified trade portfolio will have an index close to zero. </td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> </td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Mirror Exports is considered for export data  2) All Countries except World and EUN are considered as partner group 3) Product 'Total' is used for this computation 4) The indicator is computed at reporter-partner level and aggregated to reporter level</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/HH-MKT-CNCNTRTN-NDX title='Turkey  HH Market concentration index between 2013 and 2017'> HH Market concentration index</a>:  </td><td class='data alignRight'>0.04</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>   It is calculated as the number of countries to which the reporter exports a particular product divided by the number of countries that report importing the product that year. </td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> </td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Mirror Exports is considered for export data 2) All products at HS 6 digits are considered 3) Computation is performed at Country-Product level and aggregated to country level</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/indicator/NDX-XPRT-MKT-PNRTTN title='Turkey  Index of export market penetration between 2013 and 2017'> Index of export market penetration</a>:  </td><td class='data alignRight'>23.36</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Annual percentage growth rate of the world’s trade value (export or import), by sector, at market prices in current U.S. dollars</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> </td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Mirror Exports is considered 2)Growth for a given year is computed with respect to the previous year</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/wld/Product/All-Groups/indicator/WRLD-GRWTH title='Turkey  World Growth between 2013 and 2017'> World Growth</a>:  </td><td class='data alignRight'>-1.59</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Annual percentage growth rate of the country’s trade value (export or import), by sector, at market prices in current U.S. dollars </td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNSD Comtrade</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, SITC Revision 2</td> </tr><tr><td class='alignLeft labels'> Valuation </td><td class='alignLeft data'>  Export - FOB; Import - CIF</td> </tr><tr><td class='alignLeft labels'> Currency Unit </td><td class='alignLeft data'> </td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Mirror Exports is considered 2)Growth for a given year is computed with respect to the previous year</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Export/Partner/wld/Product/All-Groups/indicator/CNTRY-GRWTH title='Turkey  Country Growth between 2013 and 2017'> Country Growth</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/CNTRY-GRWTH/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Country Growth compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>0.61</a></td></tr> </table></div></div></div></div></div></div><div class='col-md-4'><div class='tabbedBox' id='Section4'><div class='boxHeading'><h3 class='headingUnstyled'>Tariffs</h3><a href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/TradeFlow/Import/Partner/WLD/Product/All-Groups/Show/AHS-SMPL-AVRG;AHS-WGHTD-AVRG;AHS-TTL-TRFF-LNS;AHS-DTBL-TRFF-LNS-SHR;AHS-DTY-FR-TRFF-LNS-SHR;AHS-SPCFC-TRFF-LNS-SHR;AHS-AVE-TRFF-LN-SHR;AHS-MXMM-RT;AHS-MNMM-RATE;/Sort/Product%20Group' class='pull-right more' title='Turkey tariff indicators for 2016' >more &raquo;</a></div><div class='colExport'><div class='tab-content'><div class='tab-pane active'><div class='table-responsive'><table class='table  table-striped'><tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  </td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/indicator/TRF-NMBR-AGGRMNT title='Turkey  No Of Tariff Agreement between 2013 and 2017'> No Of Tariff Agreement</a>:  </td><td class='data alignRight'>25</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Effectively Applied MaxRate (%) tariff; The highest tariff value at the tariff line level within the product category</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  Specific duty expressions are estimated using UNCTAD Method (If available)</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/wld/Product/All-Groups/indicator/AHS-MXMM-RT title='Turkey  Maximum Rate (%) between 2013 and 2017'> Maximum Rate (%)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-MXMM-RT/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Maximum Rate compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>225</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Effectively Applied Simple Average tariff (%)</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  Specific duty expressions are estimated using UNCTAD Method (If available)</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/wld/Product/All-Groups/indicator/AHS-SMPL-AVRG title='Turkey  Simple Average (%) between 2013 and 2017'> Simple Average (%)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-SMPL-AVRG/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Simple Average compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>2.45</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Effectively Applied Weighted Average (%) tariff; The average of tariffs weighted by their corresponding trade value</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  Specific duty expressions are estimated using UNCTAD Method (If available)</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/wld/Product/All-Groups/indicator/AHS-WGHTD-AVRG title='Turkey  Weighted Average (%) between 2013 and 2017'> Weighted Average (%)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-WGHTD-AVRG/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Weighted Average compared with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>2.74</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Effectively Applied Duty Free Imports in thousands of US Dollar</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  Specific duty expressions are estimated using UNCTAD Method (If available)</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/wld/Product/All-Groups/indicator/AHS-DTY-FR-MPRTs title='Turkey  Duty Free Imports (US$ Thousand) between 2013 and 2017'> Duty Free Imports (US$ Thousand)</a>:  </td><td class='data alignRight'>139,247,058.89</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Effectively Applied Duty Free Tariff  Lines Share in percentage</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - UNCTAD TRAINS</td> </tr><tr><td class='alignLeft labels'> Classification </td><td class='alignLeft data'>  Harmonized System 1988/92, HS 1996, HS 2002, HS 2007, HS 2012</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'>  1) Tariff_AHS_DutyFreeLines]*100/[Tariff_AHS_TotalLines] 2) Specific duty expressions are estimated using UNCTAD Method (If available)</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Dec-28-2018</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/TradeFlow/Import/Partner/wld/Product/All-Groups/indicator/AHS-DTY-FR-TRFF-LNS-SHR title='Turkey  Duty Free Tariff Lines Share (%) between 2013 and 2017'> Duty Free Tariff Lines Share (%)</a>: <a href='https://wits.worldbank.org/CountryProfile/en/Compare/Country/TUR/Indicator/AHS-DTY-FR-TRFF-LNS-SHR/partner/WLD/product/Total/region/ECS/show/line' title = 'Turkey Duty Free Tariff Lines Share compare with Europe & Central Asia'><img style='imgcompare' id='imgcompare' style='width:16  !important;height:16  !important; ' src='https://wits.worldbank.org/images/tiny-icon-2.png' height='16' width='16' /></a> </td><td class='data alignRight'>76.22</a></td></tr> </table></div></div></div></div></div></div><div class='col-md-4'><div class='tabbedBox' id='Section5'><div class='boxHeading'><h3 class='headingUnstyled'>Development Indicators</h3><a href='https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016' class='pull-right more' title='Turkey development indicators for 2016' > more &raquo;</a></div><div class='colExport'><div class='tab-content'><div class='tab-pane active'><div class='table-responsive'><table class='table  table-striped'><tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WDI</td> </tr><tr><td class='alignLeft labels'> Topic </td><td class='alignLeft data'> Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NY-GDP-MKTP-CD title='Turkey  GDP (current US$) between 2013 and 2017'> GDP (current US$)</a>:  </td><td class='data alignRight'>863,722</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  GNI per capita (formerly GNP per capita) is the gross national income, converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad. GNI, calculated in national currency, is usually converted to U.S. dollars at official exchange rates for comparisons across economies, although an alternative rate is used when the official exchange rate is judged to diverge by an exceptionally large margin from the rate actually applied in international transactions. To smooth fluctuations in prices and exchange rates, a special Atlas method of conversion is used by the World Bank. This applies a conversion factor that averages the exchange rate for a given year and the two preceding years, adjusted for differences in rates of inflation between the country, and through 2000, the G-5 countries (France, Germany, Japan, the United Kingdom, and the United States). From 2001, these countries include the Euro area, Japan, the United Kingdom, and the United States.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WDI</td> </tr><tr><td class='alignLeft labels'> Topic </td><td class='alignLeft data'> Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NY-GNP-PCAP-CD title='Turkey  GNI per capita, Atlas method (current US$) between 2013 and 2017'> GNI per capita, Atlas method (current US$)</a>:  </td><td class='data alignRight'>11,230.00</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Difference between Exports of goods and services (% of GDP) and Imports of goods and services (% of GDP)</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - WDI</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'> Indicator codes: NE.EXP.GNFS.ZS, NE.IMP.GNFS.ZS</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div>Trade Balance (% of GDP): </td><td class='data alignRight'>-2.89</td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Difference between Exports of goods and services (current US$) and Imports of goods and services (current US$)</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WITS - WDI</td> </tr><tr><td class='alignLeft labels'> Notes </td><td class='alignLeft data'> Indicator codes: NE.EXP.GNFS.CD, NE.IMP.GNFS.CD</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div>Trade Balance (current US$ Mil): </td><td class='data alignRight'>-24,923.00</td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Trade in services is the sum of service exports and imports divided by the value of GDP, all in current U.S. dollars.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WDI</td> </tr><tr><td class='alignLeft labels'> Topic </td><td class='alignLeft data'> Economic Policy & Debt: Balance of payments: Current account: Goods, services & income</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/BG-GSR-NFSV-GD-ZS title='Turkey  Trade in services (% of GDP) between 2013 and 2017'> Trade in services (% of GDP)</a>:  </td><td class='data alignRight'>6.99</a></td></tr> <tr><td class='labels alignLeft'> <div class='metaData'><a href='javascript:void(0)' data-toggle='popover' title='' data-content='' class='viewMetadata'><span class='glyphicon glyphicon-eye-open'></span></a><div class='metaDataContent'><div class='close'><a href='javascript:void(0)' onclick='closeToolTip();'><span class='glyphicon glyphicon-remove-circle'></span></a></div><div class='toolTipBody'><table class='table'><tr><td class='alignLeft labels'> Definition </td><td class='alignLeft data'>  Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product.</td> </tr><tr><td class='alignLeft labels'> Source </td><td class='alignLeft data'>  WDI</td> </tr><tr><td class='alignLeft labels'> Topic </td><td class='alignLeft data'> Economic Policy & Debt: National accounts: Shares of GDP & other</td> </tr><tr><td class='alignLeft labels'> Last Updated </td><td class='alignLeft data'>  Feb-11-2019</td> </tr> </table></div></div> </div><a href=https://wits.worldbank.org/CountryProfile/en/Country/TUR/StartYear/2013/EndYear/2017/Indicator/NE-TRD-GNFS-ZS title='Turkey  Trade (% of GDP) between 2013 and 2017'> Trade (% of GDP)</a>:  </td><td class='data alignRight'>46.82</a></td></tr> </table></div></div></div></div></div></div>
+                           </div>
+                        </div>
+                     </section>
+                  </div>
+"                  <div class=""curtain"">"
+                  </div>
+               </div>
+            </div>
+         </div>
+"         <footer id=""footerStrip"">"
+"            <ul class=""list-inline"" id=""footerLinks"">"
+"               <li><a href=""https://wits.worldbank.org/about_wits.html""><span id=""lblAbout"">About</span> </a></li>"
+"               <li class=""divider"">.</li>"
+"               <li><a href=""https://wits.worldbank.org/contactwits.html""><span id=""lblContact"">Contact</span> </a></li>"
+"               <li  class=""divider"">.</li>"
+"               <li><a href=""https://wits.worldbank.org/faqs.html#Databases""><span id=""lblUsageConditions"">Usage Conditions</span></a></li>"
+"               <li  class=""divider"">.</li>"
+"               <li><a href=""http://go.worldbank.org/OS6V7NIUD0"" target=""_blank""><span id=""lblLegal"">Legal</span></a></li>"
+"               <li  class=""divider"">.</li>"
+"                <li><a href=""https://wits.worldbank.org/dataproviders.html""><span id=""lblDataPRoviders"">Data Providers</span></a></li>"
+"                <li class=""divider"">.</li>"
+"                   <li id=""Pagerefresh""><span id=""lblPageRefreshed"">Page refreshed</span> : Aug-22-2019 14:10 ET</li>"
+            </ul>
+"            <ul class=""list-inline"" id=""orgPartners"">"
+"               <span id=""lblPartners"">Partners</span>"
+"               <li id=""itcsmalllogo""><a href=""http://www.intracen.org/"" title=""International Trade Center"" target=""blank"">ITC</a></li>"
+"               <li  class=""divider"">.</li>"
+"               <li id=""unctad""><a href=""http://unctad.org/en/Pages/Home.aspx"" title=""United Nations Conference on Trade and Development "" target=""blank"">UNCTAD</a></li>"
+"               <li  class=""divider"">.</li>"
+"               <li id=""unstats""><a href=""http://unstats.un.org/unsd/default.htm"" title=""United Nations Statistical Commission"" target=""blank"">UNSTATS</a></li>"
+"               <li  class=""divider"">.</li>"
+"               <li id=""wto""><a href=""http://www.wto.org/"" title=""World Trade Organization"" target=""blank"">World Trade Organization</a></li>"
+"               <li class=""divider"">.</li>"
+"               <li id=""wb""><a href=""http://www.worldbank.org"" title=""World Bank"" target=""blank"">World Bank</a></li>"
+            </ul>
+         </footer>
+"           <div class=""chatBotDiv""></div>"
+      </div>
+      <!-- /.modal -->
+      
+      
+"      <div class=""toolTipContent"">"
+      </div>
+"      <div class=""modal fade"" id=""changeDropdownModal"" tabindex=""-1"" role=""dialog"" aria-labelledby=""myModalLabel"""
+"         aria-hidden=""true"">"
+      </div>
+"      <script type=""text/javascript"" src=""https://wits.worldbank.org/Scripts/bootstrap.js""></script>"
+""
+"      <script src=""https://wits.worldbank.org/Scripts/grid/jqx-all.js"" type=""text/javascript""></script>"
+""
+"      <script type=""text/javascript""></script>"
+   </body>
+"   <script type=""text/javascript"">"
+      <!--
+"       var s_pageName = """";"
+"       var s_channel = ""DEC WITS EXT"";"
+"       var s_hier1 = ""DEC","DEC WITS EXT"";"
+"       var s_prop1 = """";"
+"       var s_prop2 = ""Not Available"";  /* Author */"
+"       var s_prop3 = ""Not Available"";  /* Date */"
+"       var s_prop4 = ""Not Available"";  /* Topic */"
+"       var s_prop5 = ""Not Available"";  /* Sub Topic */"
+"       var s_prop6 = ""Not Available"";  /* Region */"
+"       var s_prop7 = ""Not Available"";  /* Country */"
+"       var s_prop8 = ""Not Available"";  /* DocType */"
+"       var s_prop9 = ""Not Available"";  /* MDK or unique identifier */"
+"       var s_prop10 = ""Live"";          /* Site Status */"
+"       var s_prop11 = ""Not Available""; /* Data Source */"
+"       var s_prop13 = ""DEC"";           /* VPU */"
+"       var s_prop16 = ""English"";         /* doc language */"
+"       var s_prop17 = ""English"";         /* site language */"
+""
+       var sTitle = document.title;
+"       var asTitleParts = sTitle.split(""-"");"
+"       while (sTitle.indexOf(""",""") > -1)"
+"           sTitle = sTitle.replace(""",""""," """");"
+""
+       s_pageName = sTitle;
+       s_prop1 = sTitle;
+"       s_hier1 += """," "" + sTitle;"
+""
+"       var s_account = ""wbnispdecwits","wbglobalext"""
+         //-->
+   </script>
+"   <script type=""text/javascript"" src=""https://siteresources.worldbank.org/scripts/s_code_remote.js""></script>"
+</html>
+"<script src=""https://wits.worldbank.org/Scripts/Country-Summary.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/SelectionVariables-enData.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/countries-Hash.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/Partner-Hash-en.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/country-years.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/Product-Hash.js"" type=""text/javascript""></script>"
+"<script src=""https://wits.worldbank.org/Scripts/Metadata-en.js"" type=""text/javascript""></script>"
+"<script type=""text/javascript"">"
+    // var topExportCntryCol = function (row, column, value) {
+    // 
+    //     var  value1 = value.replace(/ /g,""""").replace(/",/g,""""").replace(/\./g",""""").replace(/\)/g",""""").replace(/\(/g",""""");"
+    // 
+"    //     var eyeIcon = ""<span class='glyphicon glyphicon-eye-open ttIcon'   onclick='showToolTip(this);' id='E-"" + value1  + ""'></span> "";"
+    //     return eyeIcon + value ;
+""
+    // }
+    // var exportsDataCell = function (row, column, value) {
+    // 
+    // 
+"    //     return  ""<a href='#' onclick=exportCellClick("" + row + ""","'"" + column + ""')>""+ value + ""</a>"";"
+    // }
+""
+    // var importsDataCell = function (row, column, value) {
+    // 
+    // 
+"    //     return  ""<a href='#' onclick=importCellClick("" + row + ""","'"" + column + ""')>""+ value + ""</a>"";"
+    // }
+""
+""
+""
+""
+    // var productDataCell = function (row, column, value) {
+    // 
+    // 
+"    //     return  ""<a href='#' onclick=productCellClick("" + row + ""","'"" + column + ""')>""+ value + ""</a>""; "
+    // }
+    // var gblProdColIndex =0
+    //              var columnrenderer2 = function (value) {
+    //                var value1 = value.replace(/ /g,""""").replace(/",/g,""""").replace(/\./g",""""").replace(/\)/g",""""").replace(/\(/g",""""").replace(/\%/g",""""").replace(/\$/g",""""");"
+"    //                  var a = ""<span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='""+ gblProdColIndex + ""-""+ value1 + ""'></span> "";"
+"    //                  var b = ""<span>"" + value + ""</span>"";"
+    //		  gblProdColIndex  = gblProdColIndex +1;
+    //                  return(a + b);
+""
+    //              }
+""
+    //  var topImportCntryCol = function (row, column, value) {
+""
+    //  var  value2 = value.replace(/ /g,""""").replace(/",/g,""""").replace(/\./g",""""").replace(/\)/g",""""").replace(/\(/g",""""");"
+"    //     var eyeIcon = ""<span class='glyphicon glyphicon-eye-open ttIcon'  style='margin-top: 1px;' onclick='showToolTip(this);' id='I-"" + value2 + ""'></span> "";"
+    //     return eyeIcon + value ;
+""
+    // }
+    // var ProductCol = function (row, column, value) {
+""
+    // var  value3 = value.replace(/ /g,""""").replace(/",/g,""""").replace(/\./g",""""").replace(/\)/g",""""").replace(/\(/g",""""");"
+"    //     var eyeIcon = ""<span class='glyphicon glyphicon-eye-open ttIcon' onclick='showToolTip(this);' id='P-"" + value3  + ""'></span> "";"
+    //     return eyeIcon + value;
+""
+    // }
+"    SelectedReporter = ""TUR"";"
+"    SelectedReporterName = ""Turkey"""
+"    SelectedYear = ""2016"";"
+"    //    SelectedTradeFlow = ""Import"";"
+"     Svrpath = ""https://wits.worldbank.org/"";"
