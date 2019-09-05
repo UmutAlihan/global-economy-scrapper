@@ -1,0 +1,100 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Slovenia,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5833.07122438
+Slovenia,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3317.30959992
+Slovenia,2017,Croatia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2297.76955619
+Slovenia,2017,Austria,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2194.447202196
+Slovenia,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1583.10689283
+Slovenia,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4817.24260195
+Slovenia,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4065.85859212
+Slovenia,2017,Austria,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2277.3457767
+Slovenia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1773.77848129
+Slovenia,2017,Croatia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1250.9195952
+Slovenia,2017,World,Animal,Export,Export(US$ Mil),352.84840342
+Slovenia,2017,World,Vegetable,Export,Export(US$ Mil),290.92742839
+Slovenia,2017,World,Food Products,Export,Export(US$ Mil),656.25449798
+Slovenia,2017,World,Minerals,Export,Export(US$ Mil),119.26699061
+Slovenia,2017,World,Fuels,Export,Export(US$ Mil),1420.32076182
+Slovenia,2017,World,Chemicals,Export,Export(US$ Mil),4217.80450767
+Slovenia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1841.05465844
+Slovenia,2017,World,Hides and Skins,Export,Export(US$ Mil),180.20773358
+Slovenia,2017,World,Wood,Export,Export(US$ Mil),1639.14027594
+Slovenia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),771.32605919
+Slovenia,2017,World,Footwear,Export,Export(US$ Mil),173.89273185
+Slovenia,2017,World,Stone and Glass,Export,Export(US$ Mil),445.309630926
+Slovenia,2017,World,Metals,Export,Export(US$ Mil),3376.01032093
+Slovenia,2017,World,Mach and Elec,Export,Export(US$ Mil),6593.2300813697
+Slovenia,2017,World,Transportation,Export,Export(US$ Mil),4757.33734953
+Slovenia,2017,World,Miscellaneous,Export,Export(US$ Mil),1937.80548087
+Slovenia,2017,World,Raw materials,Export,Export(US$ Mil),1288.35770758
+Slovenia,2017,World,Intermediate goods,Export,Export(US$ Mil),6321.8330919697
+Slovenia,2017,World,Consumer goods,Export,Export(US$ Mil),13230.694984116
+Slovenia,2017,World,Capital goods,Export,Export(US$ Mil),7845.68373596
+Slovenia,2017,World,Raw materials,Import,Import(US$ Mil),1760.65029329
+Slovenia,2017,World,Intermediate goods,Import,Import(US$ Mil),7684.64693372001
+Slovenia,2017,World,Consumer goods,Import,Import(US$ Mil),11470.02088654
+Slovenia,2017,World,Capital goods,Import,Import(US$ Mil),7216.8346180563
+Slovenia,2017,World,All Products,Export,Exports (in US$ Mil),28772.7369125157
+Slovenia,2017,World,All Products,Import,Imports (in US$ Mil),28192.0031461763
+Slovenia,2003,World,All Products,Tariff,Duty Free Imports (US$ Thousand),11612014.91
+Slovenia,2017,...,...,Development,Trade Balance (current US$ Mil),4709.9580195303
+Slovenia,2017,...,...,Development,GDP (current US$ Mil),48769.6554792388
+Slovenia,2003,...,...,Tariff,No. Of Tariff Agreement,30
+Slovenia,2017,...,...,Import,No. Of Import partners,227
+Slovenia,2017,...,...,Import,No. Of Import products,4364
+Slovenia,2017,...,...,Export,No. Of Export partners,197
+Slovenia,2017,...,...,Export,No. Of Export products,4045
+Slovenia,2016,...,...,Others,Population,2065042
+Slovenia,2018,...,...,Others,Ease of Doing Business Rank,37
+Slovenia,2018,...,...,Others,Trading Across Borders Rank,1
+Slovenia,2016,...,...,Others,LPI Rank,50
+Slovenia,2016,...,...,Others,LPI Score,3.184508
+Slovenia,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,20.2729
+Slovenia,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,11.5294
+Slovenia,2017,Croatia,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9859
+Slovenia,2017,Austria,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6268
+Slovenia,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5021
+Slovenia,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,17.0873
+Slovenia,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,14.422
+Slovenia,2017,Austria,All Products,Import,Partner share(%)-Top 5 Import Partner,8.078
+Slovenia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2918
+Slovenia,2017,Croatia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4371
+Slovenia,2017,World,Animal,Export,Export Product share(%),1.2263
+Slovenia,2017,World,Vegetable,Export,Export Product share(%),1.0111
+Slovenia,2017,World,Food Products,Export,Export Product share(%),2.2808
+Slovenia,2017,World,Minerals,Export,Export Product share(%),0.4145
+Slovenia,2017,World,Fuels,Export,Export Product share(%),4.9363
+Slovenia,2017,World,Chemicals,Export,Export Product share(%),14.659
+Slovenia,2017,World,Plastic or Rubber,Export,Export Product share(%),6.3986
+Slovenia,2017,World,Hides and Skins,Export,Export Product share(%),0.6263
+Slovenia,2017,World,Wood,Export,Export Product share(%),5.6969
+Slovenia,2017,World,Textiles and Clothing,Export,Export Product share(%),2.6808
+Slovenia,2017,World,Footwear,Export,Export Product share(%),0.6044
+Slovenia,2017,World,Stone and Glass,Export,Export Product share(%),1.5477
+Slovenia,2017,World,Metals,Export,Export Product share(%),11.7334
+Slovenia,2017,World,Mach and Elec,Export,Export Product share(%),22.9149
+Slovenia,2017,World,Transportation,Export,Export Product share(%),16.5342
+Slovenia,2017,World,Miscellaneous,Export,Export Product share(%),6.7349
+Slovenia,2017,World,Raw materials,Export,Export Product share(%),4.4777
+Slovenia,2017,World,Intermediate goods,Export,Export Product share(%),21.9716
+Slovenia,2017,World,Consumer goods,Export,Export Product share(%),45.9834
+Slovenia,2017,World,Capital goods,Export,Export Product share(%),27.2678
+Slovenia,2017,World,Raw materials,Import,Import Product share(%),6.2452
+Slovenia,2017,World,Intermediate goods,Import,Import Product share(%),27.2583
+Slovenia,2017,World,Consumer goods,Import,Import Product share(%),40.6854
+Slovenia,2017,World,Capital goods,Import,Import Product share(%),25.5989
+Slovenia,2003,World,Raw materials,Tariff,Weighted Average (%),3.5044883703392
+Slovenia,2003,World,Intermediate goods,Tariff,Weighted Average (%),1.21520258498612
+Slovenia,2003,World,Consumer goods,Tariff,Weighted Average (%),2.63798698668626
+Slovenia,2003,World,Capital goods,Tariff,Weighted Average (%),0.727237740331536
+Slovenia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Slovenia,2017,World,All Products,Trade Indicator,Country Growth (%),5.6844892358145
+Slovenia,2003,World,All Products,Tariff,Simple Average (%),4.43960090526662
+Slovenia,2003,World,All Products,Tariff,Weighted Average (%),1.72406051485536
+Slovenia,2003,World,All Products,Tariff,Maximum Rate (%),122.584899902344
+Slovenia,2003,World,All Products,Tariff,Duty Free Tariff Lines Share (%),61.9656590949741
+Slovenia,2017,...,...,Trade Indicator,Index of export market penetration,9.49267637885428
+Slovenia,2017,...,...,Trade Indicator,HH Market concentration index,0.0750070580920471
+Slovenia,2017,...,...,Development,Trade Balance (% of GDP),9.65755852332271
+Slovenia,2017,...,...,Development,Trade in services (% of GDP),27.5080177607468
+Slovenia,2017,...,...,Development,Trade (% of GDP),154.763999912057
+Slovenia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",22000

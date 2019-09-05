@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Malaysia,2017,Singapore,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,30985.6479545575
+Malaysia,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,29188.4705248815
+Malaysia,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,20576.2399932526
+Malaysia,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,17304.4794067999
+Malaysia,2017,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11690.3163777491
+Malaysia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,38040.3104065594
+Malaysia,2017,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,21447.4912532241
+Malaysia,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,16046.6381769609
+Malaysia,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,14692.4826375169
+Malaysia,2017,"Other Asia, nes",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,12665.8999214796
+Malaysia,2017,World,Animal,Export,Export(US$ Mil),1131.45335207998
+Malaysia,2017,World,Vegetable,Export,Export(US$ Mil),17066.168849352
+Malaysia,2017,World,Food Products,Export,Export(US$ Mil),6183.59444672424
+Malaysia,2017,World,Minerals,Export,Export(US$ Mil),1775.00999914499
+Malaysia,2017,World,Fuels,Export,Export(US$ Mil),33079.2710943075
+Malaysia,2017,World,Chemicals,Export,Export(US$ Mil),9377.42247622309
+Malaysia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),14659.0606874856
+Malaysia,2017,World,Hides and Skins,Export,Export(US$ Mil),134.102870810726
+Malaysia,2017,World,Wood,Export,Export(US$ Mil),4849.06258004287
+Malaysia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),3100.09202399851
+Malaysia,2017,World,Footwear,Export,Export(US$ Mil),192.393728315128
+Malaysia,2017,World,Stone and Glass,Export,Export(US$ Mil),4646.00530024921
+Malaysia,2017,World,Metals,Export,Export(US$ Mil),12022.9471259339
+Malaysia,2017,World,Mach and Elec,Export,Export(US$ Mil),91948.2832480936
+Malaysia,2017,World,Transportation,Export,Export(US$ Mil),3985.54017023258
+Malaysia,2017,World,Miscellaneous,Export,Export(US$ Mil),12278.0212680113
+Malaysia,2017,World,Raw materials,Export,Export(US$ Mil),13422.3054602539
+Malaysia,2017,World,Intermediate goods,Export,Export(US$ Mil),42430.1518871487
+Malaysia,2017,World,Consumer goods,Export,Export(US$ Mil),67902.2205506942
+Malaysia,2017,World,Capital goods,Export,Export(US$ Mil),90788.2621364025
+Malaysia,2017,World,Raw materials,Import,Import(US$ Mil),17469.368799002
+Malaysia,2017,World,Intermediate goods,Import,Import(US$ Mil),45093.7045351204
+Malaysia,2017,World,Consumer goods,Import,Import(US$ Mil),44478.4635812003
+Malaysia,2017,World,Capital goods,Import,Import(US$ Mil),85770.4030173506
+Malaysia,2017,World,All Products,Export,Exports (in US$ Mil),216428.429221005
+Malaysia,2017,World,All Products,Import,Imports (in US$ Mil),193855.940671422
+Malaysia,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),106478901.217
+Malaysia,2017,...,...,Development,Trade Balance (current US$ Mil),21847.037484885
+Malaysia,2017,...,...,Development,GDP (current US$ Mil),314710.259510743
+Malaysia,2016,...,...,Tariff,No. Of Tariff Agreement,1
+Malaysia,2017,...,...,Import,No. Of Import partners,204
+Malaysia,2017,...,...,Import,No. Of Import products,4451
+Malaysia,2017,...,...,Export,No. Of Export partners,219
+Malaysia,2017,...,...,Export,No. Of Export products,4095
+Malaysia,2016,...,...,Others,Population,31187265
+Malaysia,2018,...,...,Others,Ease of Doing Business Rank,24
+Malaysia,2018,...,...,Others,Trading Across Borders Rank,61
+Malaysia,2016,...,...,Others,LPI Rank,32
+Malaysia,2016,...,...,Others,LPI Score,3.426307
+Malaysia,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),2556
+Malaysia,2015,...,...,Others,No Of NTM Measures,60
+Malaysia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2738927
+Malaysia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2898032
+Malaysia,,...,...,Others,Services Trade Restrictions Index - Over All,46.1
+Malaysia,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.1743510216
+Malaysia,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.3926124871
+Malaysia,2017,Singapore,All Products,Export,Partner share(%)-Top 5 Export Partner,14.3168
+Malaysia,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,13.4864
+Malaysia,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,9.5072
+Malaysia,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9955
+Malaysia,2017,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,5.4015
+Malaysia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,19.623
+Malaysia,2017,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,11.0636
+Malaysia,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2776
+Malaysia,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,7.5791
+Malaysia,2017,"Other Asia, nes",All Products,Import,Partner share(%)-Top 5 Import Partner,6.5337
+Malaysia,2017,World,Animal,Export,Export Product share(%),0.5228
+Malaysia,2017,World,Vegetable,Export,Export Product share(%),7.8854
+Malaysia,2017,World,Food Products,Export,Export Product share(%),2.8571
+Malaysia,2017,World,Minerals,Export,Export Product share(%),0.8201
+Malaysia,2017,World,Fuels,Export,Export Product share(%),15.2842
+Malaysia,2017,World,Chemicals,Export,Export Product share(%),4.3328
+Malaysia,2017,World,Plastic or Rubber,Export,Export Product share(%),6.7732
+Malaysia,2017,World,Hides and Skins,Export,Export Product share(%),0.062
+Malaysia,2017,World,Wood,Export,Export Product share(%),2.2405
+Malaysia,2017,World,Textiles and Clothing,Export,Export Product share(%),1.4324
+Malaysia,2017,World,Footwear,Export,Export Product share(%),0.0889
+Malaysia,2017,World,Stone and Glass,Export,Export Product share(%),2.1467
+Malaysia,2017,World,Metals,Export,Export Product share(%),5.5552
+Malaysia,2017,World,Mach and Elec,Export,Export Product share(%),42.4844
+Malaysia,2017,World,Transportation,Export,Export Product share(%),1.8415
+Malaysia,2017,World,Miscellaneous,Export,Export Product share(%),5.673
+Malaysia,2017,World,Raw materials,Export,Export Product share(%),6.2017
+Malaysia,2017,World,Intermediate goods,Export,Export Product share(%),19.6047
+Malaysia,2017,World,Consumer goods,Export,Export Product share(%),31.374
+Malaysia,2017,World,Capital goods,Export,Export Product share(%),41.9484
+Malaysia,2017,World,Raw materials,Import,Import Product share(%),9.0115
+Malaysia,2017,World,Intermediate goods,Import,Import Product share(%),23.2615
+Malaysia,2017,World,Consumer goods,Import,Import Product share(%),22.9441
+Malaysia,2017,World,Capital goods,Import,Import Product share(%),44.2444
+Malaysia,2016,World,Raw materials,Tariff,Weighted Average (%),4.76988744526665
+Malaysia,2016,World,Intermediate goods,Tariff,Weighted Average (%),4.70477943621311
+Malaysia,2016,World,Consumer goods,Tariff,Weighted Average (%),7.71825081128958
+Malaysia,2016,World,Capital goods,Tariff,Weighted Average (%),2.18747415874969
+Malaysia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Malaysia,2017,World,All Products,Trade Indicator,Country Growth (%),0.496918812947489
+Malaysia,2016,World,All Products,Tariff,Simple Average (%),6.21503834195089
+Malaysia,2016,World,All Products,Tariff,Weighted Average (%),4.02455137800424
+Malaysia,2016,World,All Products,Tariff,Maximum Rate (%),1328.68701171875
+Malaysia,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),64.1209524696532
+Malaysia,2017,...,...,Trade Indicator,Index of export market penetration,12.0886581041852
+Malaysia,2017,...,...,Trade Indicator,HH Market concentration index,0.0947693252951432
+Malaysia,2017,...,...,Development,Trade Balance (% of GDP),6.9419527405459
+Malaysia,2017,...,...,Development,Trade in services (% of GDP),25.2438017285046
+Malaysia,2017,...,...,Development,Trade (% of GDP),135.837458806839
+Malaysia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",9650

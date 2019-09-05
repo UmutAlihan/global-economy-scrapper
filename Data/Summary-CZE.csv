@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Czech Republic,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,59413.682174
+Czech Republic,2017,Slovak Republic,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13920.840988
+Czech Republic,2017,Poland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10912.335248
+Czech Republic,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9284.496883
+Czech Republic,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9026.391182
+Czech Republic,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,42065.680401
+Czech Republic,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,20498.182473
+Czech Republic,2017,Poland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,12559.436221
+Czech Republic,2017,Slovak Republic,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7868.064259
+Czech Republic,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6882.636402
+Czech Republic,2017,World,Animal,Export,Export(US$ Mil),1696.694056
+Czech Republic,2017,World,Vegetable,Export,Export(US$ Mil),2207.958694
+Czech Republic,2017,World,Food Products,Export,Export(US$ Mil),4538.573088
+Czech Republic,2017,World,Minerals,Export,Export(US$ Mil),296.352363
+Czech Republic,2017,World,Fuels,Export,Export(US$ Mil),3265.323722
+Czech Republic,2017,World,Chemicals,Export,Export(US$ Mil),7632.811212
+Czech Republic,2017,World,Plastic or Rubber,Export,Export(US$ Mil),10353.374538
+Czech Republic,2017,World,Hides and Skins,Export,Export(US$ Mil),691.810526
+Czech Republic,2017,World,Wood,Export,Export(US$ Mil),6074.774759
+Czech Republic,2017,World,Textiles and Clothing,Export,Export(US$ Mil),5119.816916
+Czech Republic,2017,World,Footwear,Export,Export(US$ Mil),1217.15973
+Czech Republic,2017,World,Stone and Glass,Export,Export(US$ Mil),3819.372616
+Czech Republic,2017,World,Metals,Export,Export(US$ Mil),15642.561691
+Czech Republic,2017,World,Mach and Elec,Export,Export(US$ Mil),66279.653051
+Czech Republic,2017,World,Transportation,Export,Export(US$ Mil),39740.608982
+Czech Republic,2017,World,Miscellaneous,Export,Export(US$ Mil),13654.514579
+Czech Republic,2017,World,Raw materials,Export,Export(US$ Mil),5579.300515
+Czech Republic,2017,World,Intermediate goods,Export,Export(US$ Mil),25555.538522
+Czech Republic,2017,World,Consumer goods,Export,Export(US$ Mil),72197.846528
+Czech Republic,2017,World,Capital goods,Export,Export(US$ Mil),78638.919382
+Czech Republic,2017,World,Raw materials,Import,Import(US$ Mil),9428.17561
+Czech Republic,2017,World,Intermediate goods,Import,Import(US$ Mil),32610.999932
+Czech Republic,2017,World,Consumer goods,Import,Import(US$ Mil),52713.723758
+Czech Republic,2017,World,Capital goods,Import,Import(US$ Mil),68038.8663189999
+Czech Republic,2017,World,All Products,Export,Exports (in US$ Mil),182231.360523
+Czech Republic,2017,World,All Products,Import,Imports (in US$ Mil),162898.931578
+Czech Republic,2003,World,All Products,Tariff,Duty Free Imports (US$ Thousand),13228716.553
+Czech Republic,2017,...,...,Development,Trade Balance (current US$ Mil),15559.583054086
+Czech Republic,2017,...,...,Development,GDP (current US$ Mil),215725.534372371
+Czech Republic,2003,...,...,Tariff,No. Of Tariff Agreement,2
+Czech Republic,2017,...,...,Import,No. Of Import partners,235
+Czech Republic,2017,...,...,Import,No. Of Import products,4510
+Czech Republic,2017,...,...,Export,No. Of Export partners,214
+Czech Republic,2017,...,...,Export,No. Of Export products,4384
+Czech Republic,2016,...,...,Others,Population,10566332
+Czech Republic,2018,...,...,Others,Ease of Doing Business Rank,30
+Czech Republic,2018,...,...,Others,Trading Across Borders Rank,1
+Czech Republic,2016,...,...,Others,LPI Rank,26
+Czech Republic,2016,...,...,Others,LPI Score,3.674309
+Czech Republic,,...,...,Others,Services Trade Restrictions Index - Over All,16.6
+Czech Republic,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,32.6034
+Czech Republic,2017,Slovak Republic,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6391
+Czech Republic,2017,Poland,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9882
+Czech Republic,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,5.0949
+Czech Republic,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9533
+Czech Republic,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,25.8232
+Czech Republic,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,12.5834
+Czech Republic,2017,Poland,All Products,Import,Partner share(%)-Top 5 Import Partner,7.71
+Czech Republic,2017,Slovak Republic,All Products,Import,Partner share(%)-Top 5 Import Partner,4.83
+Czech Republic,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,4.2251
+Czech Republic,2017,World,Animal,Export,Export Product share(%),0.9311
+Czech Republic,2017,World,Vegetable,Export,Export Product share(%),1.2116
+Czech Republic,2017,World,Food Products,Export,Export Product share(%),2.4906
+Czech Republic,2017,World,Minerals,Export,Export Product share(%),0.1626
+Czech Republic,2017,World,Fuels,Export,Export Product share(%),1.7919
+Czech Republic,2017,World,Chemicals,Export,Export Product share(%),4.1885
+Czech Republic,2017,World,Plastic or Rubber,Export,Export Product share(%),5.6814
+Czech Republic,2017,World,Hides and Skins,Export,Export Product share(%),0.3796
+Czech Republic,2017,World,Wood,Export,Export Product share(%),3.3336
+Czech Republic,2017,World,Textiles and Clothing,Export,Export Product share(%),2.8095
+Czech Republic,2017,World,Footwear,Export,Export Product share(%),0.6679
+Czech Republic,2017,World,Stone and Glass,Export,Export Product share(%),2.0959
+Czech Republic,2017,World,Metals,Export,Export Product share(%),8.5839
+Czech Republic,2017,World,Mach and Elec,Export,Export Product share(%),36.3712
+Czech Republic,2017,World,Transportation,Export,Export Product share(%),21.8078
+Czech Republic,2017,World,Miscellaneous,Export,Export Product share(%),7.493
+Czech Republic,2017,World,Raw materials,Export,Export Product share(%),3.0617
+Czech Republic,2017,World,Intermediate goods,Export,Export Product share(%),14.0237
+Czech Republic,2017,World,Consumer goods,Export,Export Product share(%),39.6188
+Czech Republic,2017,World,Capital goods,Export,Export Product share(%),43.1533
+Czech Republic,2017,World,Raw materials,Import,Import Product share(%),5.7877
+Czech Republic,2017,World,Intermediate goods,Import,Import Product share(%),20.0192
+Czech Republic,2017,World,Consumer goods,Import,Import Product share(%),32.3598
+Czech Republic,2017,World,Capital goods,Import,Import Product share(%),41.7675
+Czech Republic,2003,World,Raw materials,Tariff,Weighted Average (%),3.00268088924496
+Czech Republic,2003,World,Intermediate goods,Tariff,Weighted Average (%),4.28111115497025
+Czech Republic,2003,World,Consumer goods,Tariff,Weighted Average (%),6.42573673643458
+Czech Republic,2003,World,Capital goods,Tariff,Weighted Average (%),2.84478812090035
+Czech Republic,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Czech Republic,2017,World,All Products,Trade Indicator,Country Growth (%),4.41051064401712
+Czech Republic,2003,World,All Products,Tariff,Simple Average (%),5.05703123749722
+Czech Republic,2003,World,All Products,Tariff,Weighted Average (%),4.34783364578931
+Czech Republic,2003,World,All Products,Tariff,Maximum Rate (%),125.699996948242
+Czech Republic,2003,World,All Products,Tariff,Duty Free Tariff Lines Share (%),15.2386171621683
+Czech Republic,2017,...,...,Trade Indicator,Index of export market penetration,15.6271165648976
+Czech Republic,2017,...,...,Trade Indicator,HH Market concentration index,0.118849146382429
+Czech Republic,2017,...,...,Development,Trade Balance (% of GDP),7.21267563404339
+Czech Republic,2017,...,...,Development,Trade in services (% of GDP),22.6623658190318
+Czech Republic,2017,...,...,Development,Trade (% of GDP),151.696096986003
+Czech Republic,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",18160

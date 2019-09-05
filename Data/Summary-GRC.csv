@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Greece,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3422.00119605973
+Greece,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2278.01575317631
+Greece,2017,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2206.67194461285
+Greece,2017,Cyprus,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1947.21083862505
+Greece,2017,Bulgaria,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1521.23936081317
+Greece,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5646.01352215056
+Greece,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4208.3867656272
+Greece,2017,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3886.78384537872
+Greece,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3572.46481696416
+Greece,2017,Iraq,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3548.9015654976
+Greece,2017,World,Animal,Export,Export(US$ Mil),1537.44773309899
+Greece,2017,World,Vegetable,Export,Export(US$ Mil),2130.58680971222
+Greece,2017,World,Food Products,Export,Export(US$ Mil),2741.97519977495
+Greece,2017,World,Minerals,Export,Export(US$ Mil),749.540055807972
+Greece,2017,World,Fuels,Export,Export(US$ Mil),10135.396996024
+Greece,2017,World,Chemicals,Export,Export(US$ Mil),2625.3441512993
+Greece,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1297.79236180737
+Greece,2017,World,Hides and Skins,Export,Export(US$ Mil),339.821419750956
+Greece,2017,World,Wood,Export,Export(US$ Mil),508.978587162474
+Greece,2017,World,Textiles and Clothing,Export,Export(US$ Mil),1521.85022220488
+Greece,2017,World,Footwear,Export,Export(US$ Mil),126.61557539202
+Greece,2017,World,Stone and Glass,Export,Export(US$ Mil),405.697481437248
+Greece,2017,World,Metals,Export,Export(US$ Mil),3732.42220275811
+Greece,2017,World,Mach and Elec,Export,Export(US$ Mil),2606.38808358614
+Greece,2017,World,Transportation,Export,Export(US$ Mil),334.595858253228
+Greece,2017,World,Miscellaneous,Export,Export(US$ Mil),1360.36366756805
+Greece,2017,World,Raw materials,Export,Export(US$ Mil),3597.73224912387
+Greece,2017,World,Intermediate goods,Export,Export(US$ Mil),6502.09651318398
+Greece,2017,World,Consumer goods,Export,Export(US$ Mil),18809.0460787935
+Greece,2017,World,Capital goods,Export,Export(US$ Mil),2668.88077057087
+Greece,2017,World,Raw materials,Import,Import(US$ Mil),12922.1986041595
+Greece,2017,World,Intermediate goods,Import,Import(US$ Mil),10466.6664906149
+Greece,2017,World,Consumer goods,Import,Import(US$ Mil),20808.4374165658
+Greece,2017,World,Capital goods,Import,Import(US$ Mil),10826.3721749851
+Greece,2017,World,All Products,Export,Exports (in US$ Mil),32154.8164056379
+Greece,2017,World,All Products,Import,Imports (in US$ Mil),55300.5975531298
+Greece,2017,...,...,Development,Trade Balance (current US$ Mil),-2155.8730671517
+Greece,2017,...,...,Development,GDP (current US$ Mil),200288.277129038
+Greece,2017,...,...,Import,No. Of Import partners,185
+Greece,2017,...,...,Import,No. Of Import products,4405
+Greece,2017,...,...,Export,No. Of Export partners,218
+Greece,2017,...,...,Export,No. Of Export products,3972
+Greece,2016,...,...,Others,Population,10775971
+Greece,2018,...,...,Others,Ease of Doing Business Rank,67
+Greece,2018,...,...,Others,Trading Across Borders Rank,29
+Greece,2016,...,...,Others,LPI Rank,47
+Greece,2016,...,...,Others,LPI Score,3.239516
+Greece,,...,...,Others,Services Trade Restrictions Index - Over All,18
+Greece,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,10.6423
+Greece,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,7.0845
+Greece,2017,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8626
+Greece,2017,Cyprus,All Products,Export,Partner share(%)-Top 5 Export Partner,6.0557
+Greece,2017,Bulgaria,All Products,Export,Partner share(%)-Top 5 Export Partner,4.731
+Greece,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,10.2097
+Greece,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,7.61
+Greece,2017,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,7.0285
+Greece,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,6.4601
+Greece,2017,Iraq,All Products,Import,Partner share(%)-Top 5 Import Partner,6.4175
+Greece,2017,World,Animal,Export,Export Product share(%),4.7814
+Greece,2017,World,Vegetable,Export,Export Product share(%),6.626
+Greece,2017,World,Food Products,Export,Export Product share(%),8.5274
+Greece,2017,World,Minerals,Export,Export Product share(%),2.331
+Greece,2017,World,Fuels,Export,Export Product share(%),31.5206
+Greece,2017,World,Chemicals,Export,Export Product share(%),8.1647
+Greece,2017,World,Plastic or Rubber,Export,Export Product share(%),4.0361
+Greece,2017,World,Hides and Skins,Export,Export Product share(%),1.0568
+Greece,2017,World,Wood,Export,Export Product share(%),1.5829
+Greece,2017,World,Textiles and Clothing,Export,Export Product share(%),4.7329
+Greece,2017,World,Footwear,Export,Export Product share(%),0.3938
+Greece,2017,World,Stone and Glass,Export,Export Product share(%),1.2617
+Greece,2017,World,Metals,Export,Export Product share(%),11.6077
+Greece,2017,World,Mach and Elec,Export,Export Product share(%),8.1057
+Greece,2017,World,Transportation,Export,Export Product share(%),1.0406
+Greece,2017,World,Miscellaneous,Export,Export Product share(%),4.2307
+Greece,2017,World,Raw materials,Export,Export Product share(%),11.1888
+Greece,2017,World,Intermediate goods,Export,Export Product share(%),20.2212
+Greece,2017,World,Consumer goods,Export,Export Product share(%),58.4953
+Greece,2017,World,Capital goods,Export,Export Product share(%),8.3001
+Greece,2017,World,Raw materials,Import,Import Product share(%),23.3672
+Greece,2017,World,Intermediate goods,Import,Import Product share(%),18.9269
+Greece,2017,World,Consumer goods,Import,Import Product share(%),37.6279
+Greece,2017,World,Capital goods,Import,Import Product share(%),19.5773
+Greece,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Greece,2017,World,All Products,Trade Indicator,Country Growth (%),5.32733447351741
+Greece,2017,...,...,Trade Indicator,Index of export market penetration,8.66302335343604
+Greece,2017,...,...,Trade Indicator,HH Market concentration index,0.0447271073511362
+Greece,2017,...,...,Development,Trade Balance (% of GDP),-1.0763850476195
+Greece,2017,...,...,Development,Trade in services (% of GDP),22.2920735015011
+Greece,2017,...,...,Development,Trade (% of GDP),67.5162659274226
+Greece,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",18090

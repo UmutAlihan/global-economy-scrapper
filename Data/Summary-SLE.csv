@@ -1,0 +1,90 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Sierra Leone,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,23.6386725649927
+Sierra Leone,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13.3688573349229
+Sierra Leone,2017,Cote d'Ivoire,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,12.5151109376328
+Sierra Leone,2017,Ghana,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,12.0130679422038
+Sierra Leone,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8.47001317867946
+Sierra Leone,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,180.165624399933
+Sierra Leone,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,83.9084664850816
+Sierra Leone,2017,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,77.1132949770483
+Sierra Leone,2017,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,69.0552769545293
+Sierra Leone,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,55.3451243867052
+Sierra Leone,2017,World,Animal,Export,Export(US$ Mil),8.92999993964074
+Sierra Leone,2017,World,Vegetable,Export,Export(US$ Mil),12.6508786323996
+Sierra Leone,2017,World,Food Products,Export,Export(US$ Mil),26.4826446077683
+Sierra Leone,2017,World,Minerals,Export,Export(US$ Mil),3.81312437122198
+Sierra Leone,2017,World,Fuels,Export,Export(US$ Mil),0.0353735243812422
+Sierra Leone,2017,World,Chemicals,Export,Export(US$ Mil),0.138587020752635
+Sierra Leone,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1.01851484380183
+Sierra Leone,2017,World,Hides and Skins,Export,Export(US$ Mil),0.0012705753733073
+Sierra Leone,2017,World,Wood,Export,Export(US$ Mil),8.40949025825073
+Sierra Leone,2017,World,Textiles and Clothing,Export,Export(US$ Mil),5.6663374486084
+Sierra Leone,2017,World,Footwear,Export,Export(US$ Mil),0.000243427611548
+Sierra Leone,2017,World,Stone and Glass,Export,Export(US$ Mil),0.0212014856865714
+Sierra Leone,2017,World,Metals,Export,Export(US$ Mil),3.56573685190663
+Sierra Leone,2017,World,Mach and Elec,Export,Export(US$ Mil),12.2736249304364
+Sierra Leone,2017,World,Transportation,Export,Export(US$ Mil),19.2744288550393
+Sierra Leone,2017,World,Miscellaneous,Export,Export(US$ Mil),0.370132046406554
+Sierra Leone,2017,World,Raw materials,Export,Export(US$ Mil),36.8926340889234
+Sierra Leone,2017,World,Intermediate goods,Export,Export(US$ Mil),24.4705479981632
+Sierra Leone,2017,World,Consumer goods,Export,Export(US$ Mil),9.57671055954557
+Sierra Leone,2017,World,Capital goods,Export,Export(US$ Mil),31.7116961726536
+Sierra Leone,2017,World,Raw materials,Import,Import(US$ Mil),39.8751541118666
+Sierra Leone,2017,World,Intermediate goods,Import,Import(US$ Mil),250.03651333146
+Sierra Leone,2017,World,Consumer goods,Import,Import(US$ Mil),528.610615341524
+Sierra Leone,2017,World,Capital goods,Import,Import(US$ Mil),254.381648874663
+Sierra Leone,2017,World,All Products,Export,Exports (in US$ Mil),102.651588819286
+Sierra Leone,2017,World,All Products,Import,Imports (in US$ Mil),1073.61707908231
+Sierra Leone,2017,...,...,Development,Trade Balance (current US$ Mil),-829.853521165267
+Sierra Leone,2017,...,...,Development,GDP (current US$ Mil),3775.04733392116
+Sierra Leone,2017,...,...,Import,No. Of Import partners,120
+Sierra Leone,2017,...,...,Import,No. Of Import products,2311
+Sierra Leone,2017,...,...,Export,No. Of Export partners,53
+Sierra Leone,2017,...,...,Export,No. Of Export products,405
+Sierra Leone,2016,...,...,Others,Population,7396190
+Sierra Leone,2018,...,...,Others,Ease of Doing Business Rank,160
+Sierra Leone,2018,...,...,Others,Trading Across Borders Rank,162
+Sierra Leone,2017,...,...,Others,CPIA Trade Ratings,3.5
+Sierra Leone,2016,...,...,Others,LPI Rank,155
+Sierra Leone,2016,...,...,Others,LPI Score,2.025402
+Sierra Leone,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,23.0281
+Sierra Leone,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,13.0235
+Sierra Leone,2017,Cote d'Ivoire,All Products,Export,Partner share(%)-Top 5 Export Partner,12.1918
+Sierra Leone,2017,Ghana,All Products,Export,Partner share(%)-Top 5 Export Partner,11.7028
+Sierra Leone,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,8.2512
+Sierra Leone,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.7812
+Sierra Leone,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,7.8155
+Sierra Leone,2017,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,7.1826
+Sierra Leone,2017,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,6.432
+Sierra Leone,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,5.155
+Sierra Leone,2017,World,Animal,Export,Export Product share(%),8.6993
+Sierra Leone,2017,World,Vegetable,Export,Export Product share(%),12.3241
+Sierra Leone,2017,World,Food Products,Export,Export Product share(%),25.7986
+Sierra Leone,2017,World,Minerals,Export,Export Product share(%),3.7146
+Sierra Leone,2017,World,Fuels,Export,Export Product share(%),0.0345
+Sierra Leone,2017,World,Chemicals,Export,Export Product share(%),0.135
+Sierra Leone,2017,World,Plastic or Rubber,Export,Export Product share(%),0.9922
+Sierra Leone,2017,World,Hides and Skins,Export,Export Product share(%),0.0012
+Sierra Leone,2017,World,Wood,Export,Export Product share(%),8.1923
+Sierra Leone,2017,World,Textiles and Clothing,Export,Export Product share(%),5.52
+Sierra Leone,2017,World,Footwear,Export,Export Product share(%),0.0002
+Sierra Leone,2017,World,Stone and Glass,Export,Export Product share(%),0.0207
+Sierra Leone,2017,World,Metals,Export,Export Product share(%),3.4736
+Sierra Leone,2017,World,Mach and Elec,Export,Export Product share(%),11.9566
+Sierra Leone,2017,World,Transportation,Export,Export Product share(%),18.7766
+Sierra Leone,2017,World,Miscellaneous,Export,Export Product share(%),0.3606
+Sierra Leone,2017,World,Raw materials,Export,Export Product share(%),35.9397
+Sierra Leone,2017,World,Intermediate goods,Export,Export Product share(%),23.8385
+Sierra Leone,2017,World,Consumer goods,Export,Export Product share(%),9.3293
+Sierra Leone,2017,World,Capital goods,Export,Export Product share(%),30.8926
+Sierra Leone,2017,World,Raw materials,Import,Import Product share(%),3.7141
+Sierra Leone,2017,World,Intermediate goods,Import,Import Product share(%),23.2892
+Sierra Leone,2017,World,Consumer goods,Import,Import Product share(%),49.2364
+Sierra Leone,2017,World,Capital goods,Import,Import Product share(%),23.6939
+Sierra Leone,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Sierra Leone,2017,World,All Products,Trade Indicator,Country Growth (%),13.5447557077349
+Sierra Leone,2017,...,...,Trade Indicator,Index of export market penetration,1.95422912008029
+Sierra Leone,2017,...,...,Trade Indicator,HH Market concentration index,0.181553979934827
+Sierra Leone,2017,...,...,Development,Trade Balance (% of GDP),-21.9825990977257
+Sierra Leone,2017,...,...,Development,Trade (% of GDP),74.0852938258157
+Sierra Leone,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",510

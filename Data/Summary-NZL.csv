@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+New Zealand,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8482.09306912338
+New Zealand,2017,Australia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6252.0479326573
+New Zealand,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3781.11195564458
+New Zealand,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2275.54395658403
+New Zealand,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1059.76188640269
+New Zealand,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7748.41097196974
+New Zealand,2017,Australia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4910.884426935
+New Zealand,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4286.93656860103
+New Zealand,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2960.7235323374
+New Zealand,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2142.50314835098
+New Zealand,2017,World,Animal,Export,Export(US$ Mil),16392.5696887207
+New Zealand,2017,World,Vegetable,Export,Export(US$ Mil),2594.83055135303
+New Zealand,2017,World,Food Products,Export,Export(US$ Mil),4541.57366369532
+New Zealand,2017,World,Minerals,Export,Export(US$ Mil),71.6249856759222
+New Zealand,2017,World,Fuels,Export,Export(US$ Mil),616.935444114762
+New Zealand,2017,World,Chemicals,Export,Export(US$ Mil),1672.7140699506
+New Zealand,2017,World,Plastic or Rubber,Export,Export(US$ Mil),399.907551829963
+New Zealand,2017,World,Hides and Skins,Export,Export(US$ Mil),313.290409574953
+New Zealand,2017,World,Wood,Export,Export(US$ Mil),4252.7431340828
+New Zealand,2017,World,Textiles and Clothing,Export,Export(US$ Mil),727.151262979317
+New Zealand,2017,World,Footwear,Export,Export(US$ Mil),42.2557499185484
+New Zealand,2017,World,Stone and Glass,Export,Export(US$ Mil),551.181414233894
+New Zealand,2017,World,Metals,Export,Export(US$ Mil),1417.24081322912
+New Zealand,2017,World,Mach and Elec,Export,Export(US$ Mil),1882.71060385525
+New Zealand,2017,World,Transportation,Export,Export(US$ Mil),468.717687799048
+New Zealand,2017,World,Miscellaneous,Export,Export(US$ Mil),2104.83916877078
+New Zealand,2017,World,Raw materials,Export,Export(US$ Mil),12520.9725706082
+New Zealand,2017,World,Intermediate goods,Export,Export(US$ Mil),11174.1810622717
+New Zealand,2017,World,Consumer goods,Export,Export(US$ Mil),10312.700329144
+New Zealand,2017,World,Capital goods,Export,Export(US$ Mil),2773.34842587032
+New Zealand,2017,World,Raw materials,Import,Import(US$ Mil),3661.60646233712
+New Zealand,2017,World,Intermediate goods,Import,Import(US$ Mil),6258.39823788544
+New Zealand,2017,World,Consumer goods,Import,Import(US$ Mil),17858.6066346643
+New Zealand,2017,World,Capital goods,Import,Import(US$ Mil),12013.9867603806
+New Zealand,2017,World,All Products,Export,Exports (in US$ Mil),38050.286199784
+New Zealand,2017,World,All Products,Import,Imports (in US$ Mil),40128.439163468
+New Zealand,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),26830936.3898675
+New Zealand,2017,...,...,Development,GDP (current US$ Mil),205852.838254712
+New Zealand,2017,...,...,Tariff,No. Of Tariff Agreement,16
+New Zealand,2017,...,...,Import,No. Of Import partners,223
+New Zealand,2017,...,...,Import,No. Of Import products,4258
+New Zealand,2017,...,...,Export,No. Of Export partners,213
+New Zealand,2017,...,...,Export,No. Of Export products,3821
+New Zealand,2016,...,...,Others,Population,4693200
+New Zealand,2018,...,...,Others,Ease of Doing Business Rank,1
+New Zealand,2018,...,...,Others,Trading Across Borders Rank,56
+New Zealand,2016,...,...,Others,LPI Rank,37
+New Zealand,2016,...,...,Others,LPI Score,3.388
+New Zealand,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5208
+New Zealand,2015,...,...,Others,No Of NTM Measures,75
+New Zealand,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1128678
+New Zealand,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.120615
+New Zealand,,...,...,Others,Services Trade Restrictions Index - Over All,11
+New Zealand,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.3099573851
+New Zealand,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.1107577905
+New Zealand,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,22.2918
+New Zealand,2017,Australia,All Products,Export,Partner share(%)-Top 5 Export Partner,16.431
+New Zealand,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,9.9371
+New Zealand,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9804
+New Zealand,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,2.7852
+New Zealand,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,19.309
+New Zealand,2017,Australia,All Products,Import,Partner share(%)-Top 5 Import Partner,12.2379
+New Zealand,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.683
+New Zealand,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,7.3781
+New Zealand,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,5.3391
+New Zealand,2017,World,Animal,Export,Export Product share(%),43.0813
+New Zealand,2017,World,Vegetable,Export,Export Product share(%),6.8195
+New Zealand,2017,World,Food Products,Export,Export Product share(%),11.9357
+New Zealand,2017,World,Minerals,Export,Export Product share(%),0.1882
+New Zealand,2017,World,Fuels,Export,Export Product share(%),1.6214
+New Zealand,2017,World,Chemicals,Export,Export Product share(%),4.3961
+New Zealand,2017,World,Plastic or Rubber,Export,Export Product share(%),1.051
+New Zealand,2017,World,Hides and Skins,Export,Export Product share(%),0.8234
+New Zealand,2017,World,Wood,Export,Export Product share(%),11.1766
+New Zealand,2017,World,Textiles and Clothing,Export,Export Product share(%),1.911
+New Zealand,2017,World,Footwear,Export,Export Product share(%),0.1111
+New Zealand,2017,World,Stone and Glass,Export,Export Product share(%),1.4486
+New Zealand,2017,World,Metals,Export,Export Product share(%),3.7247
+New Zealand,2017,World,Mach and Elec,Export,Export Product share(%),4.948
+New Zealand,2017,World,Transportation,Export,Export Product share(%),1.2318
+New Zealand,2017,World,Miscellaneous,Export,Export Product share(%),5.5317
+New Zealand,2017,World,Raw materials,Export,Export Product share(%),32.9064
+New Zealand,2017,World,Intermediate goods,Export,Export Product share(%),29.3669
+New Zealand,2017,World,Consumer goods,Export,Export Product share(%),27.1028
+New Zealand,2017,World,Capital goods,Export,Export Product share(%),7.2886
+New Zealand,2017,World,Raw materials,Import,Import Product share(%),9.1247
+New Zealand,2017,World,Intermediate goods,Import,Import Product share(%),15.5959
+New Zealand,2017,World,Consumer goods,Import,Import Product share(%),44.5036
+New Zealand,2017,World,Capital goods,Import,Import Product share(%),29.9388
+New Zealand,2017,World,Raw materials,Tariff,Weighted Average (%),0.203439892944142
+New Zealand,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.539724740585938
+New Zealand,2017,World,Consumer goods,Tariff,Weighted Average (%),2.10128154517229
+New Zealand,2017,World,Capital goods,Tariff,Weighted Average (%),1.10084031122489
+New Zealand,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+New Zealand,2017,World,All Products,Trade Indicator,Country Growth (%),2.30922792973318
+New Zealand,2017,World,All Products,Tariff,Simple Average (%),2.12561231844255
+New Zealand,2017,World,All Products,Tariff,Weighted Average (%),1.34637368656169
+New Zealand,2017,World,All Products,Tariff,Maximum Rate (%),200.680892944336
+New Zealand,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),62.5585800477059
+New Zealand,2017,...,...,Trade Indicator,Index of export market penetration,6.34957624179879
+New Zealand,2017,...,...,Trade Indicator,HH Market concentration index,0.113201559284582
+New Zealand,2017,...,...,Development,Trade in services (% of GDP),14.4303938753617
+New Zealand,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",38970

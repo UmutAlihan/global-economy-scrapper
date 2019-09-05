@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Kenya,2017,Pakistan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,619.675289134492
+Kenya,2017,Uganda,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,597.969780256577
+Kenya,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,457.276291489614
+Kenya,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,424.59605908365
+Kenya,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,372.946537220183
+Kenya,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3778.49694896519
+Kenya,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1648.38139331629
+Kenya,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1338.35221373632
+Kenya,2017,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1108.59472557215
+Kenya,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,789.926980478912
+Kenya,2017,World,Animal,Export,Export(US$ Mil),83.6454473989592
+Kenya,2017,World,Vegetable,Export,Export(US$ Mil),2854.65253953079
+Kenya,2017,World,Food Products,Export,Export(US$ Mil),490.033609222141
+Kenya,2017,World,Minerals,Export,Export(US$ Mil),266.407079177422
+Kenya,2017,World,Fuels,Export,Export(US$ Mil),353.721557644407
+Kenya,2017,World,Chemicals,Export,Export(US$ Mil),415.419080803393
+Kenya,2017,World,Plastic or Rubber,Export,Export(US$ Mil),137.365775650506
+Kenya,2017,World,Hides and Skins,Export,Export(US$ Mil),51.6225058701241
+Kenya,2017,World,Wood,Export,Export(US$ Mil),116.486331891098
+Kenya,2017,World,Textiles and Clothing,Export,Export(US$ Mil),398.716744094272
+Kenya,2017,World,Footwear,Export,Export(US$ Mil),41.8313215442666
+Kenya,2017,World,Stone and Glass,Export,Export(US$ Mil),39.2792039611769
+Kenya,2017,World,Metals,Export,Export(US$ Mil),240.219373941246
+Kenya,2017,World,Mach and Elec,Export,Export(US$ Mil),126.954827478793
+Kenya,2017,World,Transportation,Export,Export(US$ Mil),59.9717121213637
+Kenya,2017,World,Miscellaneous,Export,Export(US$ Mil),71.0877094590779
+Kenya,2017,World,Raw materials,Export,Export(US$ Mil),1094.4285981127
+Kenya,2017,World,Intermediate goods,Export,Export(US$ Mil),594.777346782725
+Kenya,2017,World,Consumer goods,Export,Export(US$ Mil),3847.22201583076
+Kenya,2017,World,Capital goods,Export,Export(US$ Mil),198.096545588519
+Kenya,2017,World,Raw materials,Import,Import(US$ Mil),1197.83577672212
+Kenya,2017,World,Intermediate goods,Import,Import(US$ Mil),4748.03784751437
+Kenya,2017,World,Consumer goods,Import,Import(US$ Mil),6384.61097462373
+Kenya,2017,World,Capital goods,Import,Import(US$ Mil),4234.22008135659
+Kenya,2017,World,All Products,Export,Exports (in US$ Mil),5747.41481978904
+Kenya,2017,World,All Products,Import,Imports (in US$ Mil),16690.1970468122
+Kenya,2013,World,All Products,Tariff,Duty Free Imports (US$ Thousand),6019930.28899999
+Kenya,2017,...,...,Development,Trade Balance (current US$ Mil),-8645.9841273986
+Kenya,2017,...,...,Development,GDP (current US$ Mil),79263.0757492682
+Kenya,2013,...,...,Tariff,No. Of Tariff Agreement,4
+Kenya,2017,...,...,Import,No. Of Import partners,171
+Kenya,2017,...,...,Import,No. Of Import products,3939
+Kenya,2017,...,...,Export,No. Of Export partners,173
+Kenya,2017,...,...,Export,No. Of Export products,3306
+Kenya,2016,...,...,Others,Population,48461567
+Kenya,2018,...,...,Others,Ease of Doing Business Rank,80
+Kenya,2018,...,...,Others,Trading Across Borders Rank,106
+Kenya,2017,...,...,Others,CPIA Trade Ratings,4
+Kenya,2016,...,...,Others,LPI Rank,42
+Kenya,2016,...,...,Others,LPI Score,3.331295
+Kenya,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1223468
+Kenya,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1305724
+Kenya,,...,...,Others,Services Trade Restrictions Index - Over All,29.5
+Kenya,2017,Pakistan,All Products,Export,Partner share(%)-Top 5 Export Partner,10.7818
+Kenya,2017,Uganda,All Products,Export,Partner share(%)-Top 5 Export Partner,10.4042
+Kenya,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9562
+Kenya,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,7.3876
+Kenya,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.4889
+Kenya,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,22.639
+Kenya,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8763
+Kenya,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,8.0188
+Kenya,2017,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,6.6422
+Kenya,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,4.7329
+Kenya,2017,World,Animal,Export,Export Product share(%),1.4554
+Kenya,2017,World,Vegetable,Export,Export Product share(%),49.6685
+Kenya,2017,World,Food Products,Export,Export Product share(%),8.5262
+Kenya,2017,World,Minerals,Export,Export Product share(%),4.6353
+Kenya,2017,World,Fuels,Export,Export Product share(%),6.1544
+Kenya,2017,World,Chemicals,Export,Export Product share(%),7.2279
+Kenya,2017,World,Plastic or Rubber,Export,Export Product share(%),2.39
+Kenya,2017,World,Hides and Skins,Export,Export Product share(%),0.8982
+Kenya,2017,World,Wood,Export,Export Product share(%),2.0268
+Kenya,2017,World,Textiles and Clothing,Export,Export Product share(%),6.9373
+Kenya,2017,World,Footwear,Export,Export Product share(%),0.7278
+Kenya,2017,World,Stone and Glass,Export,Export Product share(%),0.6834
+Kenya,2017,World,Metals,Export,Export Product share(%),4.1796
+Kenya,2017,World,Mach and Elec,Export,Export Product share(%),2.2089
+Kenya,2017,World,Transportation,Export,Export Product share(%),1.0435
+Kenya,2017,World,Miscellaneous,Export,Export Product share(%),1.2369
+Kenya,2017,World,Raw materials,Export,Export Product share(%),19.0421
+Kenya,2017,World,Intermediate goods,Export,Export Product share(%),10.3486
+Kenya,2017,World,Consumer goods,Export,Export Product share(%),66.9383
+Kenya,2017,World,Capital goods,Export,Export Product share(%),3.4467
+Kenya,2017,World,Raw materials,Import,Import Product share(%),7.1769
+Kenya,2017,World,Intermediate goods,Import,Import Product share(%),28.4481
+Kenya,2017,World,Consumer goods,Import,Import Product share(%),38.2537
+Kenya,2017,World,Capital goods,Import,Import Product share(%),25.3695
+Kenya,2013,World,Raw materials,Tariff,Weighted Average (%),4.69675205669296
+Kenya,2013,World,Intermediate goods,Tariff,Weighted Average (%),8.13380842568572
+Kenya,2013,World,Consumer goods,Tariff,Weighted Average (%),13.8416413737983
+Kenya,2013,World,Capital goods,Tariff,Weighted Average (%),5.09190180386988
+Kenya,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Kenya,2017,World,All Products,Trade Indicator,Country Growth (%),-3.67132605393774
+Kenya,2013,World,All Products,Tariff,Simple Average (%),11.7191114319538
+Kenya,2013,World,All Products,Tariff,Weighted Average (%),9.64204431544562
+Kenya,2013,World,All Products,Tariff,Maximum Rate (%),100
+Kenya,2013,World,All Products,Tariff,Duty Free Tariff Lines Share (%),40.0872267039138
+Kenya,2017,...,...,Trade Indicator,Index of export market penetration,2.97512729190591
+Kenya,2017,...,...,Trade Indicator,HH Market concentration index,0.0569959463681565
+Kenya,2017,...,...,Development,Trade Balance (% of GDP),-10.9079594069101
+Kenya,2017,...,...,Development,Trade in services (% of GDP),9.76450954293308
+Kenya,2017,...,...,Development,Trade (% of GDP),37.2501087637339
+Kenya,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",1460

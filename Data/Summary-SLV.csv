@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+El Salvador,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2588.43112661
+El Salvador,2017,Honduras,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,796.858281300001
+El Salvador,2017,Guatemala,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,792.227922630001
+El Salvador,2017,Nicaragua,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,430.85471091
+El Salvador,2017,Costa Rica,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,261.83703751
+El Salvador,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3371.16272875
+El Salvador,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1446.74784776
+El Salvador,2017,Guatemala,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1047.57117327
+El Salvador,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,878.063590459999
+El Salvador,2017,Honduras,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,584.82907431
+El Salvador,2017,World,Animal,Export,Export(US$ Mil),63.5892924
+El Salvador,2017,World,Vegetable,Export,Export(US$ Mil),236.52647405
+El Salvador,2017,World,Food Products,Export,Export(US$ Mil),803.28348122
+El Salvador,2017,World,Minerals,Export,Export(US$ Mil),13.469539
+El Salvador,2017,World,Fuels,Export,Export(US$ Mil),182.60976715
+El Salvador,2017,World,Chemicals,Export,Export(US$ Mil),297.34815514
+El Salvador,2017,World,Plastic or Rubber,Export,Export(US$ Mil),371.31182021
+El Salvador,2017,World,Hides and Skins,Export,Export(US$ Mil),9.07839198
+El Salvador,2017,World,Wood,Export,Export(US$ Mil),315.30300226
+El Salvador,2017,World,Textiles and Clothing,Export,Export(US$ Mil),2617.13214275
+El Salvador,2017,World,Footwear,Export,Export(US$ Mil),40.62983983
+El Salvador,2017,World,Stone and Glass,Export,Export(US$ Mil),60.08167744
+El Salvador,2017,World,Metals,Export,Export(US$ Mil),280.66272134
+El Salvador,2017,World,Mach and Elec,Export,Export(US$ Mil),357.58938136
+El Salvador,2017,World,Transportation,Export,Export(US$ Mil),11.93834668
+El Salvador,2017,World,Miscellaneous,Export,Export(US$ Mil),99.46080958
+El Salvador,2017,World,Raw materials,Export,Export(US$ Mil),251.17854128
+El Salvador,2017,World,Intermediate goods,Export,Export(US$ Mil),1051.35676586
+El Salvador,2017,World,Consumer goods,Export,Export(US$ Mil),4164.9654212
+El Salvador,2017,World,Capital goods,Export,Export(US$ Mil),291.57220137
+El Salvador,2017,World,Raw materials,Import,Import(US$ Mil),738.659698809999
+El Salvador,2017,World,Intermediate goods,Import,Import(US$ Mil),3070.18565842
+El Salvador,2017,World,Consumer goods,Import,Import(US$ Mil),5059.22287223
+El Salvador,2017,World,Capital goods,Import,Import(US$ Mil),1705.24819059
+El Salvador,2017,World,All Products,Export,Exports (in US$ Mil),5760.01484239
+El Salvador,2017,World,All Products,Import,Imports (in US$ Mil),10592.78853115
+El Salvador,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),7202375.30496
+El Salvador,2017,...,...,Development,Trade Balance (current US$ Mil),-4284.45
+El Salvador,2017,...,...,Development,GDP (current US$ Mil),24805.4396
+El Salvador,2017,...,...,Tariff,No. Of Tariff Agreement,15
+El Salvador,2017,...,...,Import,No. Of Import partners,175
+El Salvador,2017,...,...,Import,No. Of Import products,3964
+El Salvador,2017,...,...,Export,No. Of Export partners,123
+El Salvador,2017,...,...,Export,No. Of Export products,2628
+El Salvador,2016,...,...,Others,Population,6344722
+El Salvador,2018,...,...,Others,Ease of Doing Business Rank,73
+El Salvador,2018,...,...,Others,Trading Across Borders Rank,43
+El Salvador,2016,...,...,Others,LPI Rank,83
+El Salvador,2016,...,...,Others,LPI Score,2.705726
+El Salvador,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1910
+El Salvador,2014,...,...,Others,No Of NTM Measures,27
+El Salvador,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0630973
+El Salvador,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1043782
+El Salvador,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,44.9379
+El Salvador,2017,Honduras,All Products,Export,Partner share(%)-Top 5 Export Partner,13.8343
+El Salvador,2017,Guatemala,All Products,Export,Partner share(%)-Top 5 Export Partner,13.7539
+El Salvador,2017,Nicaragua,All Products,Export,Partner share(%)-Top 5 Export Partner,7.4801
+El Salvador,2017,Costa Rica,All Products,Export,Partner share(%)-Top 5 Export Partner,4.5458
+El Salvador,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,31.8251
+El Salvador,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,13.6579
+El Salvador,2017,Guatemala,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8895
+El Salvador,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2893
+El Salvador,2017,Honduras,All Products,Import,Partner share(%)-Top 5 Import Partner,5.521
+El Salvador,2017,World,Animal,Export,Export Product share(%),1.104
+El Salvador,2017,World,Vegetable,Export,Export Product share(%),4.1064
+El Salvador,2017,World,Food Products,Export,Export Product share(%),13.9459
+El Salvador,2017,World,Minerals,Export,Export Product share(%),0.2338
+El Salvador,2017,World,Fuels,Export,Export Product share(%),3.1703
+El Salvador,2017,World,Chemicals,Export,Export Product share(%),5.1623
+El Salvador,2017,World,Plastic or Rubber,Export,Export Product share(%),6.4464
+El Salvador,2017,World,Hides and Skins,Export,Export Product share(%),0.1576
+El Salvador,2017,World,Wood,Export,Export Product share(%),5.474
+El Salvador,2017,World,Textiles and Clothing,Export,Export Product share(%),45.4362
+El Salvador,2017,World,Footwear,Export,Export Product share(%),0.7054
+El Salvador,2017,World,Stone and Glass,Export,Export Product share(%),1.0431
+El Salvador,2017,World,Metals,Export,Export Product share(%),4.8726
+El Salvador,2017,World,Mach and Elec,Export,Export Product share(%),6.2081
+El Salvador,2017,World,Transportation,Export,Export Product share(%),0.2073
+El Salvador,2017,World,Miscellaneous,Export,Export Product share(%),1.7267
+El Salvador,2017,World,Raw materials,Export,Export Product share(%),4.3607
+El Salvador,2017,World,Intermediate goods,Export,Export Product share(%),18.2527
+El Salvador,2017,World,Consumer goods,Export,Export Product share(%),72.3082
+El Salvador,2017,World,Capital goods,Export,Export Product share(%),5.062
+El Salvador,2017,World,Raw materials,Import,Import Product share(%),6.9732
+El Salvador,2017,World,Intermediate goods,Import,Import Product share(%),28.9837
+El Salvador,2017,World,Consumer goods,Import,Import Product share(%),47.761
+El Salvador,2017,World,Capital goods,Import,Import Product share(%),16.0982
+El Salvador,2017,World,Raw materials,Tariff,Weighted Average (%),3.24059537808041
+El Salvador,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.1538415783673
+El Salvador,2017,World,Consumer goods,Tariff,Weighted Average (%),3.06830232191646
+El Salvador,2017,World,Capital goods,Tariff,Weighted Average (%),1.02205928518297
+El Salvador,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+El Salvador,2017,World,All Products,Trade Indicator,Country Growth (%),-9.41605283030288
+El Salvador,2017,World,All Products,Tariff,Simple Average (%),3.69259074228694
+El Salvador,2017,World,All Products,Tariff,Weighted Average (%),2.06880788208249
+El Salvador,2017,World,All Products,Tariff,Maximum Rate (%),164
+El Salvador,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),62.5195538076929
+El Salvador,2017,...,...,Trade Indicator,Index of export market penetration,2.74636407900586
+El Salvador,2017,...,...,Trade Indicator,HH Market concentration index,0.351504597357024
+El Salvador,2017,...,...,Development,Trade Balance (% of GDP),-17.2722195981562
+El Salvador,2017,...,...,Development,Trade in services (% of GDP),17.8394518369195
+El Salvador,2017,...,...,Development,Trade (% of GDP),72.5479180784202
+El Salvador,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",3560

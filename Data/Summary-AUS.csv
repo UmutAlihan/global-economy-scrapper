@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Australia,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,68095.6770265779
+Australia,2017,Unspecified,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,34610.9606838293
+Australia,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,24008.4209631575
+Australia,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13145.7465079983
+Australia,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10757.1371305709
+Australia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,49970.9705318077
+Australia,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,23613.2191369594
+Australia,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,16510.8745569156
+Australia,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15899.1286871808
+Australia,2017,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15085.4042462151
+Australia,2017,World,Animal,Export,Export(US$ Mil),13328.3352261486
+Australia,2017,World,Vegetable,Export,Export(US$ Mil),13598.0133465129
+Australia,2017,World,Food Products,Export,Export(US$ Mil),6101.99024982495
+Australia,2017,World,Minerals,Export,Export(US$ Mil),60672.1294430249
+Australia,2017,World,Fuels,Export,Export(US$ Mil),69396.6127492873
+Australia,2017,World,Chemicals,Export,Export(US$ Mil),11397.5808338311
+Australia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1131.67300575204
+Australia,2017,World,Hides and Skins,Export,Export(US$ Mil),830.779824097694
+Australia,2017,World,Wood,Export,Export(US$ Mil),2843.9060949186
+Australia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),4878.00162014646
+Australia,2017,World,Footwear,Export,Export(US$ Mil),101.818333807763
+Australia,2017,World,Stone and Glass,Export,Export(US$ Mil),14991.6835055356
+Australia,2017,World,Metals,Export,Export(US$ Mil),10231.288935803
+Australia,2017,World,Mach and Elec,Export,Export(US$ Mil),7652.52787776285
+Australia,2017,World,Transportation,Export,Export(US$ Mil),3586.91316897119
+Australia,2017,World,Miscellaneous,Export,Export(US$ Mil),9419.95298752272
+Australia,2017,World,Raw materials,Export,Export(US$ Mil),134900.171448403
+Australia,2017,World,Intermediate goods,Export,Export(US$ Mil),38576.6038419485
+Australia,2017,World,Consumer goods,Export,Export(US$ Mil),37468.540601225
+Australia,2017,World,Capital goods,Export,Export(US$ Mil),10847.0453354958
+Australia,2017,World,Raw materials,Import,Import(US$ Mil),12862.4785385078
+Australia,2017,World,Intermediate goods,Import,Import(US$ Mil),32506.4803692881
+Australia,2017,World,Consumer goods,Import,Import(US$ Mil),97896.5984807175
+Australia,2017,World,Capital goods,Import,Import(US$ Mil),73723.1117421865
+Australia,2017,World,All Products,Export,Exports (in US$ Mil),230163.207202948
+Australia,2017,World,All Products,Import,Imports (in US$ Mil),228441.736928991
+Australia,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),149028380.399066
+Australia,2017,...,...,Development,Trade Balance (current US$ Mil),8572.29051964697
+Australia,2017,...,...,Development,GDP (current US$ Mil),1323421.07247907
+Australia,2017,...,...,Tariff,No. Of Tariff Agreement,28
+Australia,2017,...,...,Import,No. Of Import partners,219
+Australia,2017,...,...,Import,No. Of Import products,4362
+Australia,2017,...,...,Export,No. Of Export partners,211
+Australia,2017,...,...,Export,No. Of Export products,4181
+Australia,2016,...,...,Others,Population,24210809
+Australia,2018,...,...,Others,Ease of Doing Business Rank,14
+Australia,2018,...,...,Others,Trading Across Borders Rank,95
+Australia,2016,...,...,Others,LPI Rank,19
+Australia,2016,...,...,Others,LPI Score,3.793385
+Australia,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5204
+Australia,2015,...,...,Others,No Of NTM Measures,64
+Australia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1129992
+Australia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1162101
+Australia,,...,...,Others,Services Trade Restrictions Index - Over All,20.2
+Australia,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.9492444992
+Australia,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.9338349104
+Australia,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,29.5858
+Australia,2017,Unspecified,All Products,Export,Partner share(%)-Top 5 Export Partner,15.0376
+Australia,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,10.431
+Australia,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,5.7115
+Australia,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,4.6737
+Australia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.8747
+Australia,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.3366
+Australia,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,7.2276
+Australia,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,6.9598
+Australia,2017,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,6.6036
+Australia,2017,World,Animal,Export,Export Product share(%),5.7908
+Australia,2017,World,Vegetable,Export,Export Product share(%),5.908
+Australia,2017,World,Food Products,Export,Export Product share(%),2.6512
+Australia,2017,World,Minerals,Export,Export Product share(%),26.3605
+Australia,2017,World,Fuels,Export,Export Product share(%),30.151
+Australia,2017,World,Chemicals,Export,Export Product share(%),4.952
+Australia,2017,World,Plastic or Rubber,Export,Export Product share(%),0.4917
+Australia,2017,World,Hides and Skins,Export,Export Product share(%),0.361
+Australia,2017,World,Wood,Export,Export Product share(%),1.2356
+Australia,2017,World,Textiles and Clothing,Export,Export Product share(%),2.1194
+Australia,2017,World,Footwear,Export,Export Product share(%),0.0442
+Australia,2017,World,Stone and Glass,Export,Export Product share(%),6.5135
+Australia,2017,World,Metals,Export,Export Product share(%),4.4452
+Australia,2017,World,Mach and Elec,Export,Export Product share(%),3.3248
+Australia,2017,World,Transportation,Export,Export Product share(%),1.5584
+Australia,2017,World,Miscellaneous,Export,Export Product share(%),4.0927
+Australia,2017,World,Raw materials,Export,Export Product share(%),58.6107
+Australia,2017,World,Intermediate goods,Export,Export Product share(%),16.7605
+Australia,2017,World,Consumer goods,Export,Export Product share(%),16.2791
+Australia,2017,World,Capital goods,Export,Export Product share(%),4.7128
+Australia,2017,World,Raw materials,Import,Import Product share(%),5.6305
+Australia,2017,World,Intermediate goods,Import,Import Product share(%),14.2297
+Australia,2017,World,Consumer goods,Import,Import Product share(%),42.8541
+Australia,2017,World,Capital goods,Import,Import Product share(%),32.2722
+Australia,2017,World,Raw materials,Tariff,Weighted Average (%),0.0713500687067397
+Australia,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.86435314267563
+Australia,2017,World,Consumer goods,Tariff,Weighted Average (%),1.16956403141721
+Australia,2017,World,Capital goods,Tariff,Weighted Average (%),0.756769714222827
+Australia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Australia,2017,World,All Products,Trade Indicator,Country Growth (%),8.81597461017001
+Australia,2017,World,All Products,Tariff,Simple Average (%),2.23335183788696
+Australia,2017,World,All Products,Tariff,Weighted Average (%),0.894543924973422
+Australia,2017,World,All Products,Tariff,Maximum Rate (%),27.8204002380371
+Australia,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),53.3979853281144
+Australia,2017,...,...,Trade Indicator,Index of export market penetration,12.25441172369
+Australia,2017,...,...,Trade Indicator,HH Market concentration index,0.195618289822381
+Australia,2017,...,...,Development,Trade Balance (% of GDP),0.6477371939975
+Australia,2017,...,...,Development,Trade in services (% of GDP),10.0466690367951
+Australia,2017,...,...,Development,Trade (% of GDP),41.8929700625283
+Australia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",51360

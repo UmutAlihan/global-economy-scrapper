@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Philippines,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10853.15751
+Philippines,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9666.678917
+Philippines,2017,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9024.710307
+Philippines,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8017.052109
+Philippines,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4333.434204
+Philippines,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,18477.818271
+Philippines,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11798.458431
+Philippines,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8819.744636
+Philippines,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8309.884174
+Philippines,2017,Thailand,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7064.982184
+Philippines,2017,World,Animal,Export,Export(US$ Mil),567.694935
+Philippines,2017,World,Vegetable,Export,Export(US$ Mil),3756.315862
+Philippines,2017,World,Food Products,Export,Export(US$ Mil),2314.385628
+Philippines,2017,World,Minerals,Export,Export(US$ Mil),1197.092876
+Philippines,2017,World,Fuels,Export,Export(US$ Mil),1036.799593
+Philippines,2017,World,Chemicals,Export,Export(US$ Mil),1339.999551
+Philippines,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1139.927548
+Philippines,2017,World,Hides and Skins,Export,Export(US$ Mil),575.53195
+Philippines,2017,World,Wood,Export,Export(US$ Mil),1712.690423
+Philippines,2017,World,Textiles and Clothing,Export,Export(US$ Mil),1389.575924
+Philippines,2017,World,Footwear,Export,Export(US$ Mil),127.377367
+Philippines,2017,World,Stone and Glass,Export,Export(US$ Mil),1550.874519
+Philippines,2017,World,Metals,Export,Export(US$ Mil),3539.997457
+Philippines,2017,World,Mach and Elec,Export,Export(US$ Mil),41653.88496
+Philippines,2017,World,Transportation,Export,Export(US$ Mil),3532.929563
+Philippines,2017,World,Miscellaneous,Export,Export(US$ Mil),3277.53303
+Philippines,2017,World,Raw materials,Export,Export(US$ Mil),4640.656582
+Philippines,2017,World,Intermediate goods,Export,Export(US$ Mil),8765.97184100001
+Philippines,2017,World,Consumer goods,Export,Export(US$ Mil),12102.554599
+Philippines,2017,World,Capital goods,Export,Export(US$ Mil),43203.381163
+Philippines,2017,World,Raw materials,Import,Import(US$ Mil),11712.6196
+Philippines,2017,World,Intermediate goods,Import,Import(US$ Mil),21084.309606
+Philippines,2017,World,Consumer goods,Import,Import(US$ Mil),27412.767787
+Philippines,2017,World,Capital goods,Import,Import(US$ Mil),41678.854429
+Philippines,2017,World,All Products,Export,Exports (in US$ Mil),68712.611186
+Philippines,2017,World,All Products,Import,Imports (in US$ Mil),101889.431966
+Philippines,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),72513079.98
+Philippines,2017,...,...,Development,Trade Balance (current US$ Mil),-31132.9779262237
+Philippines,2017,...,...,Development,GDP (current US$ Mil),313595.20873666
+Philippines,2017,...,...,Tariff,No. Of Tariff Agreement,8
+Philippines,2017,...,...,Import,No. Of Import partners,193
+Philippines,2017,...,...,Import,No. Of Import products,4350
+Philippines,2017,...,...,Export,No. Of Export partners,209
+Philippines,2017,...,...,Export,No. Of Export products,2883
+Philippines,2016,...,...,Others,Population,103320222
+Philippines,2018,...,...,Others,Ease of Doing Business Rank,113
+Philippines,2018,...,...,Others,Trading Across Borders Rank,99
+Philippines,2016,...,...,Others,LPI Rank,71
+Philippines,2016,...,...,Others,LPI Score,2.856259
+Philippines,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5204
+Philippines,2015,...,...,Others,No Of NTM Measures,103
+Philippines,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2167562
+Philippines,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.227657
+Philippines,,...,...,Others,Services Trade Restrictions Index - Over All,53.5
+Philippines,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.0772051737
+Philippines,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.0510980301
+Philippines,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,15.795
+Philippines,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,14.0683
+Philippines,2017,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,13.134
+Philippines,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,11.6675
+Philippines,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,6.3066
+Philippines,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,18.1352
+Philippines,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,11.5797
+Philippines,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,8.6562
+Philippines,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,8.1558
+Philippines,2017,Thailand,All Products,Import,Partner share(%)-Top 5 Import Partner,6.934
+Philippines,2017,World,Animal,Export,Export Product share(%),0.8262
+Philippines,2017,World,Vegetable,Export,Export Product share(%),5.4667
+Philippines,2017,World,Food Products,Export,Export Product share(%),3.3682
+Philippines,2017,World,Minerals,Export,Export Product share(%),1.7422
+Philippines,2017,World,Fuels,Export,Export Product share(%),1.5089
+Philippines,2017,World,Chemicals,Export,Export Product share(%),1.9502
+Philippines,2017,World,Plastic or Rubber,Export,Export Product share(%),1.659
+Philippines,2017,World,Hides and Skins,Export,Export Product share(%),0.8376
+Philippines,2017,World,Wood,Export,Export Product share(%),2.4925
+Philippines,2017,World,Textiles and Clothing,Export,Export Product share(%),2.0223
+Philippines,2017,World,Footwear,Export,Export Product share(%),0.1854
+Philippines,2017,World,Stone and Glass,Export,Export Product share(%),2.257
+Philippines,2017,World,Metals,Export,Export Product share(%),5.1519
+Philippines,2017,World,Mach and Elec,Export,Export Product share(%),60.6204
+Philippines,2017,World,Transportation,Export,Export Product share(%),5.1416
+Philippines,2017,World,Miscellaneous,Export,Export Product share(%),4.7699
+Philippines,2017,World,Raw materials,Export,Export Product share(%),6.7537
+Philippines,2017,World,Intermediate goods,Export,Export Product share(%),12.7574
+Philippines,2017,World,Consumer goods,Export,Export Product share(%),17.6133
+Philippines,2017,World,Capital goods,Export,Export Product share(%),62.8755
+Philippines,2017,World,Raw materials,Import,Import Product share(%),11.4954
+Philippines,2017,World,Intermediate goods,Import,Import Product share(%),20.6933
+Philippines,2017,World,Consumer goods,Import,Import Product share(%),26.9044
+Philippines,2017,World,Capital goods,Import,Import Product share(%),40.906
+Philippines,2017,World,Raw materials,Tariff,Weighted Average (%),3.17374656277167
+Philippines,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.17260431853739
+Philippines,2017,World,Consumer goods,Tariff,Weighted Average (%),2.96923703607157
+Philippines,2017,World,Capital goods,Tariff,Weighted Average (%),0.825572091808061
+Philippines,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Philippines,2017,World,All Products,Trade Indicator,Country Growth (%),2.80519085385775
+Philippines,2017,World,All Products,Tariff,Simple Average (%),3.70201730324602
+Philippines,2017,World,All Products,Tariff,Weighted Average (%),1.65931737225716
+Philippines,2017,World,All Products,Tariff,Maximum Rate (%),65
+Philippines,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),37.5470067787122
+Philippines,2017,...,...,Trade Indicator,Index of export market penetration,7.30236894884843
+Philippines,2017,...,...,Trade Indicator,HH Market concentration index,0.114259083269959
+Philippines,2017,...,...,Development,Trade Balance (% of GDP),-9.9277594360083
+Philippines,2017,...,...,Development,Trade in services (% of GDP),19.9364350351678
+Philippines,2017,...,...,Development,Trade (% of GDP),71.8306516961153
+Philippines,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",3660

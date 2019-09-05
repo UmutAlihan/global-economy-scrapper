@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Colombia,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11012.21522041
+Colombia,2017,Panama,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2584.23335637
+Colombia,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1999.57498961
+Colombia,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1542.30094611
+Colombia,2017,Mexico,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1536.66154457
+Colombia,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,12096.14541822
+Colombia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8754.46295629
+Colombia,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3436.89468365
+Colombia,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2286.01270595
+Colombia,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1873.99763772
+Colombia,2017,World,Animal,Export,Export(US$ Mil),276.2872344
+Colombia,2017,World,Vegetable,Export,Export(US$ Mil),5732.49516807
+Colombia,2017,World,Food Products,Export,Export(US$ Mil),1308.8372789
+Colombia,2017,World,Minerals,Export,Export(US$ Mil),76.7279726
+Colombia,2017,World,Fuels,Export,Export(US$ Mil),20446.99057501
+Colombia,2017,World,Chemicals,Export,Export(US$ Mil),1887.19738463
+Colombia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1423.54960834
+Colombia,2017,World,Hides and Skins,Export,Export(US$ Mil),163.01396459
+Colombia,2017,World,Wood,Export,Export(US$ Mil),455.99907585
+Colombia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),696.57369981
+Colombia,2017,World,Footwear,Export,Export(US$ Mil),44.24133739
+Colombia,2017,World,Stone and Glass,Export,Export(US$ Mil),2273.09270767
+Colombia,2017,World,Metals,Export,Export(US$ Mil),1177.25084139
+Colombia,2017,World,Mach and Elec,Export,Export(US$ Mil),908.70246896
+Colombia,2017,World,Transportation,Export,Export(US$ Mil),614.23149481
+Colombia,2017,World,Miscellaneous,Export,Export(US$ Mil),281.13024761
+Colombia,2017,World,Raw materials,Export,Export(US$ Mil),22212.67801833
+Colombia,2017,World,Intermediate goods,Export,Export(US$ Mil),6574.96834240999
+Colombia,2017,World,Consumer goods,Export,Export(US$ Mil),7875.40906795
+Colombia,2017,World,Capital goods,Export,Export(US$ Mil),1084.95617081
+Colombia,2017,World,Raw materials,Import,Import(US$ Mil),2987.98073887
+Colombia,2017,World,Intermediate goods,Import,Import(US$ Mil),13404.43711341
+Colombia,2017,World,Consumer goods,Import,Import(US$ Mil),16366.98408861
+Colombia,2017,World,Capital goods,Import,Import(US$ Mil),12865.51229396
+Colombia,2017,World,All Products,Export,Exports (in US$ Mil),37766.32106003
+Colombia,2017,World,All Products,Import,Imports (in US$ Mil),46050.1888125
+Colombia,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),18718384.1249
+Colombia,2017,...,...,Development,Trade Balance (current US$ Mil),-16204.2338843871
+Colombia,2017,...,...,Development,GDP (current US$ Mil),314457.601859523
+Colombia,2017,...,...,Tariff,No. Of Tariff Agreement,63
+Colombia,2017,...,...,Import,No. Of Import partners,199
+Colombia,2017,...,...,Import,No. Of Import products,4233
+Colombia,2017,...,...,Export,No. Of Export partners,183
+Colombia,2017,...,...,Export,No. Of Export products,3410
+Colombia,2016,...,...,Others,Population,48653419
+Colombia,2018,...,...,Others,Ease of Doing Business Rank,59
+Colombia,2018,...,...,Others,Trading Across Borders Rank,125
+Colombia,2016,...,...,Others,LPI Rank,94
+Colombia,2016,...,...,Others,LPI Score,2.612351
+Colombia,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),4024
+Colombia,2014,...,...,Others,No Of NTM Measures,68
+Colombia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2053517
+Colombia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2292567
+Colombia,,...,...,Others,Services Trade Restrictions Index - Over All,18.3
+Colombia,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.5811700821
+Colombia,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.182856917
+Colombia,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,29.1588
+Colombia,2017,Panama,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8427
+Colombia,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2946
+Colombia,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,4.0838
+Colombia,2017,Mexico,All Products,Export,Partner share(%)-Top 5 Export Partner,4.0689
+Colombia,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,26.2673
+Colombia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,19.0107
+Colombia,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4634
+Colombia,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,4.9642
+Colombia,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,4.0695
+Colombia,2017,World,Animal,Export,Export Product share(%),0.7316
+Colombia,2017,World,Vegetable,Export,Export Product share(%),15.1789
+Colombia,2017,World,Food Products,Export,Export Product share(%),3.4656
+Colombia,2017,World,Minerals,Export,Export Product share(%),0.2032
+Colombia,2017,World,Fuels,Export,Export Product share(%),54.1408
+Colombia,2017,World,Chemicals,Export,Export Product share(%),4.997
+Colombia,2017,World,Plastic or Rubber,Export,Export Product share(%),3.7694
+Colombia,2017,World,Hides and Skins,Export,Export Product share(%),0.4316
+Colombia,2017,World,Wood,Export,Export Product share(%),1.2074
+Colombia,2017,World,Textiles and Clothing,Export,Export Product share(%),1.8444
+Colombia,2017,World,Footwear,Export,Export Product share(%),0.1171
+Colombia,2017,World,Stone and Glass,Export,Export Product share(%),6.0188
+Colombia,2017,World,Metals,Export,Export Product share(%),3.1172
+Colombia,2017,World,Mach and Elec,Export,Export Product share(%),2.4061
+Colombia,2017,World,Transportation,Export,Export Product share(%),1.6264
+Colombia,2017,World,Miscellaneous,Export,Export Product share(%),0.7444
+Colombia,2017,World,Raw materials,Export,Export Product share(%),58.8161
+Colombia,2017,World,Intermediate goods,Export,Export Product share(%),17.4096
+Colombia,2017,World,Consumer goods,Export,Export Product share(%),20.853
+Colombia,2017,World,Capital goods,Export,Export Product share(%),2.8728
+Colombia,2017,World,Raw materials,Import,Import Product share(%),6.4885
+Colombia,2017,World,Intermediate goods,Import,Import Product share(%),29.1083
+Colombia,2017,World,Consumer goods,Import,Import Product share(%),35.5416
+Colombia,2017,World,Capital goods,Import,Import Product share(%),27.938
+Colombia,2017,World,Raw materials,Tariff,Weighted Average (%),6.22591726211617
+Colombia,2017,World,Intermediate goods,Tariff,Weighted Average (%),2.49311135108838
+Colombia,2017,World,Consumer goods,Tariff,Weighted Average (%),7.41535849402337
+Colombia,2017,World,Capital goods,Tariff,Weighted Average (%),3.23963112795602
+Colombia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Colombia,2017,World,All Products,Trade Indicator,Country Growth (%),5.83210406909469
+Colombia,2017,World,All Products,Tariff,Simple Average (%),4.39055461973219
+Colombia,2017,World,All Products,Tariff,Weighted Average (%),4.39719838085829
+Colombia,2017,World,All Products,Tariff,Maximum Rate (%),98
+Colombia,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),44.4489402697495
+Colombia,2017,...,...,Trade Indicator,Index of export market penetration,5.20925984157645
+Colombia,2017,...,...,Trade Indicator,HH Market concentration index,0.140171923872775
+Colombia,2017,...,...,Development,Trade Balance (% of GDP),-5.1530743059047
+Colombia,2017,...,...,Development,Trade in services (% of GDP),6.64837873911531
+Colombia,2017,...,...,Development,Trade (% of GDP),34.2583641512139
+Colombia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",5890

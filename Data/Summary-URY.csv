@@ -1,0 +1,105 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Uruguay,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1481.337988
+Uruguay,2017,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1298.663362
+Uruguay,2017,Free Zones,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1295.541869
+Uruguay,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,458.076611
+Uruguay,2017,Argentina,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,437.066961
+Uruguay,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1693.8157041
+Uruguay,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1646.49300769
+Uruguay,2017,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1063.93742451
+Uruguay,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,922.86748288
+Uruguay,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,219.63083439
+Uruguay,2017,World,Animal,Export,Export(US$ Mil),2701.478022
+Uruguay,2017,World,Vegetable,Export,Export(US$ Mil),2170.825912
+Uruguay,2017,World,Food Products,Export,Export(US$ Mil),193.981284
+Uruguay,2017,World,Minerals,Export,Export(US$ Mil),34.03709
+Uruguay,2017,World,Fuels,Export,Export(US$ Mil),157.756967
+Uruguay,2017,World,Chemicals,Export,Export(US$ Mil),367.979375
+Uruguay,2017,World,Plastic or Rubber,Export,Export(US$ Mil),285.540986
+Uruguay,2017,World,Hides and Skins,Export,Export(US$ Mil),253.091069
+Uruguay,2017,World,Wood,Export,Export(US$ Mil),973.09541
+Uruguay,2017,World,Textiles and Clothing,Export,Export(US$ Mil),248.149115
+Uruguay,2017,World,Footwear,Export,Export(US$ Mil),0.380294
+Uruguay,2017,World,Stone and Glass,Export,Export(US$ Mil),66.398261
+Uruguay,2017,World,Metals,Export,Export(US$ Mil),94.466517
+Uruguay,2017,World,Mach and Elec,Export,Export(US$ Mil),99.271763
+Uruguay,2017,World,Transportation,Export,Export(US$ Mil),123.275888
+Uruguay,2017,World,Miscellaneous,Export,Export(US$ Mil),119.659422
+Uruguay,2017,World,Raw materials,Export,Export(US$ Mil),4468.48557
+Uruguay,2017,World,Intermediate goods,Export,Export(US$ Mil),1899.460454
+Uruguay,2017,World,Consumer goods,Export,Export(US$ Mil),1355.144786
+Uruguay,2017,World,Capital goods,Export,Export(US$ Mil),165.122048
+Uruguay,2017,World,Raw materials,Import,Import(US$ Mil),712.212324770001
+Uruguay,2017,World,Intermediate goods,Import,Import(US$ Mil),1856.3968132
+Uruguay,2017,World,Consumer goods,Import,Import(US$ Mil),3871.33657702
+Uruguay,2017,World,Capital goods,Import,Import(US$ Mil),2017.65359661
+Uruguay,2017,World,All Products,Export,Exports (in US$ Mil),7889.387375
+Uruguay,2017,World,All Products,Import,Imports (in US$ Mil),8457.87666798
+Uruguay,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),3658220.73074
+Uruguay,2017,...,...,Development,Trade Balance (current US$ Mil),1756.995291229
+Uruguay,2017,...,...,Development,GDP (current US$ Mil),56156.9721576958
+Uruguay,2017,...,...,Tariff,No. Of Tariff Agreement,28
+Uruguay,2017,...,...,Import,No. Of Import partners,160
+Uruguay,2017,...,...,Import,No. Of Import products,3872
+Uruguay,2017,...,...,Export,No. Of Export partners,160
+Uruguay,2017,...,...,Export,No. Of Export products,1883
+Uruguay,2016,...,...,Others,Population,3444006
+Uruguay,2018,...,...,Others,Ease of Doing Business Rank,94
+Uruguay,2018,...,...,Others,Trading Across Borders Rank,151
+Uruguay,2016,...,...,Others,LPI Rank,65
+Uruguay,2016,...,...,Others,LPI Score,2.974545
+Uruguay,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),3077
+Uruguay,2014,...,...,Others,No Of NTM Measures,62
+Uruguay,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1060569
+Uruguay,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1371326
+Uruguay,,...,...,Others,Services Trade Restrictions Index - Over All,28.4
+Uruguay,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,18.7763
+Uruguay,2017,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,16.4609
+Uruguay,2017,Free Zones,All Products,Export,Partner share(%)-Top 5 Export Partner,16.4213
+Uruguay,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,5.8062
+Uruguay,2017,Argentina,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5399
+Uruguay,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,20.0265
+Uruguay,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,19.467
+Uruguay,2017,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,12.5792
+Uruguay,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.9113
+Uruguay,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,2.5968
+Uruguay,2017,World,Animal,Export,Export Product share(%),34.2419
+Uruguay,2017,World,Vegetable,Export,Export Product share(%),27.5158
+Uruguay,2017,World,Food Products,Export,Export Product share(%),2.4588
+Uruguay,2017,World,Minerals,Export,Export Product share(%),0.4314
+Uruguay,2017,World,Fuels,Export,Export Product share(%),1.9996
+Uruguay,2017,World,Chemicals,Export,Export Product share(%),4.6642
+Uruguay,2017,World,Plastic or Rubber,Export,Export Product share(%),3.6193
+Uruguay,2017,World,Hides and Skins,Export,Export Product share(%),3.208
+Uruguay,2017,World,Wood,Export,Export Product share(%),12.3342
+Uruguay,2017,World,Textiles and Clothing,Export,Export Product share(%),3.1454
+Uruguay,2017,World,Footwear,Export,Export Product share(%),0.0048
+Uruguay,2017,World,Stone and Glass,Export,Export Product share(%),0.8416
+Uruguay,2017,World,Metals,Export,Export Product share(%),1.1974
+Uruguay,2017,World,Mach and Elec,Export,Export Product share(%),1.2583
+Uruguay,2017,World,Transportation,Export,Export Product share(%),1.5626
+Uruguay,2017,World,Miscellaneous,Export,Export Product share(%),1.5167
+Uruguay,2017,World,Raw materials,Export,Export Product share(%),56.6392
+Uruguay,2017,World,Intermediate goods,Export,Export Product share(%),24.0761
+Uruguay,2017,World,Consumer goods,Export,Export Product share(%),17.1768
+Uruguay,2017,World,Capital goods,Export,Export Product share(%),2.093
+Uruguay,2017,World,Raw materials,Import,Import Product share(%),8.4207
+Uruguay,2017,World,Intermediate goods,Import,Import Product share(%),21.9487
+Uruguay,2017,World,Consumer goods,Import,Import Product share(%),45.772
+Uruguay,2017,World,Capital goods,Import,Import Product share(%),23.8553
+Uruguay,2017,World,Raw materials,Tariff,Weighted Average (%),0.750701884084666
+Uruguay,2017,World,Intermediate goods,Tariff,Weighted Average (%),4.37681532253196
+Uruguay,2017,World,Consumer goods,Tariff,Weighted Average (%),9.38494581281347
+Uruguay,2017,World,Capital goods,Tariff,Weighted Average (%),4.85508307323542
+Uruguay,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Uruguay,2017,World,All Products,Trade Indicator,Country Growth (%),4.63987766026723
+Uruguay,2017,World,All Products,Tariff,Simple Average (%),10.0197587603654
+Uruguay,2017,World,All Products,Tariff,Weighted Average (%),6.29545721176547
+Uruguay,2017,World,All Products,Tariff,Maximum Rate (%),35
+Uruguay,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),30.0927600939148
+Uruguay,2017,...,...,Trade Indicator,Index of export market penetration,2.59224644187039
+Uruguay,2017,...,...,Trade Indicator,HH Market concentration index,0.0994094998041957
+Uruguay,2017,...,...,Development,Trade Balance (% of GDP),3.1287215526777
+Uruguay,2017,...,...,Development,Trade in services (% of GDP),14.9107571850509
+Uruguay,2017,...,...,Development,Trade (% of GDP),39.9878243855738
+Uruguay,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",15250

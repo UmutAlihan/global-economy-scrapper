@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Mexico,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,327357.936007
+Mexico,2017,Canada,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11376.493835
+Mexico,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6949.907291
+Mexico,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6713.028343
+Mexico,2017,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4244.585804
+Mexico,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,194992.230974
+Mexico,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,74145.284394
+Mexico,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,18184.834934
+Mexico,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,16420.972265
+Mexico,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15756.395473
+Mexico,2017,World,Animal,Export,Export(US$ Mil),3850.577498
+Mexico,2017,World,Vegetable,Export,Export(US$ Mil),15404.719537
+Mexico,2017,World,Food Products,Export,Export(US$ Mil),13276.107403
+Mexico,2017,World,Minerals,Export,Export(US$ Mil),5452.522653
+Mexico,2017,World,Fuels,Export,Export(US$ Mil),22617.826177
+Mexico,2017,World,Chemicals,Export,Export(US$ Mil),9799.021749
+Mexico,2017,World,Plastic or Rubber,Export,Export(US$ Mil),11863.141876
+Mexico,2017,World,Hides and Skins,Export,Export(US$ Mil),640.449809
+Mexico,2017,World,Wood,Export,Export(US$ Mil),3055.869517
+Mexico,2017,World,Textiles and Clothing,Export,Export(US$ Mil),6464.30804
+Mexico,2017,World,Footwear,Export,Export(US$ Mil),694.880033
+Mexico,2017,World,Stone and Glass,Export,Export(US$ Mil),10514.180767
+Mexico,2017,World,Metals,Export,Export(US$ Mil),16755.929717
+Mexico,2017,World,Mach and Elec,Export,Export(US$ Mil),147409.57349
+Mexico,2017,World,Transportation,Export,Export(US$ Mil),105475.071761
+Mexico,2017,World,Miscellaneous,Export,Export(US$ Mil),36177.198143
+Mexico,2017,World,Raw materials,Export,Export(US$ Mil),44943.328358
+Mexico,2017,World,Intermediate goods,Export,Export(US$ Mil),37189.859875
+Mexico,2017,World,Consumer goods,Export,Export(US$ Mil),124893.550045
+Mexico,2017,World,Capital goods,Export,Export(US$ Mil),197115.926477
+Mexico,2017,World,Raw materials,Import,Import(US$ Mil),19221.652985
+Mexico,2017,World,Intermediate goods,Import,Import(US$ Mil),79141.9226720001
+Mexico,2017,World,Consumer goods,Import,Import(US$ Mil),118057.407611
+Mexico,2017,World,Capital goods,Import,Import(US$ Mil),188879.440911
+Mexico,2017,World,All Products,Export,Exports (in US$ Mil),409451.37817
+Mexico,2017,World,All Products,Import,Imports (in US$ Mil),420369.113272
+Mexico,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),348949027.565001
+Mexico,2017,...,...,Development,Trade Balance (current US$ Mil),-20773.767796673
+Mexico,2017,...,...,Development,GDP (current US$ Mil),1150887.82340418
+Mexico,2017,...,...,Tariff,No. Of Tariff Agreement,57
+Mexico,2017,...,...,Import,No. Of Import partners,223
+Mexico,2017,...,...,Import,No. Of Import products,4450
+Mexico,2017,...,...,Export,No. Of Export partners,200
+Mexico,2017,...,...,Export,No. Of Export products,4211
+Mexico,2016,...,...,Others,Population,127540423
+Mexico,2018,...,...,Others,Ease of Doing Business Rank,49
+Mexico,2018,...,...,Others,Trading Across Borders Rank,63
+Mexico,2016,...,...,Others,LPI Rank,54
+Mexico,2016,...,...,Others,LPI Score,3.114031
+Mexico,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),3454
+Mexico,2014,...,...,Others,No Of NTM Measures,55
+Mexico,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1518051
+Mexico,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2185722
+Mexico,,...,...,Others,Services Trade Restrictions Index - Over All,29.5
+Mexico,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,1.277190208
+Mexico,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.8149527311
+Mexico,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,79.9504
+Mexico,2017,Canada,All Products,Export,Partner share(%)-Top 5 Export Partner,2.7785
+Mexico,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,1.6974
+Mexico,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,1.6395
+Mexico,2017,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,1.0367
+Mexico,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,46.386
+Mexico,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,17.6381
+Mexico,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3259
+Mexico,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,3.9063
+Mexico,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,3.7482
+Mexico,2017,World,Animal,Export,Export Product share(%),0.9404
+Mexico,2017,World,Vegetable,Export,Export Product share(%),3.7623
+Mexico,2017,World,Food Products,Export,Export Product share(%),3.2424
+Mexico,2017,World,Minerals,Export,Export Product share(%),1.3317
+Mexico,2017,World,Fuels,Export,Export Product share(%),5.5239
+Mexico,2017,World,Chemicals,Export,Export Product share(%),2.3932
+Mexico,2017,World,Plastic or Rubber,Export,Export Product share(%),2.8973
+Mexico,2017,World,Hides and Skins,Export,Export Product share(%),0.1564
+Mexico,2017,World,Wood,Export,Export Product share(%),0.7463
+Mexico,2017,World,Textiles and Clothing,Export,Export Product share(%),1.5788
+Mexico,2017,World,Footwear,Export,Export Product share(%),0.1697
+Mexico,2017,World,Stone and Glass,Export,Export Product share(%),2.5679
+Mexico,2017,World,Metals,Export,Export Product share(%),4.0923
+Mexico,2017,World,Mach and Elec,Export,Export Product share(%),36.0017
+Mexico,2017,World,Transportation,Export,Export Product share(%),25.7601
+Mexico,2017,World,Miscellaneous,Export,Export Product share(%),8.8355
+Mexico,2017,World,Raw materials,Export,Export Product share(%),10.9765
+Mexico,2017,World,Intermediate goods,Export,Export Product share(%),9.0829
+Mexico,2017,World,Consumer goods,Export,Export Product share(%),30.5027
+Mexico,2017,World,Capital goods,Export,Export Product share(%),48.1415
+Mexico,2017,World,Raw materials,Import,Import Product share(%),4.5726
+Mexico,2017,World,Intermediate goods,Import,Import Product share(%),18.8268
+Mexico,2017,World,Consumer goods,Import,Import Product share(%),28.0842
+Mexico,2017,World,Capital goods,Import,Import Product share(%),44.9318
+Mexico,2017,World,Raw materials,Tariff,Weighted Average (%),1.11093223731114
+Mexico,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.630720244714875
+Mexico,2017,World,Consumer goods,Tariff,Weighted Average (%),3.44231669468881
+Mexico,2017,World,Capital goods,Tariff,Weighted Average (%),0.376059337206604
+Mexico,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Mexico,2017,World,All Products,Trade Indicator,Country Growth (%),3.29319822558636
+Mexico,2017,World,All Products,Tariff,Simple Average (%),2.96661387754649
+Mexico,2017,World,All Products,Tariff,Weighted Average (%),1.23858191098267
+Mexico,2017,World,All Products,Tariff,Maximum Rate (%),75
+Mexico,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),82.7830124783944
+Mexico,2017,...,...,Trade Indicator,Index of export market penetration,12.1365520210991
+Mexico,2017,...,...,Trade Indicator,HH Market concentration index,0.547468143952466
+Mexico,2017,...,...,Development,Trade Balance (% of GDP),-1.805021078008
+Mexico,2017,...,...,Development,Trade in services (% of GDP),5.65675925731776
+Mexico,2017,...,...,Development,Trade (% of GDP),77.5378525985025
+Mexico,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",8610

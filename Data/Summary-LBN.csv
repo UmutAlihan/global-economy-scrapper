@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Lebanon,2016,South Africa,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,628.269435
+Lebanon,2016,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,266.661564
+Lebanon,2016,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,238.670899
+Lebanon,2016,Syrian Arab Republic,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,198.871097
+Lebanon,2016,Iraq,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,161.701163
+Lebanon,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2094.004562
+Lebanon,2016,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1408.954227
+Lebanon,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1184.084572
+Lebanon,2016,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1161.071729
+Lebanon,2016,Greece,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1074.134204
+Lebanon,2016,World,Animal,Export,Export(US$ Mil),13.904268
+Lebanon,2016,World,Vegetable,Export,Export(US$ Mil),228.436052
+Lebanon,2016,World,Food Products,Export,Export(US$ Mil),445.502827
+Lebanon,2016,World,Minerals,Export,Export(US$ Mil),5.083204
+Lebanon,2016,World,Fuels,Export,Export(US$ Mil),14.188344
+Lebanon,2016,World,Chemicals,Export,Export(US$ Mil),304.479796
+Lebanon,2016,World,Plastic or Rubber,Export,Export(US$ Mil),133.211396
+Lebanon,2016,World,Hides and Skins,Export,Export(US$ Mil),12.041195
+Lebanon,2016,World,Wood,Export,Export(US$ Mil),166.435387
+Lebanon,2016,World,Textiles and Clothing,Export,Export(US$ Mil),84.660732
+Lebanon,2016,World,Footwear,Export,Export(US$ Mil),11.585303
+Lebanon,2016,World,Stone and Glass,Export,Export(US$ Mil),850.742624
+Lebanon,2016,World,Metals,Export,Export(US$ Mil),253.186261
+Lebanon,2016,World,Mach and Elec,Export,Export(US$ Mil),333.590379
+Lebanon,2016,World,Transportation,Export,Export(US$ Mil),18.295556
+Lebanon,2016,World,Miscellaneous,Export,Export(US$ Mil),101.218259
+Lebanon,2016,World,Raw materials,Export,Export(US$ Mil),302.265859
+Lebanon,2016,World,Intermediate goods,Export,Export(US$ Mil),1109.749311
+Lebanon,2016,World,Consumer goods,Export,Export(US$ Mil),1209.908249
+Lebanon,2016,World,Capital goods,Export,Export(US$ Mil),348.551605
+Lebanon,2016,World,Raw materials,Import,Import(US$ Mil),1383.393207
+Lebanon,2016,World,Intermediate goods,Import,Import(US$ Mil),4144.60085400001
+Lebanon,2016,World,Consumer goods,Import,Import(US$ Mil),10765.068564
+Lebanon,2016,World,Capital goods,Import,Import(US$ Mil),2396.491145
+Lebanon,2016,World,All Products,Export,Exports (in US$ Mil),2976.561583
+Lebanon,2016,World,All Products,Import,Imports (in US$ Mil),18702.745744
+Lebanon,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),6619816.47699999
+Lebanon,2017,...,...,Development,Trade Balance (current US$ Mil),-10706.24694534
+Lebanon,2017,...,...,Development,GDP (current US$ Mil),53576.9856866998
+Lebanon,2016,...,...,Tariff,No. Of Tariff Agreement,7
+Lebanon,2016,...,...,Import,No. Of Import partners,197
+Lebanon,2016,...,...,Import,No. Of Import products,4050
+Lebanon,2016,...,...,Export,No. Of Export partners,168
+Lebanon,2016,...,...,Export,No. Of Export products,2748
+Lebanon,2016,...,...,Others,Population,6006668
+Lebanon,2018,...,...,Others,Ease of Doing Business Rank,133
+Lebanon,2018,...,...,Others,Trading Across Borders Rank,140
+Lebanon,2016,...,...,Others,LPI Rank,82
+Lebanon,2016,...,...,Others,LPI Score,2.717255
+Lebanon,,...,...,Others,Services Trade Restrictions Index - Over All,42.3
+Lebanon,2016,South Africa,All Products,Export,Partner share(%)-Top 5 Export Partner,21.1072
+Lebanon,2016,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,8.9587
+Lebanon,2016,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,8.0183
+Lebanon,2016,Syrian Arab Republic,All Products,Export,Partner share(%)-Top 5 Export Partner,6.6812
+Lebanon,2016,Iraq,All Products,Export,Partner share(%)-Top 5 Export Partner,5.4325
+Lebanon,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,11.1962
+Lebanon,2016,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,7.5334
+Lebanon,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.3311
+Lebanon,2016,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,6.208
+Lebanon,2016,Greece,All Products,Import,Partner share(%)-Top 5 Import Partner,5.7432
+Lebanon,2016,World,Animal,Export,Export Product share(%),0.4671
+Lebanon,2016,World,Vegetable,Export,Export Product share(%),7.6745
+Lebanon,2016,World,Food Products,Export,Export Product share(%),14.967
+Lebanon,2016,World,Minerals,Export,Export Product share(%),0.1708
+Lebanon,2016,World,Fuels,Export,Export Product share(%),0.4767
+Lebanon,2016,World,Chemicals,Export,Export Product share(%),10.2292
+Lebanon,2016,World,Plastic or Rubber,Export,Export Product share(%),4.4753
+Lebanon,2016,World,Hides and Skins,Export,Export Product share(%),0.4045
+Lebanon,2016,World,Wood,Export,Export Product share(%),5.5915
+Lebanon,2016,World,Textiles and Clothing,Export,Export Product share(%),2.8442
+Lebanon,2016,World,Footwear,Export,Export Product share(%),0.3892
+Lebanon,2016,World,Stone and Glass,Export,Export Product share(%),28.5814
+Lebanon,2016,World,Metals,Export,Export Product share(%),8.506
+Lebanon,2016,World,Mach and Elec,Export,Export Product share(%),11.2072
+Lebanon,2016,World,Transportation,Export,Export Product share(%),0.6147
+Lebanon,2016,World,Miscellaneous,Export,Export Product share(%),3.4005
+Lebanon,2016,World,Raw materials,Export,Export Product share(%),10.1549
+Lebanon,2016,World,Intermediate goods,Export,Export Product share(%),37.2829
+Lebanon,2016,World,Consumer goods,Export,Export Product share(%),40.6478
+Lebanon,2016,World,Capital goods,Export,Export Product share(%),11.7099
+Lebanon,2016,World,Raw materials,Import,Import Product share(%),7.3967
+Lebanon,2016,World,Intermediate goods,Import,Import Product share(%),22.1604
+Lebanon,2016,World,Consumer goods,Import,Import Product share(%),57.5588
+Lebanon,2016,World,Capital goods,Import,Import Product share(%),12.8136
+Lebanon,2016,World,Raw materials,Tariff,Weighted Average (%),6.4265765105776
+Lebanon,2016,World,Intermediate goods,Tariff,Weighted Average (%),0.9564781609364
+Lebanon,2016,World,Consumer goods,Tariff,Weighted Average (%),3.81538483859204
+Lebanon,2016,World,Capital goods,Tariff,Weighted Average (%),3.10964406696391
+Lebanon,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Lebanon,2016,World,All Products,Trade Indicator,Country Growth (%),-7.31636457924494
+Lebanon,2016,World,All Products,Tariff,Simple Average (%),5.30336233321613
+Lebanon,2016,World,All Products,Tariff,Weighted Average (%),2.98497023933454
+Lebanon,2016,World,All Products,Tariff,Maximum Rate (%),258.099700927734
+Lebanon,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),30.0138797574695
+Lebanon,2016,...,...,Trade Indicator,Index of export market penetration,4.06522106177187
+Lebanon,2016,...,...,Trade Indicator,HH Market concentration index,0.0518946710485963
+Lebanon,2017,...,...,Development,Trade Balance (% of GDP),-19.9829214132099
+Lebanon,2017,...,...,Development,Trade in services (% of GDP),54.2073174274486
+Lebanon,2017,...,...,Development,Trade (% of GDP),67.8459773021833
+Lebanon,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",8400

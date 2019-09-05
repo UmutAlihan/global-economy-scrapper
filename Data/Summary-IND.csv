@@ -1,0 +1,108 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+India,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,46018.0766407899
+India,2017,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,28636.2633028988
+India,2017,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15020.619619183
+India,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,12495.2304595528
+India,2017,Singapore,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11559.9406680704
+India,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,71922.7478176351
+India,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,24086.156632527
+India,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,23115.4597083756
+India,2017,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,21086.8457101029
+India,2017,Switzerland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,20404.6500232174
+India,2017,World,Animal,Export,Export(US$ Mil),11341.4000841566
+India,2017,World,Vegetable,Export,Export(US$ Mil),18192.9777749933
+India,2017,World,Food Products,Export,Export(US$ Mil),6287.09396768224
+India,2017,World,Minerals,Export,Export(US$ Mil),3985.71001737082
+India,2017,World,Fuels,Export,Export(US$ Mil),35873.7117648476
+India,2017,World,Chemicals,Export,Export(US$ Mil),37148.0310982566
+India,2017,World,Plastic or Rubber,Export,Export(US$ Mil),8773.41482039191
+India,2017,World,Hides and Skins,Export,Export(US$ Mil),3301.70828340012
+India,2017,World,Wood,Export,Export(US$ Mil),2008.51227700579
+India,2017,World,Textiles and Clothing,Export,Export(US$ Mil),37220.8704627476
+India,2017,World,Footwear,Export,Export(US$ Mil),3068.22042090497
+India,2017,World,Stone and Glass,Export,Export(US$ Mil),44448.8703441592
+India,2017,World,Metals,Export,Export(US$ Mil),28136.6421591024
+India,2017,World,Mach and Elec,Export,Export(US$ Mil),25418.4991995728
+India,2017,World,Transportation,Export,Export(US$ Mil),23429.4168077896
+India,2017,World,Miscellaneous,Export,Export(US$ Mil),5729.41068020705
+India,2017,World,Raw materials,Export,Export(US$ Mil),25401.1767580888
+India,2017,World,Intermediate goods,Export,Export(US$ Mil),97723.6217286685
+India,2017,World,Consumer goods,Export,Export(US$ Mil),129592.692794866
+India,2017,World,Capital goods,Export,Export(US$ Mil),40570.3550648916
+India,2017,World,Raw materials,Import,Import(US$ Mil),148911.039817888
+India,2017,World,Intermediate goods,Import,Import(US$ Mil),146645.092350196
+India,2017,World,Consumer goods,Import,Import(US$ Mil),49478.597249759
+India,2017,World,Capital goods,Import,Import(US$ Mil),94409.2786463399
+India,2017,World,All Products,Export,Exports (in US$ Mil),294364.490162589
+India,2017,World,All Products,Import,Imports (in US$ Mil),444052.353836283
+India,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),161391484.295884
+India,2017,...,...,Development,Trade Balance (current US$ Mil),-77494.968352566
+India,2017,...,...,Development,GDP (current US$ Mil),2600818.24355965
+India,2017,...,...,Tariff,No. Of Tariff Agreement,22
+India,2017,...,...,Import,No. Of Import partners,213
+India,2017,...,...,Import,No. Of Import products,4317
+India,2017,...,...,Export,No. Of Export partners,219
+India,2017,...,...,Export,No. Of Export products,4418
+India,2016,...,...,Others,Population,1324171354
+India,2018,...,...,Others,Ease of Doing Business Rank,100
+India,2018,...,...,Others,Trading Across Borders Rank,146
+India,2013,...,...,Others,CPIA Trade Ratings,4
+India,2016,...,...,Others,LPI Rank,35
+India,2016,...,...,Others,LPI Score,3.420043
+India,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),347
+India,2013,...,...,Others,No Of NTM Measures,3
+India,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1490326
+India,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1529563
+India,,...,...,Others,Services Trade Restrictions Index - Over All,65.7
+India,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,6.586594105
+India,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,5.318890572
+India,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,15.633
+India,2017,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,9.7282
+India,2017,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,5.1027
+India,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,4.2448
+India,2017,Singapore,All Products,Export,Partner share(%)-Top 5 Export Partner,3.9271
+India,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.1969
+India,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4242
+India,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,5.2056
+India,2017,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.7487
+India,2017,Switzerland,All Products,Import,Partner share(%)-Top 5 Import Partner,4.5951
+India,2017,World,Animal,Export,Export Product share(%),3.8528
+India,2017,World,Vegetable,Export,Export Product share(%),6.1804
+India,2017,World,Food Products,Export,Export Product share(%),2.1358
+India,2017,World,Minerals,Export,Export Product share(%),1.354
+India,2017,World,Fuels,Export,Export Product share(%),12.1868
+India,2017,World,Chemicals,Export,Export Product share(%),12.6197
+India,2017,World,Plastic or Rubber,Export,Export Product share(%),2.9805
+India,2017,World,Hides and Skins,Export,Export Product share(%),1.1216
+India,2017,World,Wood,Export,Export Product share(%),0.6823
+India,2017,World,Textiles and Clothing,Export,Export Product share(%),12.6445
+India,2017,World,Footwear,Export,Export Product share(%),1.0423
+India,2017,World,Stone and Glass,Export,Export Product share(%),15.0999
+India,2017,World,Metals,Export,Export Product share(%),9.5584
+India,2017,World,Mach and Elec,Export,Export Product share(%),8.635
+India,2017,World,Transportation,Export,Export Product share(%),7.9593
+India,2017,World,Miscellaneous,Export,Export Product share(%),1.9464
+India,2017,World,Raw materials,Export,Export Product share(%),8.6292
+India,2017,World,Intermediate goods,Export,Export Product share(%),33.1982
+India,2017,World,Consumer goods,Export,Export Product share(%),44.0246
+India,2017,World,Capital goods,Export,Export Product share(%),13.7824
+India,2017,World,Raw materials,Import,Import Product share(%),33.5346
+India,2017,World,Intermediate goods,Import,Import Product share(%),33.0243
+India,2017,World,Consumer goods,Import,Import Product share(%),11.1425
+India,2017,World,Capital goods,Import,Import Product share(%),21.2608
+India,2017,World,Raw materials,Tariff,Weighted Average (%),2.77230830488612
+India,2017,World,Intermediate goods,Tariff,Weighted Average (%),7.9145458288958
+India,2017,World,Consumer goods,Tariff,Weighted Average (%),8.60591348275858
+India,2017,World,Capital goods,Tariff,Weighted Average (%),4.04356880816824
+India,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+India,2017,World,All Products,Trade Indicator,Country Growth (%),-1.09726016099027
+India,2017,World,All Products,Tariff,Simple Average (%),8.87759257046872
+India,2017,World,All Products,Tariff,Weighted Average (%),5.77770778589167
+India,2017,World,All Products,Tariff,Maximum Rate (%),150
+India,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),17.3648674867099
+India,2017,...,...,Trade Indicator,Index of export market penetration,24.4282006185149
+India,2017,...,...,Trade Indicator,HH Market concentration index,0.0597363267072734
+India,2017,...,...,Development,Trade Balance (% of GDP),-2.9796379867938
+India,2017,...,...,Development,Trade in services (% of GDP),11.3297096754751
+India,2017,...,...,Development,Trade (% of GDP),41.0703717162166
+India,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",1800

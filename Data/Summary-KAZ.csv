@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Kazakhstan,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8669.34423434999
+Kazakhstan,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5777.6840277
+Kazakhstan,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4748.2062041
+Kazakhstan,2017,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4515.16452660001
+Kazakhstan,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3100.68849955
+Kazakhstan,2017,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11472.92362197
+Kazakhstan,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4692.24242389
+Kazakhstan,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1484.11629002
+Kazakhstan,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1253.45112105
+Kazakhstan,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,945.265959229999
+Kazakhstan,2017,World,Animal,Export,Export(US$ Mil),125.56478745
+Kazakhstan,2017,World,Vegetable,Export,Export(US$ Mil),1868.41398115
+Kazakhstan,2017,World,Food Products,Export,Export(US$ Mil),385.36225198
+Kazakhstan,2017,World,Minerals,Export,Export(US$ Mil),2467.93965116
+Kazakhstan,2017,World,Fuels,Export,Export(US$ Mil),30678.99956653
+Kazakhstan,2017,World,Chemicals,Export,Export(US$ Mil),2375.46489504
+Kazakhstan,2017,World,Plastic or Rubber,Export,Export(US$ Mil),101.63060051
+Kazakhstan,2017,World,Hides and Skins,Export,Export(US$ Mil),18.95903059
+Kazakhstan,2017,World,Wood,Export,Export(US$ Mil),65.16466014
+Kazakhstan,2017,World,Textiles and Clothing,Export,Export(US$ Mil),209.66462777
+Kazakhstan,2017,World,Footwear,Export,Export(US$ Mil),8.63358686
+Kazakhstan,2017,World,Stone and Glass,Export,Export(US$ Mil),621.16896074
+Kazakhstan,2017,World,Metals,Export,Export(US$ Mil),8730.40449301
+Kazakhstan,2017,World,Mach and Elec,Export,Export(US$ Mil),421.79353481
+Kazakhstan,2017,World,Transportation,Export,Export(US$ Mil),193.79835393
+Kazakhstan,2017,World,Miscellaneous,Export,Export(US$ Mil),69.11105436
+Kazakhstan,2017,World,Raw materials,Export,Export(US$ Mil),31330.6400584
+Kazakhstan,2017,World,Intermediate goods,Export,Export(US$ Mil),12160.82407756
+Kazakhstan,2017,World,Consumer goods,Export,Export(US$ Mil),4240.31269490999
+Kazakhstan,2017,World,Capital goods,Export,Export(US$ Mil),591.43058191
+Kazakhstan,2017,World,Raw materials,Import,Import(US$ Mil),2094.68377548
+Kazakhstan,2017,World,Intermediate goods,Import,Import(US$ Mil),6533.86445332
+Kazakhstan,2017,World,Consumer goods,Import,Import(US$ Mil),11030.47773176
+Kazakhstan,2017,World,Capital goods,Import,Import(US$ Mil),9636.98536492999
+Kazakhstan,2017,World,All Products,Export,Exports (in US$ Mil),48342.07403603
+Kazakhstan,2017,World,All Products,Import,Imports (in US$ Mil),29345.9353565
+Kazakhstan,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),16514858.86166
+Kazakhstan,2017,...,...,Development,Trade Balance (current US$ Mil),13184.0653863025
+Kazakhstan,2017,...,...,Development,GDP (current US$ Mil),162886.867831694
+Kazakhstan,2017,...,...,Tariff,No. Of Tariff Agreement,8
+Kazakhstan,2017,...,...,Import,No. Of Import partners,170
+Kazakhstan,2017,...,...,Import,No. Of Import products,4313
+Kazakhstan,2017,...,...,Export,No. Of Export partners,121
+Kazakhstan,2017,...,...,Export,No. Of Export products,2945
+Kazakhstan,2016,...,...,Others,Population,17794055
+Kazakhstan,2018,...,...,Others,Ease of Doing Business Rank,36
+Kazakhstan,2018,...,...,Others,Trading Across Borders Rank,123
+Kazakhstan,2016,...,...,Others,LPI Rank,77
+Kazakhstan,2016,...,...,Others,LPI Score,2.751998
+Kazakhstan,2012,...,...,Others,No Of NTM Affected Products (HS 6 Digit),2354
+Kazakhstan,2012,...,...,Others,No Of NTM Measures,29
+Kazakhstan,,...,...,Others,Services Trade Restrictions Index - Over All,17
+Kazakhstan,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,17.9333
+Kazakhstan,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,11.9517
+Kazakhstan,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,9.8221
+Kazakhstan,2017,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,9.34
+Kazakhstan,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,6.4141
+Kazakhstan,2017,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,39.0954
+Kazakhstan,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.9894
+Kazakhstan,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,5.0573
+Kazakhstan,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,4.2713
+Kazakhstan,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,3.2211
+Kazakhstan,2017,World,Animal,Export,Export Product share(%),0.2597
+Kazakhstan,2017,World,Vegetable,Export,Export Product share(%),3.865
+Kazakhstan,2017,World,Food Products,Export,Export Product share(%),0.7972
+Kazakhstan,2017,World,Minerals,Export,Export Product share(%),5.1052
+Kazakhstan,2017,World,Fuels,Export,Export Product share(%),63.4623
+Kazakhstan,2017,World,Chemicals,Export,Export Product share(%),4.9139
+Kazakhstan,2017,World,Plastic or Rubber,Export,Export Product share(%),0.2102
+Kazakhstan,2017,World,Hides and Skins,Export,Export Product share(%),0.0392
+Kazakhstan,2017,World,Wood,Export,Export Product share(%),0.1348
+Kazakhstan,2017,World,Textiles and Clothing,Export,Export Product share(%),0.4337
+Kazakhstan,2017,World,Footwear,Export,Export Product share(%),0.0179
+Kazakhstan,2017,World,Stone and Glass,Export,Export Product share(%),1.2849
+Kazakhstan,2017,World,Metals,Export,Export Product share(%),18.0596
+Kazakhstan,2017,World,Mach and Elec,Export,Export Product share(%),0.8725
+Kazakhstan,2017,World,Transportation,Export,Export Product share(%),0.4009
+Kazakhstan,2017,World,Miscellaneous,Export,Export Product share(%),0.143
+Kazakhstan,2017,World,Raw materials,Export,Export Product share(%),64.8103
+Kazakhstan,2017,World,Intermediate goods,Export,Export Product share(%),25.1558
+Kazakhstan,2017,World,Consumer goods,Export,Export Product share(%),8.7715
+Kazakhstan,2017,World,Capital goods,Export,Export Product share(%),1.2234
+Kazakhstan,2017,World,Raw materials,Import,Import Product share(%),7.1379
+Kazakhstan,2017,World,Intermediate goods,Import,Import Product share(%),22.265
+Kazakhstan,2017,World,Consumer goods,Import,Import Product share(%),37.5878
+Kazakhstan,2017,World,Capital goods,Import,Import Product share(%),32.8393
+Kazakhstan,2017,World,Raw materials,Tariff,Weighted Average (%),2.6465368975953
+Kazakhstan,2017,World,Intermediate goods,Tariff,Weighted Average (%),2.31862888284641
+Kazakhstan,2017,World,Consumer goods,Tariff,Weighted Average (%),3.09237461952247
+Kazakhstan,2017,World,Capital goods,Tariff,Weighted Average (%),1.66632297417808
+Kazakhstan,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Kazakhstan,2017,World,All Products,Trade Indicator,Country Growth (%),15.4301758584255
+Kazakhstan,2017,World,All Products,Tariff,Simple Average (%),4.79055316753318
+Kazakhstan,2017,World,All Products,Tariff,Weighted Average (%),2.39351387822315
+Kazakhstan,2017,World,All Products,Tariff,Maximum Rate (%),55
+Kazakhstan,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),36.3917626629491
+Kazakhstan,2017,...,...,Trade Indicator,Index of export market penetration,2.27625891469712
+Kazakhstan,2017,...,...,Trade Indicator,HH Market concentration index,0.0667488991402729
+Kazakhstan,2017,...,...,Development,Trade Balance (% of GDP),8.0940014144818
+Kazakhstan,2017,...,...,Development,Trade in services (% of GDP),10.6188008230668
+Kazakhstan,2017,...,...,Development,Trade (% of GDP),60.6216132809058
+Kazakhstan,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",7970

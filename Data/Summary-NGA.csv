@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Nigeria,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7938.34017824448
+Nigeria,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5672.18739804762
+Nigeria,2017,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4401.17245747062
+Nigeria,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3765.99538942382
+Nigeria,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3410.70003248042
+Nigeria,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5847.73376112
+Nigeria,2017,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4022.51024697686
+Nigeria,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2876.4142863453
+Nigeria,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2494.13443623339
+Nigeria,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1528.77925047131
+Nigeria,2017,World,Animal,Export,Export(US$ Mil),56.1274335462588
+Nigeria,2017,World,Vegetable,Export,Export(US$ Mil),308.812404174986
+Nigeria,2017,World,Food Products,Export,Export(US$ Mil),460.08509322672
+Nigeria,2017,World,Minerals,Export,Export(US$ Mil),68.8838591166069
+Nigeria,2017,World,Fuels,Export,Export(US$ Mil),42701.8249250101
+Nigeria,2017,World,Chemicals,Export,Export(US$ Mil),199.765733212649
+Nigeria,2017,World,Plastic or Rubber,Export,Export(US$ Mil),145.069239985492
+Nigeria,2017,World,Hides and Skins,Export,Export(US$ Mil),73.9060809160512
+Nigeria,2017,World,Wood,Export,Export(US$ Mil),39.4917750492657
+Nigeria,2017,World,Textiles and Clothing,Export,Export(US$ Mil),19.1291969082126
+Nigeria,2017,World,Footwear,Export,Export(US$ Mil),17.608591531155
+Nigeria,2017,World,Stone and Glass,Export,Export(US$ Mil),7.0921346807394
+Nigeria,2017,World,Metals,Export,Export(US$ Mil),86.1954277265445
+Nigeria,2017,World,Mach and Elec,Export,Export(US$ Mil),10.5002987730594
+Nigeria,2017,World,Transportation,Export,Export(US$ Mil),269.319684602407
+Nigeria,2017,World,Miscellaneous,Export,Export(US$ Mil),2.5548786543246
+Nigeria,2017,World,Raw materials,Export,Export(US$ Mil),36600.9202394318
+Nigeria,2017,World,Intermediate goods,Export,Export(US$ Mil),1011.67384188583
+Nigeria,2017,World,Consumer goods,Export,Export(US$ Mil),6582.16089005896
+Nigeria,2017,World,Capital goods,Export,Export(US$ Mil),153.903425887223
+Nigeria,2017,World,Raw materials,Import,Import(US$ Mil),3176.23921338089
+Nigeria,2017,World,Intermediate goods,Import,Import(US$ Mil),7987.09181739812
+Nigeria,2017,World,Consumer goods,Import,Import(US$ Mil),13068.6443646239
+Nigeria,2017,World,Capital goods,Import,Import(US$ Mil),7028.38991316841
+Nigeria,2017,World,All Products,Export,Exports (in US$ Mil),44466.3667571146
+Nigeria,2017,World,All Products,Import,Imports (in US$ Mil),31270.0902650788
+Nigeria,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1744772.251
+Nigeria,2017,...,...,Development,Trade Balance (current US$ Mil),-16.8138553209991
+Nigeria,2017,...,...,Development,GDP (current US$ Mil),375745.486520656
+Nigeria,2016,...,...,Tariff,No. Of Tariff Agreement,2
+Nigeria,2017,...,...,Import,No. Of Import partners,199
+Nigeria,2017,...,...,Import,No. Of Import products,4010
+Nigeria,2017,...,...,Export,No. Of Export partners,116
+Nigeria,2017,...,...,Export,No. Of Export products,328
+Nigeria,2016,...,...,Others,Population,185989640
+Nigeria,2018,...,...,Others,Ease of Doing Business Rank,145
+Nigeria,2018,...,...,Others,Trading Across Borders Rank,183
+Nigeria,2017,...,...,Others,CPIA Trade Ratings,3.5
+Nigeria,2016,...,...,Others,LPI Rank,90
+Nigeria,2016,...,...,Others,LPI Score,2.62809
+Nigeria,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),4329
+Nigeria,2013,...,...,Others,No Of NTM Measures,28
+Nigeria,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.3201251
+Nigeria,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.3201251
+Nigeria,,...,...,Others,Services Trade Restrictions Index - Over All,27.1
+Nigeria,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,17.8525
+Nigeria,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,12.7561
+Nigeria,2017,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,9.8978
+Nigeria,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,8.4693
+Nigeria,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6703
+Nigeria,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,18.7007
+Nigeria,2017,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,12.8638
+Nigeria,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,9.1986
+Nigeria,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.9761
+Nigeria,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,4.889
+Nigeria,2017,World,Animal,Export,Export Product share(%),0.1262
+Nigeria,2017,World,Vegetable,Export,Export Product share(%),0.6945
+Nigeria,2017,World,Food Products,Export,Export Product share(%),1.0347
+Nigeria,2017,World,Minerals,Export,Export Product share(%),0.1549
+Nigeria,2017,World,Fuels,Export,Export Product share(%),96.0317
+Nigeria,2017,World,Chemicals,Export,Export Product share(%),0.4493
+Nigeria,2017,World,Plastic or Rubber,Export,Export Product share(%),0.3262
+Nigeria,2017,World,Hides and Skins,Export,Export Product share(%),0.1662
+Nigeria,2017,World,Wood,Export,Export Product share(%),0.0888
+Nigeria,2017,World,Textiles and Clothing,Export,Export Product share(%),0.043
+Nigeria,2017,World,Footwear,Export,Export Product share(%),0.0396
+Nigeria,2017,World,Stone and Glass,Export,Export Product share(%),0.0159
+Nigeria,2017,World,Metals,Export,Export Product share(%),0.1938
+Nigeria,2017,World,Mach and Elec,Export,Export Product share(%),0.0236
+Nigeria,2017,World,Transportation,Export,Export Product share(%),0.6057
+Nigeria,2017,World,Miscellaneous,Export,Export Product share(%),0.0057
+Nigeria,2017,World,Raw materials,Export,Export Product share(%),82.3115
+Nigeria,2017,World,Intermediate goods,Export,Export Product share(%),2.2751
+Nigeria,2017,World,Consumer goods,Export,Export Product share(%),14.8026
+Nigeria,2017,World,Capital goods,Export,Export Product share(%),0.3461
+Nigeria,2017,World,Raw materials,Import,Import Product share(%),10.1574
+Nigeria,2017,World,Intermediate goods,Import,Import Product share(%),25.5423
+Nigeria,2017,World,Consumer goods,Import,Import Product share(%),41.7928
+Nigeria,2017,World,Capital goods,Import,Import Product share(%),22.4764
+Nigeria,2016,World,Raw materials,Tariff,Weighted Average (%),8.59098234095372
+Nigeria,2016,World,Intermediate goods,Tariff,Weighted Average (%),9.71801043416944
+Nigeria,2016,World,Consumer goods,Tariff,Weighted Average (%),15.375365169587
+Nigeria,2016,World,Capital goods,Tariff,Weighted Average (%),8.81326163321707
+Nigeria,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Nigeria,2017,World,All Products,Trade Indicator,Country Growth (%),11.5636137067852
+Nigeria,2016,World,All Products,Tariff,Simple Average (%),12.4397326874369
+Nigeria,2016,World,All Products,Tariff,Weighted Average (%),11.2466135041975
+Nigeria,2016,World,All Products,Tariff,Maximum Rate (%),35
+Nigeria,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),6.56689546528637
+Nigeria,2017,...,...,Trade Indicator,Index of export market penetration,2.74112059862643
+Nigeria,2017,...,...,Trade Indicator,HH Market concentration index,0.0823189283827844
+Nigeria,2017,...,...,Development,Trade Balance (% of GDP),-0.00447479901269965
+Nigeria,2017,...,...,Development,Trade in services (% of GDP),6.18948379033616
+Nigeria,2017,...,...,Development,Trade (% of GDP),26.3475990009104
+Nigeria,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",2100

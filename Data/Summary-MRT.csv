@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Mauritania,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,698.3173247943
+Mauritania,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,306.403048928126
+Mauritania,2017,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,230.994985151451
+Mauritania,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,142.531467352094
+Mauritania,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,101.136173415813
+Mauritania,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,636.858965349867
+Mauritania,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,313.831842942585
+Mauritania,2017,Norway,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,276.160279714622
+Mauritania,2017,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,229.417196000458
+Mauritania,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,216.18624173222
+Mauritania,2017,World,Animal,Export,Export(US$ Mil),671.544877661825
+Mauritania,2017,World,Vegetable,Export,Export(US$ Mil),34.8729994162249
+Mauritania,2017,World,Food Products,Export,Export(US$ Mil),144.469276768323
+Mauritania,2017,World,Minerals,Export,Export(US$ Mil),815.389244296304
+Mauritania,2017,World,Fuels,Export,Export(US$ Mil),
+Mauritania,2017,World,Chemicals,Export,Export(US$ Mil),8.52624774387841
+Mauritania,2017,World,Plastic or Rubber,Export,Export(US$ Mil),0.2617312675614
+Mauritania,2017,World,Hides and Skins,Export,Export(US$ Mil),0.97461100969778
+Mauritania,2017,World,Wood,Export,Export(US$ Mil),0.0789064561103
+Mauritania,2017,World,Textiles and Clothing,Export,Export(US$ Mil),0.02413870656834
+Mauritania,2017,World,Footwear,Export,Export(US$ Mil),
+Mauritania,2017,World,Stone and Glass,Export,Export(US$ Mil),312.122635355134
+Mauritania,2017,World,Metals,Export,Export(US$ Mil),1.13597657267549
+Mauritania,2017,World,Mach and Elec,Export,Export(US$ Mil),
+Mauritania,2017,World,Transportation,Export,Export(US$ Mil),
+Mauritania,2017,World,Miscellaneous,Export,Export(US$ Mil),0.0301258958
+Mauritania,2017,World,Raw materials,Export,Export(US$ Mil),1097.83429165525
+Mauritania,2017,World,Intermediate goods,Export,Export(US$ Mil),886.232806233177
+Mauritania,2017,World,Consumer goods,Export,Export(US$ Mil),5.24210991485454
+Mauritania,2017,World,Capital goods,Export,Export(US$ Mil),0.12156334682037
+Mauritania,2017,World,Raw materials,Import,Import(US$ Mil),207.613634394018
+Mauritania,2017,World,Intermediate goods,Import,Import(US$ Mil),339.656563181378
+Mauritania,2017,World,Consumer goods,Import,Import(US$ Mil),1145.87231890448
+Mauritania,2017,World,Capital goods,Import,Import(US$ Mil),1829.14968667368
+Mauritania,2017,World,All Products,Export,Exports (in US$ Mil),1989.4307711501
+Mauritania,2017,World,All Products,Import,Imports (in US$ Mil),3522.4181982942
+Mauritania,2014,World,All Products,Tariff,Duty Free Imports (US$ Thousand),222746.747
+Mauritania,2017,...,...,Development,Trade Balance (current US$ Mil),-1362.32352200899
+Mauritania,2017,...,...,Development,GDP (current US$ Mil),5024.70865599147
+Mauritania,2014,...,...,Tariff,No. Of Tariff Agreement,1
+Mauritania,2017,...,...,Import,No. Of Import partners,129
+Mauritania,2017,...,...,Import,No. Of Import products,2060
+Mauritania,2017,...,...,Export,No. Of Export partners,90
+Mauritania,2017,...,...,Export,No. Of Export products,85
+Mauritania,2016,...,...,Others,Population,4301018
+Mauritania,2018,...,...,Others,Ease of Doing Business Rank,150
+Mauritania,2018,...,...,Others,Trading Across Borders Rank,138
+Mauritania,2017,...,...,Others,CPIA Trade Ratings,4
+Mauritania,2016,...,...,Others,LPI Rank,157
+Mauritania,2016,...,...,Others,LPI Score,1.866001
+Mauritania,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,35.1014
+Mauritania,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,15.4015
+Mauritania,2017,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,11.6111
+Mauritania,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.1644
+Mauritania,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,5.0837
+Mauritania,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,18.0802
+Mauritania,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,8.9096
+Mauritania,2017,Norway,All Products,Import,Partner share(%)-Top 5 Import Partner,7.8401
+Mauritania,2017,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5131
+Mauritania,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,6.1374
+Mauritania,2017,World,Animal,Export,Export Product share(%),33.7556
+Mauritania,2017,World,Vegetable,Export,Export Product share(%),1.7529
+Mauritania,2017,World,Food Products,Export,Export Product share(%),7.2618
+Mauritania,2017,World,Minerals,Export,Export Product share(%),40.9861
+Mauritania,2017,World,Fuels,Export,Export Product share(%),
+Mauritania,2017,World,Chemicals,Export,Export Product share(%),0.4286
+Mauritania,2017,World,Plastic or Rubber,Export,Export Product share(%),0.0132
+Mauritania,2017,World,Hides and Skins,Export,Export Product share(%),0.049
+Mauritania,2017,World,Wood,Export,Export Product share(%),0.004
+Mauritania,2017,World,Textiles and Clothing,Export,Export Product share(%),0.0012
+Mauritania,2017,World,Footwear,Export,Export Product share(%),
+Mauritania,2017,World,Stone and Glass,Export,Export Product share(%),15.689
+Mauritania,2017,World,Metals,Export,Export Product share(%),0.0571
+Mauritania,2017,World,Mach and Elec,Export,Export Product share(%),
+Mauritania,2017,World,Transportation,Export,Export Product share(%),
+Mauritania,2017,World,Miscellaneous,Export,Export Product share(%),0.0015
+Mauritania,2017,World,Raw materials,Export,Export Product share(%),55.1833
+Mauritania,2017,World,Intermediate goods,Export,Export Product share(%),44.5471
+Mauritania,2017,World,Consumer goods,Export,Export Product share(%),0.2635
+Mauritania,2017,World,Capital goods,Export,Export Product share(%),0.0061
+Mauritania,2017,World,Raw materials,Import,Import Product share(%),5.8941
+Mauritania,2017,World,Intermediate goods,Import,Import Product share(%),9.6427
+Mauritania,2017,World,Consumer goods,Import,Import Product share(%),32.5308
+Mauritania,2017,World,Capital goods,Import,Import Product share(%),51.9288
+Mauritania,2014,World,Raw materials,Tariff,Weighted Average (%),10.8701415215579
+Mauritania,2014,World,Intermediate goods,Tariff,Weighted Average (%),8.76202052235843
+Mauritania,2014,World,Consumer goods,Tariff,Weighted Average (%),11.4540408986657
+Mauritania,2014,World,Capital goods,Tariff,Weighted Average (%),6.2854349012467
+Mauritania,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Mauritania,2017,World,All Products,Trade Indicator,Country Growth (%),4.83443652443161
+Mauritania,2014,World,All Products,Tariff,Simple Average (%),12.3447168342107
+Mauritania,2014,World,All Products,Tariff,Weighted Average (%),8.61608575934911
+Mauritania,2014,World,All Products,Tariff,Maximum Rate (%),20
+Mauritania,2014,World,All Products,Tariff,Duty Free Tariff Lines Share (%),8.07199051621942
+Mauritania,2017,...,...,Trade Indicator,Index of export market penetration,1.53683883138045
+Mauritania,2017,...,...,Trade Indicator,HH Market concentration index,0.151583710887773
+Mauritania,2017,...,...,Development,Trade Balance (% of GDP),-27.1124878132895
+Mauritania,2017,...,...,Development,Trade in services (% of GDP),18.0486724446939
+Mauritania,2017,...,...,Development,Trade (% of GDP),111.039858370287
+Mauritania,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",1100

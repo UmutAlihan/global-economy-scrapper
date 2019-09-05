@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Brazil,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,47488.448664
+Brazil,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,27147.72201
+Brazil,2017,Argentina,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,17618.814028
+Brazil,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9252.264688
+Brazil,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5263.291437
+Brazil,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27321.483887
+Brazil,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,25112.251807
+Brazil,2017,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,9435.191875
+Brazil,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,9227.149632
+Brazil,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5239.961289
+Brazil,2017,World,Animal,Export,Export(US$ Mil),15379.359619
+Brazil,2017,World,Vegetable,Export,Export(US$ Mil),38759.176626
+Brazil,2017,World,Food Products,Export,Export(US$ Mil),25189.110334
+Brazil,2017,World,Minerals,Export,Export(US$ Mil),23080.38543
+Brazil,2017,World,Fuels,Export,Export(US$ Mil),21222.938019
+Brazil,2017,World,Chemicals,Export,Export(US$ Mil),10557.556608
+Brazil,2017,World,Plastic or Rubber,Export,Export(US$ Mil),5457.51334
+Brazil,2017,World,Hides and Skins,Export,Export(US$ Mil),2006.569668
+Brazil,2017,World,Wood,Export,Export(US$ Mil),11140.295318
+Brazil,2017,World,Textiles and Clothing,Export,Export(US$ Mil),2377.800823
+Brazil,2017,World,Footwear,Export,Export(US$ Mil),1283.483602
+Brazil,2017,World,Stone and Glass,Export,Export(US$ Mil),5188.260482
+Brazil,2017,World,Metals,Export,Export(US$ Mil),16314.529356
+Brazil,2017,World,Mach and Elec,Export,Export(US$ Mil),17281.12972
+Brazil,2017,World,Transportation,Export,Export(US$ Mil),19844.881774
+Brazil,2017,World,Miscellaneous,Export,Export(US$ Mil),2656.186358
+Brazil,2017,World,Raw materials,Export,Export(US$ Mil),95246.488091
+Brazil,2017,World,Intermediate goods,Export,Export(US$ Mil),60413.1289769999
+Brazil,2017,World,Consumer goods,Export,Export(US$ Mil),28748.01694
+Brazil,2017,World,Capital goods,Export,Export(US$ Mil),30632.630557
+Brazil,2017,World,Raw materials,Import,Import(US$ Mil),13789.801375
+Brazil,2017,World,Intermediate goods,Import,Import(US$ Mil),47351.5744989999
+Brazil,2017,World,Consumer goods,Import,Import(US$ Mil),40874.221906
+Brazil,2017,World,Capital goods,Import,Import(US$ Mil),48632.64249
+Brazil,2017,World,All Products,Export,Exports (in US$ Mil),217739.177077
+Brazil,2017,World,All Products,Import,Imports (in US$ Mil),150749.452449
+Brazil,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),39782813.985
+Brazil,2017,...,...,Development,Trade Balance (current US$ Mil),20871.434166824
+Brazil,2017,...,...,Development,GDP (current US$ Mil),2055505.50222473
+Brazil,2017,...,...,Tariff,No. Of Tariff Agreement,33
+Brazil,2017,...,...,Import,No. Of Import partners,216
+Brazil,2017,...,...,Import,No. Of Import products,4288
+Brazil,2017,...,...,Export,No. Of Export partners,220
+Brazil,2017,...,...,Export,No. Of Export products,4021
+Brazil,2016,...,...,Others,Population,207652865
+Brazil,2018,...,...,Others,Ease of Doing Business Rank,125
+Brazil,2018,...,...,Others,Trading Across Borders Rank,139
+Brazil,2016,...,...,Others,LPI Rank,55
+Brazil,2016,...,...,Others,LPI Score,3.087984
+Brazil,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),4035
+Brazil,2014,...,...,Others,No Of NTM Measures,64
+Brazil,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2169706
+Brazil,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2338574
+Brazil,,...,...,Others,Services Trade Restrictions Index - Over All,22.5
+Brazil,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,1.956605911
+Brazil,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.770239472
+Brazil,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,21.8098
+Brazil,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,12.468
+Brazil,2017,Argentina,All Products,Export,Partner share(%)-Top 5 Export Partner,8.0917
+Brazil,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,4.2492
+Brazil,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,2.4172
+Brazil,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,18.1238
+Brazil,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,16.6583
+Brazil,2017,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2589
+Brazil,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,6.1209
+Brazil,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,3.4759
+Brazil,2017,World,Animal,Export,Export Product share(%),7.0632
+Brazil,2017,World,Vegetable,Export,Export Product share(%),17.8007
+Brazil,2017,World,Food Products,Export,Export Product share(%),11.5685
+Brazil,2017,World,Minerals,Export,Export Product share(%),10.6
+Brazil,2017,World,Fuels,Export,Export Product share(%),9.747
+Brazil,2017,World,Chemicals,Export,Export Product share(%),4.8487
+Brazil,2017,World,Plastic or Rubber,Export,Export Product share(%),2.5064
+Brazil,2017,World,Hides and Skins,Export,Export Product share(%),0.9215
+Brazil,2017,World,Wood,Export,Export Product share(%),5.1163
+Brazil,2017,World,Textiles and Clothing,Export,Export Product share(%),1.092
+Brazil,2017,World,Footwear,Export,Export Product share(%),0.5895
+Brazil,2017,World,Stone and Glass,Export,Export Product share(%),2.3828
+Brazil,2017,World,Metals,Export,Export Product share(%),7.4927
+Brazil,2017,World,Mach and Elec,Export,Export Product share(%),7.9366
+Brazil,2017,World,Transportation,Export,Export Product share(%),9.1141
+Brazil,2017,World,Miscellaneous,Export,Export Product share(%),1.2199
+Brazil,2017,World,Raw materials,Export,Export Product share(%),43.7434
+Brazil,2017,World,Intermediate goods,Export,Export Product share(%),27.7456
+Brazil,2017,World,Consumer goods,Export,Export Product share(%),13.203
+Brazil,2017,World,Capital goods,Export,Export Product share(%),14.0685
+Brazil,2017,World,Raw materials,Import,Import Product share(%),9.1475
+Brazil,2017,World,Intermediate goods,Import,Import Product share(%),31.4108
+Brazil,2017,World,Consumer goods,Import,Import Product share(%),27.114
+Brazil,2017,World,Capital goods,Import,Import Product share(%),32.2606
+Brazil,2017,World,Raw materials,Tariff,Weighted Average (%),1.51719653073981
+Brazil,2017,World,Intermediate goods,Tariff,Weighted Average (%),6.57716894022144
+Brazil,2017,World,Consumer goods,Tariff,Weighted Average (%),13.5567333850663
+Brazil,2017,World,Capital goods,Tariff,Weighted Average (%),9.31445757894684
+Brazil,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Brazil,2017,World,All Products,Trade Indicator,Country Growth (%),5.26737263453303
+Brazil,2017,World,All Products,Tariff,Simple Average (%),13.4071496515552
+Brazil,2017,World,All Products,Tariff,Weighted Average (%),8.59281801942677
+Brazil,2017,World,All Products,Tariff,Maximum Rate (%),55
+Brazil,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),17.7247628717091
+Brazil,2017,...,...,Trade Indicator,Index of export market penetration,11.7919881517002
+Brazil,2017,...,...,Trade Indicator,HH Market concentration index,0.101214651931326
+Brazil,2017,...,...,Development,Trade Balance (% of GDP),1.0153917926385
+Brazil,2017,...,...,Development,Trade in services (% of GDP),5.00155286728296
+Brazil,2017,...,...,Development,Trade (% of GDP),24.1197569541318
+Brazil,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",8600

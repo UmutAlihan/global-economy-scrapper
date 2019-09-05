@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Japan,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,135059.633504173
+Japan,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,132785.531077534
+Japan,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,53307.7529607343
+Japan,2017,"Other Asia, nes",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,40643.7953016008
+Japan,2017,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,35437.0958496158
+Japan,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,164478.68345126
+Japan,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,73833.3107087071
+Japan,2017,Australia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,38968.1259051511
+Japan,2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,28126.9326126631
+Japan,2017,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27773.8809746078
+Japan,2017,World,Animal,Export,Export(US$ Mil),1682.95605012162
+Japan,2017,World,Vegetable,Export,Export(US$ Mil),1029.97436240379
+Japan,2017,World,Food Products,Export,Export(US$ Mil),3616.42184263547
+Japan,2017,World,Minerals,Export,Export(US$ Mil),1036.37424727726
+Japan,2017,World,Fuels,Export,Export(US$ Mil),11377.0544093273
+Japan,2017,World,Chemicals,Export,Export(US$ Mil),53974.4861632092
+Japan,2017,World,Plastic or Rubber,Export,Export(US$ Mil),35506.5300070395
+Japan,2017,World,Hides and Skins,Export,Export(US$ Mil),274.54837263269
+Japan,2017,World,Wood,Export,Export(US$ Mil),6061.4541313466
+Japan,2017,World,Textiles and Clothing,Export,Export(US$ Mil),7558.31396033934
+Japan,2017,World,Footwear,Export,Export(US$ Mil),203.4671168434
+Japan,2017,World,Stone and Glass,Export,Export(US$ Mil),22113.9328481426
+Japan,2017,World,Metals,Export,Export(US$ Mil),54393.8636936109
+Japan,2017,World,Mach and Elec,Export,Export(US$ Mil),233452.977092484
+Japan,2017,World,Transportation,Export,Export(US$ Mil),164054.060663352
+Japan,2017,World,Miscellaneous,Export,Export(US$ Mil),101760.773949088
+Japan,2017,World,Raw materials,Export,Export(US$ Mil),10734.7609205251
+Japan,2017,World,Intermediate goods,Export,Export(US$ Mil),139014.91614282
+Japan,2017,World,Consumer goods,Export,Export(US$ Mil),172266.579847267
+Japan,2017,World,Capital goods,Export,Export(US$ Mil),332026.965988958
+Japan,2017,World,Raw materials,Import,Import(US$ Mil),156738.556759883
+Japan,2017,World,Intermediate goods,Import,Import(US$ Mil),101505.988786246
+Japan,2017,World,Consumer goods,Import,Import(US$ Mil),221841.875025524
+Japan,2017,World,Capital goods,Import,Import(US$ Mil),179950.978179902
+Japan,2017,World,All Products,Export,Exports (in US$ Mil),698097.188909854
+Japan,2017,World,All Products,Import,Imports (in US$ Mil),671474.306095753
+Japan,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),513666467.932195
+Japan,2017,...,...,Development,GDP (current US$ Mil),4872136.94550759
+Japan,2017,...,...,Tariff,No. Of Tariff Agreement,19
+Japan,2017,...,...,Import,No. Of Import partners,213
+Japan,2017,...,...,Import,No. Of Import products,4426
+Japan,2017,...,...,Export,No. Of Export partners,214
+Japan,2017,...,...,Export,No. Of Export products,4199
+Japan,2016,...,...,Others,Population,126994511
+Japan,2018,...,...,Others,Ease of Doing Business Rank,34
+Japan,2018,...,...,Others,Trading Across Borders Rank,51
+Japan,2016,...,...,Others,LPI Rank,12
+Japan,2016,...,...,Others,LPI Score,3.970464
+Japan,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5207
+Japan,2015,...,...,Others,No Of NTM Measures,80
+Japan,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0893345
+Japan,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0933038
+Japan,,...,...,Others,Services Trade Restrictions Index - Over All,23.4
+Japan,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.0193723366
+Japan,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.0046445378
+Japan,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,19.3468
+Japan,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,19.0211
+Japan,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,7.6362
+Japan,2017,"Other Asia, nes",All Products,Export,Partner share(%)-Top 5 Export Partner,5.8221
+Japan,2017,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,5.0762
+Japan,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,24.4952
+Japan,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.9957
+Japan,2017,Australia,All Products,Import,Partner share(%)-Top 5 Import Partner,5.8034
+Japan,2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,4.1888
+Japan,2017,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.1363
+Japan,2017,World,Animal,Export,Export Product share(%),0.2411
+Japan,2017,World,Vegetable,Export,Export Product share(%),0.1475
+Japan,2017,World,Food Products,Export,Export Product share(%),0.518
+Japan,2017,World,Minerals,Export,Export Product share(%),0.1485
+Japan,2017,World,Fuels,Export,Export Product share(%),1.6297
+Japan,2017,World,Chemicals,Export,Export Product share(%),7.7317
+Japan,2017,World,Plastic or Rubber,Export,Export Product share(%),5.0862
+Japan,2017,World,Hides and Skins,Export,Export Product share(%),0.0393
+Japan,2017,World,Wood,Export,Export Product share(%),0.8683
+Japan,2017,World,Textiles and Clothing,Export,Export Product share(%),1.0827
+Japan,2017,World,Footwear,Export,Export Product share(%),0.0291
+Japan,2017,World,Stone and Glass,Export,Export Product share(%),3.1677
+Japan,2017,World,Metals,Export,Export Product share(%),7.7917
+Japan,2017,World,Mach and Elec,Export,Export Product share(%),33.4413
+Japan,2017,World,Transportation,Export,Export Product share(%),23.5002
+Japan,2017,World,Miscellaneous,Export,Export Product share(%),14.5769
+Japan,2017,World,Raw materials,Export,Export Product share(%),1.5377
+Japan,2017,World,Intermediate goods,Export,Export Product share(%),19.9134
+Japan,2017,World,Consumer goods,Export,Export Product share(%),24.6766
+Japan,2017,World,Capital goods,Export,Export Product share(%),47.5617
+Japan,2017,World,Raw materials,Import,Import Product share(%),23.3425
+Japan,2017,World,Intermediate goods,Import,Import Product share(%),15.1169
+Japan,2017,World,Consumer goods,Import,Import Product share(%),33.038
+Japan,2017,World,Capital goods,Import,Import Product share(%),26.7994
+Japan,2017,World,Raw materials,Tariff,Weighted Average (%),3.22250087760802
+Japan,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.68270574837297
+Japan,2017,World,Consumer goods,Tariff,Weighted Average (%),3.58884041251733
+Japan,2017,World,Capital goods,Tariff,Weighted Average (%),0.00297639624172302
+Japan,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Japan,2017,World,All Products,Trade Indicator,Country Growth (%),-4.00413390862884
+Japan,2017,World,All Products,Tariff,Simple Average (%),3.68644464934529
+Japan,2017,World,All Products,Tariff,Weighted Average (%),2.50715433233975
+Japan,2017,World,All Products,Tariff,Maximum Rate (%),2938.97094726563
+Japan,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),55.1873974038873
+Japan,2017,...,...,Trade Indicator,Index of export market penetration,20.8856837299543
+Japan,2017,...,...,Trade Indicator,HH Market concentration index,0.11563160572468
+Japan,2017,...,...,Development,Trade in services (% of GDP),7.78294706740019
+Japan,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",38550

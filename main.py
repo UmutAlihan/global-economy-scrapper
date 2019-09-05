@@ -4,46 +4,26 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import os, ssl
+import xlwings as xw
+import time
 if (not os.environ.get('PYTHONHTTPSVERIFY', '') and
     getattr(ssl, '_create_unverified_context', None)): 
     ssl._create_default_https_context = ssl._create_unverified_context
 
 
-#Get country abbrevations	
-#All countries list:
-#https://wits.worldbank.org/countrystats.aspx?lang=en
-
-#downlad data for each country
-#parse
+	
 
 #Country - All Years - All Indicators
-url = "http://wits.worldbank.org/data/public/cp/en_USA_allyears_wits_trade_summary.csv"
-response = requests.get(url, verify=False)
+wb = xw.Book("C:\\Users\\umdikel\\Desktop\\local\\Alihan\\global-economy-scrapper\\ulke-kisaltma.xlsx")
+ws = wb.sheets[0]
+abr_list = ws.range('A2:A198').value
 
-alihan = requests.get(url, verify=False)
-with open("C:\Users\umdikel\Desktop\local\Alihan\global-economy-scrapper\test.csv", "wb") as f:
-	f.write(alihan.content)
-	
-
-
-	
-
-#TR : 2016	
-#https://wits.worldbank.org/CountryProfile/en/Country/TUR/Year/2016/Summary	
-
-
-"""def download_file(url, filename):
-	''' Downloads file from the url and save it as filename '''
-	# check if file already exists
-	if not os.path.isfile(filename):
-		print('Downloading File')
-		response = requests.get(url,verify=False)
-		# Check if the response is ok (200)
-		if response.status_code == 200:
-			# Open file and write the content
-			with open(filename, 'wb') as file:
-			# A chunk of 128 bytes
-				for chunk in response:
-					file.write(chunk)
-		else:
-			print('File exists')""""	
+for country in abr_list:
+  time.sleep(1)
+  country = country.strip()
+  print(country)
+  url = "http://wits.worldbank.org/data/public/country_profile_at_a_glance/en_" + country + "_at-a-glance.CSV"
+  response = requests.get(url, verify=False)
+  csv_file = "C:\\Users\\umdikel\\Desktop\\local\\Alihan\\global-economy-scrapper\\Data\\Summary-" + country+ ".csv"
+  with open(csv_file, "wb") as f:
+    f.write(response.content)

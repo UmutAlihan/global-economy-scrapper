@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Honduras,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1999.95016899
+Honduras,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,393.46480568
+Honduras,2017,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,348.44746482
+Honduras,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,292.02727551
+Honduras,2017,El Salvador,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,287.46781324
+Honduras,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2987.1704792
+Honduras,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1296.03794191
+Honduras,2017,Guatemala,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,742.97213487
+Honduras,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,639.56578169
+Honduras,2017,El Salvador,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,386.26303997
+Honduras,2017,World,Animal,Export,Export(US$ Mil),487.45894586
+Honduras,2017,World,Vegetable,Export,Export(US$ Mil),2249.9897771
+Honduras,2017,World,Food Products,Export,Export(US$ Mil),400.24340328
+Honduras,2017,World,Minerals,Export,Export(US$ Mil),68.70777566
+Honduras,2017,World,Fuels,Export,Export(US$ Mil),40.6081545
+Honduras,2017,World,Chemicals,Export,Export(US$ Mil),182.95074605
+Honduras,2017,World,Plastic or Rubber,Export,Export(US$ Mil),113.96038581
+Honduras,2017,World,Hides and Skins,Export,Export(US$ Mil),2.28511387
+Honduras,2017,World,Wood,Export,Export(US$ Mil),320.86234531
+Honduras,2017,World,Textiles and Clothing,Export,Export(US$ Mil),20.53656239
+Honduras,2017,World,Footwear,Export,Export(US$ Mil),8.4924534
+Honduras,2017,World,Stone and Glass,Export,Export(US$ Mil),176.25999332
+Honduras,2017,World,Metals,Export,Export(US$ Mil),229.41344712
+Honduras,2017,World,Mach and Elec,Export,Export(US$ Mil),543.43546251
+Honduras,2017,World,Transportation,Export,Export(US$ Mil),65.97340432
+Honduras,2017,World,Miscellaneous,Export,Export(US$ Mil),58.96642548
+Honduras,2017,World,Raw materials,Export,Export(US$ Mil),2434.03083656
+Honduras,2017,World,Intermediate goods,Export,Export(US$ Mil),1009.31209315
+Honduras,2017,World,Consumer goods,Export,Export(US$ Mil),1376.17366567
+Honduras,2017,World,Capital goods,Export,Export(US$ Mil),150.6278006
+Honduras,2017,World,Raw materials,Import,Import(US$ Mil),469.69958062
+Honduras,2017,World,Intermediate goods,Import,Import(US$ Mil),1808.19188539
+Honduras,2017,World,Consumer goods,Import,Import(US$ Mil),4657.62473701999
+Honduras,2017,World,Capital goods,Import,Import(US$ Mil),1676.71089209
+Honduras,2017,World,All Products,Export,Exports (in US$ Mil),4970.14439598
+Honduras,2017,World,All Products,Import,Imports (in US$ Mil),8612.24119198
+Honduras,2015,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4594271.466
+Honduras,2017,...,...,Development,Trade Balance (current US$ Mil),-3514.5675711348
+Honduras,2017,...,...,Development,GDP (current US$ Mil),22978.5328967816
+Honduras,2015,...,...,Tariff,No. Of Tariff Agreement,13
+Honduras,2017,...,...,Import,No. Of Import partners,189
+Honduras,2017,...,...,Import,No. Of Import products,3829
+Honduras,2017,...,...,Export,No. Of Export partners,124
+Honduras,2017,...,...,Export,No. Of Export products,2183
+Honduras,2016,...,...,Others,Population,9112867
+Honduras,2018,...,...,Others,Ease of Doing Business Rank,115
+Honduras,2018,...,...,Others,Trading Across Borders Rank,115
+Honduras,2017,...,...,Others,CPIA Trade Ratings,4
+Honduras,2016,...,...,Others,LPI Rank,112
+Honduras,2016,...,...,Others,LPI Score,2.462812
+Honduras,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1070
+Honduras,2014,...,...,Others,No Of NTM Measures,31
+Honduras,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0936778
+Honduras,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0936778
+Honduras,,...,...,Others,Services Trade Restrictions Index - Over All,21.1
+Honduras,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,40.2393
+Honduras,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9166
+Honduras,2017,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,7.0108
+Honduras,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,5.8756
+Honduras,2017,El Salvador,All Products,Export,Partner share(%)-Top 5 Export Partner,5.7839
+Honduras,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,34.6852
+Honduras,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.0488
+Honduras,2017,Guatemala,All Products,Import,Partner share(%)-Top 5 Import Partner,8.6269
+Honduras,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4262
+Honduras,2017,El Salvador,All Products,Import,Partner share(%)-Top 5 Import Partner,4.485
+Honduras,2017,World,Animal,Export,Export Product share(%),9.8077
+Honduras,2017,World,Vegetable,Export,Export Product share(%),45.2701
+Honduras,2017,World,Food Products,Export,Export Product share(%),8.053
+Honduras,2017,World,Minerals,Export,Export Product share(%),1.3824
+Honduras,2017,World,Fuels,Export,Export Product share(%),0.817
+Honduras,2017,World,Chemicals,Export,Export Product share(%),3.681
+Honduras,2017,World,Plastic or Rubber,Export,Export Product share(%),2.2929
+Honduras,2017,World,Hides and Skins,Export,Export Product share(%),0.046
+Honduras,2017,World,Wood,Export,Export Product share(%),6.4558
+Honduras,2017,World,Textiles and Clothing,Export,Export Product share(%),0.4132
+Honduras,2017,World,Footwear,Export,Export Product share(%),0.1709
+Honduras,2017,World,Stone and Glass,Export,Export Product share(%),3.5464
+Honduras,2017,World,Metals,Export,Export Product share(%),4.6158
+Honduras,2017,World,Mach and Elec,Export,Export Product share(%),10.934
+Honduras,2017,World,Transportation,Export,Export Product share(%),1.3274
+Honduras,2017,World,Miscellaneous,Export,Export Product share(%),1.1864
+Honduras,2017,World,Raw materials,Export,Export Product share(%),48.973
+Honduras,2017,World,Intermediate goods,Export,Export Product share(%),20.3075
+Honduras,2017,World,Consumer goods,Export,Export Product share(%),27.6888
+Honduras,2017,World,Capital goods,Export,Export Product share(%),3.0307
+Honduras,2017,World,Raw materials,Import,Import Product share(%),5.4539
+Honduras,2017,World,Intermediate goods,Import,Import Product share(%),20.9956
+Honduras,2017,World,Consumer goods,Import,Import Product share(%),54.0814
+Honduras,2017,World,Capital goods,Import,Import Product share(%),19.4689
+Honduras,2015,World,Raw materials,Tariff,Weighted Average (%),9.44786252578149
+Honduras,2015,World,Intermediate goods,Tariff,Weighted Average (%),1.45008223113579
+Honduras,2015,World,Consumer goods,Tariff,Weighted Average (%),3.38936919081155
+Honduras,2015,World,Capital goods,Tariff,Weighted Average (%),1.82998444525679
+Honduras,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Honduras,2017,World,All Products,Trade Indicator,Country Growth (%),-0.376998969529152
+Honduras,2015,World,All Products,Tariff,Simple Average (%),4.31854494001577
+Honduras,2015,World,All Products,Tariff,Weighted Average (%),2.78680616678512
+Honduras,2015,World,All Products,Tariff,Maximum Rate (%),164
+Honduras,2015,World,All Products,Tariff,Duty Free Tariff Lines Share (%),59.906719887835
+Honduras,2017,...,...,Trade Indicator,Index of export market penetration,2.53568801468785
+Honduras,2017,...,...,Trade Indicator,HH Market concentration index,0.328690486725077
+Honduras,2017,...,...,Development,Trade Balance (% of GDP),-15.2950041977094
+Honduras,2017,...,...,Development,Trade in services (% of GDP),20.8168406537411
+Honduras,2017,...,...,Development,Trade (% of GDP),102.415772047795
+Honduras,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",2250

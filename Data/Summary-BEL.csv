@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Belgium,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,71402.5944506978
+Belgium,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,64006.9750861957
+Belgium,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,51628.6073952586
+Belgium,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,36217.354115516
+Belgium,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,21097.1110706084
+Belgium,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,69904.7929011014
+Belgium,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,56265.0543050673
+Belgium,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,38535.1086208671
+Belgium,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,29208.3030546626
+Belgium,2017,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,19637.7508801276
+Belgium,2017,World,Animal,Export,Export(US$ Mil),9576.88193037296
+Belgium,2017,World,Vegetable,Export,Export(US$ Mil),11976.7417282519
+Belgium,2017,World,Food Products,Export,Export(US$ Mil),24034.3574813611
+Belgium,2017,World,Minerals,Export,Export(US$ Mil),2745.05808054671
+Belgium,2017,World,Fuels,Export,Export(US$ Mil),35869.2932335497
+Belgium,2017,World,Chemicals,Export,Export(US$ Mil),96057.3617999855
+Belgium,2017,World,Plastic or Rubber,Export,Export(US$ Mil),34341.7793647597
+Belgium,2017,World,Hides and Skins,Export,Export(US$ Mil),1675.19154451321
+Belgium,2017,World,Wood,Export,Export(US$ Mil),9811.46962574189
+Belgium,2017,World,Textiles and Clothing,Export,Export(US$ Mil),14979.0168192262
+Belgium,2017,World,Footwear,Export,Export(US$ Mil),6912.76083191435
+Belgium,2017,World,Stone and Glass,Export,Export(US$ Mil),21442.1992718352
+Belgium,2017,World,Metals,Export,Export(US$ Mil),32996.2140806243
+Belgium,2017,World,Mach and Elec,Export,Export(US$ Mil),44869.16051817
+Belgium,2017,World,Transportation,Export,Export(US$ Mil),51437.3525769409
+Belgium,2017,World,Miscellaneous,Export,Export(US$ Mil),31255.3286513634
+Belgium,2017,World,Raw materials,Export,Export(US$ Mil),34212.6208661512
+Belgium,2017,World,Intermediate goods,Export,Export(US$ Mil),134312.106707641
+Belgium,2017,World,Consumer goods,Export,Export(US$ Mil),180067.529134416
+Belgium,2017,World,Capital goods,Export,Export(US$ Mil),70393.9973929981
+Belgium,2017,World,Raw materials,Import,Import(US$ Mil),53843.491143581
+Belgium,2017,World,Intermediate goods,Import,Import(US$ Mil),113668.615694688
+Belgium,2017,World,Consumer goods,Import,Import(US$ Mil),160647.611375194
+Belgium,2017,World,Capital goods,Import,Import(US$ Mil),73489.0381630588
+Belgium,2017,World,All Products,Export,Exports (in US$ Mil),429980.167539157
+Belgium,2017,World,All Products,Import,Imports (in US$ Mil),406412.281148828
+Belgium,2017,...,...,Development,Trade Balance (current US$ Mil),3467.89378337402
+Belgium,2017,...,...,Development,GDP (current US$ Mil),492681.283049248
+Belgium,2017,...,...,Import,No. Of Import partners,223
+Belgium,2017,...,...,Import,No. Of Import products,4511
+Belgium,2017,...,...,Export,No. Of Export partners,230
+Belgium,2017,...,...,Export,No. Of Export products,4466
+Belgium,2016,...,...,Others,Population,11331422
+Belgium,2018,...,...,Others,Ease of Doing Business Rank,52
+Belgium,2018,...,...,Others,Trading Across Borders Rank,1
+Belgium,2016,...,...,Others,LPI Rank,6
+Belgium,2016,...,...,Others,LPI Score,4.108538
+Belgium,,...,...,Others,Services Trade Restrictions Index - Over All,22.5
+Belgium,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,16.606
+Belgium,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,14.886
+Belgium,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,12.0072
+Belgium,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,8.423
+Belgium,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9065
+Belgium,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,17.2005
+Belgium,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,13.8443
+Belgium,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,9.4818
+Belgium,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.1869
+Belgium,2017,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,4.832
+Belgium,2017,World,Animal,Export,Export Product share(%),2.2273
+Belgium,2017,World,Vegetable,Export,Export Product share(%),2.7854
+Belgium,2017,World,Food Products,Export,Export Product share(%),5.5896
+Belgium,2017,World,Minerals,Export,Export Product share(%),0.6384
+Belgium,2017,World,Fuels,Export,Export Product share(%),8.3421
+Belgium,2017,World,Chemicals,Export,Export Product share(%),22.34
+Belgium,2017,World,Plastic or Rubber,Export,Export Product share(%),7.9868
+Belgium,2017,World,Hides and Skins,Export,Export Product share(%),0.3896
+Belgium,2017,World,Wood,Export,Export Product share(%),2.2818
+Belgium,2017,World,Textiles and Clothing,Export,Export Product share(%),3.4837
+Belgium,2017,World,Footwear,Export,Export Product share(%),1.6077
+Belgium,2017,World,Stone and Glass,Export,Export Product share(%),4.9868
+Belgium,2017,World,Metals,Export,Export Product share(%),7.6739
+Belgium,2017,World,Mach and Elec,Export,Export Product share(%),10.4352
+Belgium,2017,World,Transportation,Export,Export Product share(%),11.9627
+Belgium,2017,World,Miscellaneous,Export,Export Product share(%),7.269
+Belgium,2017,World,Raw materials,Export,Export Product share(%),7.9568
+Belgium,2017,World,Intermediate goods,Export,Export Product share(%),31.2368
+Belgium,2017,World,Consumer goods,Export,Export Product share(%),41.8781
+Belgium,2017,World,Capital goods,Export,Export Product share(%),16.3715
+Belgium,2017,World,Raw materials,Import,Import Product share(%),13.2485
+Belgium,2017,World,Intermediate goods,Import,Import Product share(%),27.9688
+Belgium,2017,World,Consumer goods,Import,Import Product share(%),39.5282
+Belgium,2017,World,Capital goods,Import,Import Product share(%),18.0824
+Belgium,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Belgium,2017,World,All Products,Trade Indicator,Country Growth (%),1.8583262041542
+Belgium,2017,...,...,Trade Indicator,Index of export market penetration,22.1992640079061
+Belgium,2017,...,...,Trade Indicator,HH Market concentration index,0.0750977866930795
+Belgium,2017,...,...,Development,Trade Balance (% of GDP),0.703881779699699
+Belgium,2017,...,...,Development,Trade in services (% of GDP),47.8764163969886
+Belgium,2017,...,...,Development,Trade (% of GDP),169.402711456732
+Belgium,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",41790

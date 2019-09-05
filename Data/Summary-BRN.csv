@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Brunei,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1630.29960010586
+Brunei,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,789.360593223659
+Brunei,2017,Malaysia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,625.6362371293
+Brunei,2017,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,611.505485242793
+Brunei,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,544.901107106578
+Brunei,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,641.85992803623
+Brunei,2017,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,569.21676811306
+Brunei,2017,Malaysia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,562.431634394634
+Brunei,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,292.167974772887
+Brunei,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,171.796563145469
+Brunei,2017,World,Animal,Export,Export(US$ Mil),5.48734042948137
+Brunei,2017,World,Vegetable,Export,Export(US$ Mil),0.753232317018519
+Brunei,2017,World,Food Products,Export,Export(US$ Mil),4.77094437296561
+Brunei,2017,World,Minerals,Export,Export(US$ Mil),0.285962766694428
+Brunei,2017,World,Fuels,Export,Export(US$ Mil),4989.41356009544
+Brunei,2017,World,Chemicals,Export,Export(US$ Mil),202.799036404631
+Brunei,2017,World,Plastic or Rubber,Export,Export(US$ Mil),3.40688269840866
+Brunei,2017,World,Hides and Skins,Export,Export(US$ Mil),1.14733256827513
+Brunei,2017,World,Wood,Export,Export(US$ Mil),3.84120588665962
+Brunei,2017,World,Textiles and Clothing,Export,Export(US$ Mil),11.7985493030698
+Brunei,2017,World,Footwear,Export,Export(US$ Mil),0.852307696432512
+Brunei,2017,World,Stone and Glass,Export,Export(US$ Mil),12.5780886353246
+Brunei,2017,World,Metals,Export,Export(US$ Mil),33.0218387397404
+Brunei,2017,World,Mach and Elec,Export,Export(US$ Mil),99.6132687587074
+Brunei,2017,World,Transportation,Export,Export(US$ Mil),38.6788014273853
+Brunei,2017,World,Miscellaneous,Export,Export(US$ Mil),162.126861665173
+Brunei,2017,World,Raw materials,Export,Export(US$ Mil),2233.37396696177
+Brunei,2017,World,Intermediate goods,Export,Export(US$ Mil),250.728694455029
+Brunei,2017,World,Consumer goods,Export,Export(US$ Mil),2829.54208505163
+Brunei,2017,World,Capital goods,Export,Export(US$ Mil),245.704576591697
+Brunei,2017,World,Raw materials,Import,Import(US$ Mil),185.88713127346
+Brunei,2017,World,Intermediate goods,Import,Import(US$ Mil),653.75722753117
+Brunei,2017,World,Consumer goods,Import,Import(US$ Mil),1381.65211753702
+Brunei,2017,World,Capital goods,Import,Import(US$ Mil),839.346041639184
+Brunei,2017,World,All Products,Export,Exports (in US$ Mil),5570.57521376541
+Brunei,2017,World,All Products,Import,Imports (in US$ Mil),3084.53389958098
+Brunei,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),2721635.91561003
+Brunei,2017,...,...,Development,Trade Balance (current US$ Mil),1694.26403378472
+Brunei,2017,...,...,Development,GDP (current US$ Mil),12128.0890015858
+Brunei,2017,...,...,Tariff,No. Of Tariff Agreement,9
+Brunei,2017,...,...,Import,No. Of Import partners,166
+Brunei,2017,...,...,Import,No. Of Import products,3506
+Brunei,2017,...,...,Export,No. Of Export partners,88
+Brunei,2017,...,...,Export,No. Of Export products,1923
+Brunei,2016,...,...,Others,Population,423196
+Brunei,2018,...,...,Others,Ease of Doing Business Rank,56
+Brunei,2018,...,...,Others,Trading Across Borders Rank,144
+Brunei,2016,...,...,Others,LPI Rank,70
+Brunei,2016,...,...,Others,LPI Score,2.870492
+Brunei,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),2571
+Brunei,2015,...,...,Others,No Of NTM Measures,53
+Brunei,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,29.2663
+Brunei,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,14.1702
+Brunei,2017,Malaysia,All Products,Export,Partner share(%)-Top 5 Export Partner,11.2311
+Brunei,2017,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,10.9774
+Brunei,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,9.7818
+Brunei,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,20.809
+Brunei,2017,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,18.4539
+Brunei,2017,Malaysia,All Products,Import,Partner share(%)-Top 5 Import Partner,18.2339
+Brunei,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,9.472
+Brunei,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,5.5696
+Brunei,2017,World,Animal,Export,Export Product share(%),0.0985
+Brunei,2017,World,Vegetable,Export,Export Product share(%),0.0135
+Brunei,2017,World,Food Products,Export,Export Product share(%),0.0856
+Brunei,2017,World,Minerals,Export,Export Product share(%),0.0051
+Brunei,2017,World,Fuels,Export,Export Product share(%),89.5673
+Brunei,2017,World,Chemicals,Export,Export Product share(%),3.6405
+Brunei,2017,World,Plastic or Rubber,Export,Export Product share(%),0.0612
+Brunei,2017,World,Hides and Skins,Export,Export Product share(%),0.0206
+Brunei,2017,World,Wood,Export,Export Product share(%),0.069
+Brunei,2017,World,Textiles and Clothing,Export,Export Product share(%),0.2118
+Brunei,2017,World,Footwear,Export,Export Product share(%),0.0153
+Brunei,2017,World,Stone and Glass,Export,Export Product share(%),0.2258
+Brunei,2017,World,Metals,Export,Export Product share(%),0.5928
+Brunei,2017,World,Mach and Elec,Export,Export Product share(%),1.7882
+Brunei,2017,World,Transportation,Export,Export Product share(%),0.6943
+Brunei,2017,World,Miscellaneous,Export,Export Product share(%),2.9104
+Brunei,2017,World,Raw materials,Export,Export Product share(%),40.0923
+Brunei,2017,World,Intermediate goods,Export,Export Product share(%),4.5009
+Brunei,2017,World,Consumer goods,Export,Export Product share(%),50.7944
+Brunei,2017,World,Capital goods,Export,Export Product share(%),4.4108
+Brunei,2017,World,Raw materials,Import,Import Product share(%),6.0264
+Brunei,2017,World,Intermediate goods,Import,Import Product share(%),21.1947
+Brunei,2017,World,Consumer goods,Import,Import Product share(%),44.7929
+Brunei,2017,World,Capital goods,Import,Import Product share(%),27.2114
+Brunei,2017,World,Raw materials,Tariff,Weighted Average (%),0.00258658983732733
+Brunei,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.0086590197165529
+Brunei,2017,World,Consumer goods,Tariff,Weighted Average (%),0.0724494439716099
+Brunei,2017,World,Capital goods,Tariff,Weighted Average (%),0
+Brunei,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Brunei,2017,World,All Products,Trade Indicator,Country Growth (%),-0.928624187178961
+Brunei,2017,World,All Products,Tariff,Simple Average (%),0.150554914192131
+Brunei,2017,World,All Products,Tariff,Weighted Average (%),0.030816434185759
+Brunei,2017,World,All Products,Tariff,Maximum Rate (%),10
+Brunei,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),97.1851296725258
+Brunei,2017,...,...,Trade Indicator,Index of export market penetration,1.52827612868931
+Brunei,2017,...,...,Trade Indicator,HH Market concentration index,0.192549395437492
+Brunei,2017,...,...,Development,Trade Balance (% of GDP),13.9697526425078
+Brunei,2017,...,...,Development,Trade in services (% of GDP),14.8452812783135
+Brunei,2017,...,...,Development,Trade (% of GDP),85.1768601780264
+Brunei,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",29600

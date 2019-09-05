@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Chile,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,19090.878401252
+Chile,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9996.54442242987
+Chile,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6445.21268180556
+Chile,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4285.82088778
+Chile,2017,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3440.4217656468
+Chile,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15504.802828156
+Chile,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11741.5319503965
+Chile,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5606.67117541001
+Chile,2017,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2924.98574493001
+Chile,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2650.07019804651
+Chile,2017,World,Animal,Export,Export(US$ Mil),6172.5139292
+Chile,2017,World,Vegetable,Export,Export(US$ Mil),6516.40977954616
+Chile,2017,World,Food Products,Export,Export(US$ Mil),4339.05182842922
+Chile,2017,World,Minerals,Export,Export(US$ Mil),19656.03675157
+Chile,2017,World,Fuels,Export,Export(US$ Mil),600.244550938884
+Chile,2017,World,Chemicals,Export,Export(US$ Mil),3030.5768962151
+Chile,2017,World,Plastic or Rubber,Export,Export(US$ Mil),804.918980838437
+Chile,2017,World,Hides and Skins,Export,Export(US$ Mil),67.043770659477
+Chile,2017,World,Wood,Export,Export(US$ Mil),5375.736917032
+Chile,2017,World,Textiles and Clothing,Export,Export(US$ Mil),596.483998783051
+Chile,2017,World,Footwear,Export,Export(US$ Mil),141.152455594571
+Chile,2017,World,Stone and Glass,Export,Export(US$ Mil),1027.08268037272
+Chile,2017,World,Metals,Export,Export(US$ Mil),18648.5738420129
+Chile,2017,World,Mach and Elec,Export,Export(US$ Mil),1084.01752305099
+Chile,2017,World,Transportation,Export,Export(US$ Mil),931.030403216926
+Chile,2017,World,Miscellaneous,Export,Export(US$ Mil),238.383025421321
+Chile,2017,World,Raw materials,Export,Export(US$ Mil),32322.8796964454
+Chile,2017,World,Intermediate goods,Export,Export(US$ Mil),27862.7068787204
+Chile,2017,World,Consumer goods,Export,Export(US$ Mil),7292.60978786842
+Chile,2017,World,Capital goods,Export,Export(US$ Mil),1750.1847268778
+Chile,2017,World,Raw materials,Import,Import(US$ Mil),7388.98536497569
+Chile,2017,World,Intermediate goods,Import,Import(US$ Mil),10110.6588532692
+Chile,2017,World,Consumer goods,Import,Import(US$ Mil),28217.160545818
+Chile,2017,World,Capital goods,Import,Import(US$ Mil),19204.7980232461
+Chile,2017,World,All Products,Export,Exports (in US$ Mil),69229.2573328818
+Chile,2017,World,All Products,Import,Imports (in US$ Mil),65061.731101259
+Chile,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),54094615.5616075
+Chile,2017,...,...,Development,Trade Balance (current US$ Mil),4743.9368411449
+Chile,2017,...,...,Development,GDP (current US$ Mil),277075.944401941
+Chile,2017,...,...,Tariff,No. Of Tariff Agreement,74
+Chile,2017,...,...,Import,No. Of Import partners,183
+Chile,2017,...,...,Import,No. Of Import products,4318
+Chile,2017,...,...,Export,No. Of Export partners,181
+Chile,2017,...,...,Export,No. Of Export products,3670
+Chile,2016,...,...,Others,Population,17909754
+Chile,2018,...,...,Others,Ease of Doing Business Rank,55
+Chile,2018,...,...,Others,Trading Across Borders Rank,68
+Chile,2016,...,...,Others,LPI Rank,46
+Chile,2016,...,...,Others,LPI Score,3.248442
+Chile,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),3543
+Chile,2014,...,...,Others,No Of NTM Measures,56
+Chile,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0715218
+Chile,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0715218
+Chile,,...,...,Others,Services Trade Restrictions Index - Over All,23.4
+Chile,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.1162340194
+Chile,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.6051917672
+Chile,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,27.5763
+Chile,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,14.4398
+Chile,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,9.31
+Chile,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,6.1908
+Chile,2017,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9696
+Chile,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,23.8309
+Chile,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,18.0468
+Chile,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,8.6175
+Chile,2017,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4957
+Chile,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,4.0732
+Chile,2017,World,Animal,Export,Export Product share(%),8.916
+Chile,2017,World,Vegetable,Export,Export Product share(%),9.4128
+Chile,2017,World,Food Products,Export,Export Product share(%),6.2677
+Chile,2017,World,Minerals,Export,Export Product share(%),28.3927
+Chile,2017,World,Fuels,Export,Export Product share(%),0.867
+Chile,2017,World,Chemicals,Export,Export Product share(%),4.3776
+Chile,2017,World,Plastic or Rubber,Export,Export Product share(%),1.1627
+Chile,2017,World,Hides and Skins,Export,Export Product share(%),0.0968
+Chile,2017,World,Wood,Export,Export Product share(%),7.7651
+Chile,2017,World,Textiles and Clothing,Export,Export Product share(%),0.8616
+Chile,2017,World,Footwear,Export,Export Product share(%),0.2039
+Chile,2017,World,Stone and Glass,Export,Export Product share(%),1.4836
+Chile,2017,World,Metals,Export,Export Product share(%),26.9374
+Chile,2017,World,Mach and Elec,Export,Export Product share(%),1.5658
+Chile,2017,World,Transportation,Export,Export Product share(%),1.3449
+Chile,2017,World,Miscellaneous,Export,Export Product share(%),0.3443
+Chile,2017,World,Raw materials,Export,Export Product share(%),46.6896
+Chile,2017,World,Intermediate goods,Export,Export Product share(%),40.247
+Chile,2017,World,Consumer goods,Export,Export Product share(%),10.534
+Chile,2017,World,Capital goods,Export,Export Product share(%),2.5281
+Chile,2017,World,Raw materials,Import,Import Product share(%),11.3569
+Chile,2017,World,Intermediate goods,Import,Import Product share(%),15.5401
+Chile,2017,World,Consumer goods,Import,Import Product share(%),43.3698
+Chile,2017,World,Capital goods,Import,Import Product share(%),29.5178
+Chile,2017,World,Raw materials,Tariff,Weighted Average (%),0.0401530685752197
+Chile,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.421947221211437
+Chile,2017,World,Consumer goods,Tariff,Weighted Average (%),0.737979625034056
+Chile,2017,World,Capital goods,Tariff,Weighted Average (%),0.395496478195458
+Chile,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Chile,2017,World,All Products,Trade Indicator,Country Growth (%),4.76764044194244
+Chile,2017,World,All Products,Tariff,Simple Average (%),1.04194488507461
+Chile,2017,World,All Products,Tariff,Weighted Average (%),0.489163312856926
+Chile,2017,World,All Products,Tariff,Maximum Rate (%),6
+Chile,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),81.2190294369499
+Chile,2017,...,...,Trade Indicator,Index of export market penetration,4.5487750690977
+Chile,2017,...,...,Trade Indicator,HH Market concentration index,0.135189973100045
+Chile,2017,...,...,Development,Trade Balance (% of GDP),1.7121431639922
+Chile,2017,...,...,Development,Trade in services (% of GDP),8.39271059260506
+Chile,2017,...,...,Development,Trade (% of GDP),55.6950807258162
+Chile,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",13610

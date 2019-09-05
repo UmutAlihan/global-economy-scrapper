@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Portugal,2017,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15670.4636718988
+Portugal,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7776.95112995145
+Portugal,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7041.08206375365
+Portugal,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4116.78775856373
+Portugal,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3213.04091295417
+Portugal,2017,Spain,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,24895.5248793496
+Portugal,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10681.0984477671
+Portugal,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5751.92641276684
+Portugal,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4254.87505003551
+Portugal,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4164.6226790629
+Portugal,2017,World,Animal,Export,Export(US$ Mil),1737.81220332688
+Portugal,2017,World,Vegetable,Export,Export(US$ Mil),2338.4130604764
+Portugal,2017,World,Food Products,Export,Export(US$ Mil),3720.87818424434
+Portugal,2017,World,Minerals,Export,Export(US$ Mil),831.585781641601
+Portugal,2017,World,Fuels,Export,Export(US$ Mil),4545.43730324983
+Portugal,2017,World,Chemicals,Export,Export(US$ Mil),3103.94321390959
+Portugal,2017,World,Plastic or Rubber,Export,Export(US$ Mil),4727.52664376751
+Portugal,2017,World,Hides and Skins,Export,Export(US$ Mil),315.07040227451
+Portugal,2017,World,Wood,Export,Export(US$ Mil),4719.12244401102
+Portugal,2017,World,Textiles and Clothing,Export,Export(US$ Mil),5906.25759487151
+Portugal,2017,World,Footwear,Export,Export(US$ Mil),2335.3471874229
+Portugal,2017,World,Stone and Glass,Export,Export(US$ Mil),2336.0308906117
+Portugal,2017,World,Metals,Export,Export(US$ Mil),4894.16675399325
+Portugal,2017,World,Mach and Elec,Export,Export(US$ Mil),9523.56074406246
+Portugal,2017,World,Transportation,Export,Export(US$ Mil),7410.48406068772
+Portugal,2017,World,Miscellaneous,Export,Export(US$ Mil),3724.26315988705
+Portugal,2017,World,Raw materials,Export,Export(US$ Mil),4279.02027980193
+Portugal,2017,World,Intermediate goods,Export,Export(US$ Mil),13936.7952246534
+Portugal,2017,World,Consumer goods,Export,Export(US$ Mil),30735.3466145758
+Portugal,2017,World,Capital goods,Export,Export(US$ Mil),13113.6714462663
+Portugal,2017,World,Raw materials,Import,Import(US$ Mil),13374.6493595096
+Portugal,2017,World,Intermediate goods,Import,Import(US$ Mil),18309.5952223328
+Portugal,2017,World,Consumer goods,Import,Import(US$ Mil),27990.4704535157
+Portugal,2017,World,Capital goods,Import,Import(US$ Mil),18158.8114566629
+Portugal,2017,World,All Products,Export,Exports (in US$ Mil),62169.8996284382
+Portugal,2017,World,All Products,Import,Imports (in US$ Mil),77833.7921507642
+Portugal,2017,...,...,Development,Trade Balance (current US$ Mil),2240.5113568452
+Portugal,2017,...,...,Development,GDP (current US$ Mil),217571.08304599
+Portugal,2017,...,...,Import,No. Of Import partners,184
+Portugal,2017,...,...,Import,No. Of Import products,4463
+Portugal,2017,...,...,Export,No. Of Export partners,211
+Portugal,2017,...,...,Export,No. Of Export products,4217
+Portugal,2016,...,...,Others,Population,10325452
+Portugal,2018,...,...,Others,Ease of Doing Business Rank,29
+Portugal,2018,...,...,Others,Trading Across Borders Rank,1
+Portugal,2016,...,...,Others,LPI Rank,36
+Portugal,2016,...,...,Others,LPI Score,3.409367
+Portugal,,...,...,Others,Services Trade Restrictions Index - Over All,21.8
+Portugal,2017,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,25.2059
+Portugal,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,12.5092
+Portugal,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,11.3255
+Portugal,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.6218
+Portugal,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,5.1682
+Portugal,2017,Spain,All Products,Import,Partner share(%)-Top 5 Import Partner,31.9855
+Portugal,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,13.723
+Portugal,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,7.39
+Portugal,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4666
+Portugal,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,5.3507
+Portugal,2017,World,Animal,Export,Export Product share(%),2.7953
+Portugal,2017,World,Vegetable,Export,Export Product share(%),3.7613
+Portugal,2017,World,Food Products,Export,Export Product share(%),5.985
+Portugal,2017,World,Minerals,Export,Export Product share(%),1.3376
+Portugal,2017,World,Fuels,Export,Export Product share(%),7.3113
+Portugal,2017,World,Chemicals,Export,Export Product share(%),4.9927
+Portugal,2017,World,Plastic or Rubber,Export,Export Product share(%),7.6042
+Portugal,2017,World,Hides and Skins,Export,Export Product share(%),0.5068
+Portugal,2017,World,Wood,Export,Export Product share(%),7.5907
+Portugal,2017,World,Textiles and Clothing,Export,Export Product share(%),9.5002
+Portugal,2017,World,Footwear,Export,Export Product share(%),3.7564
+Portugal,2017,World,Stone and Glass,Export,Export Product share(%),3.7575
+Portugal,2017,World,Metals,Export,Export Product share(%),7.8722
+Portugal,2017,World,Mach and Elec,Export,Export Product share(%),15.3186
+Portugal,2017,World,Transportation,Export,Export Product share(%),11.9197
+Portugal,2017,World,Miscellaneous,Export,Export Product share(%),5.9905
+Portugal,2017,World,Raw materials,Export,Export Product share(%),6.8828
+Portugal,2017,World,Intermediate goods,Export,Export Product share(%),22.4173
+Portugal,2017,World,Consumer goods,Export,Export Product share(%),49.4377
+Portugal,2017,World,Capital goods,Export,Export Product share(%),21.0933
+Portugal,2017,World,Raw materials,Import,Import Product share(%),17.1836
+Portugal,2017,World,Intermediate goods,Import,Import Product share(%),23.524
+Portugal,2017,World,Consumer goods,Import,Import Product share(%),35.9618
+Portugal,2017,World,Capital goods,Import,Import Product share(%),23.3302
+Portugal,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Portugal,2017,World,All Products,Trade Indicator,Country Growth (%),2.89309741980694
+Portugal,2017,...,...,Trade Indicator,Index of export market penetration,12.2595134351458
+Portugal,2017,...,...,Trade Indicator,HH Market concentration index,0.0896536420235318
+Portugal,2017,...,...,Development,Trade Balance (% of GDP),1.0297836116263
+Portugal,2017,...,...,Development,Trade in services (% of GDP),23.4120248980678
+Portugal,2017,...,...,Development,Trade (% of GDP),85.1965871097903
+Portugal,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",19820

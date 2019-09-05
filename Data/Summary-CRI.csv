@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Costa Rica,2016,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4058.03812
+Costa Rica,2016,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,575.437869
+Costa Rica,2016,Panama,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,561.017178
+Costa Rica,2016,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,532.214175
+Costa Rica,2016,Nicaragua,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,517.296834
+Costa Rica,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5711.167765
+Costa Rica,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2082.231063
+Costa Rica,2016,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1067.13986
+Costa Rica,2016,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,485.098323
+Costa Rica,2016,Guatemala,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,416.693417
+Costa Rica,2016,World,Animal,Export,Export(US$ Mil),310.488889
+Costa Rica,2016,World,Vegetable,Export,Export(US$ Mil),2865.381567
+Costa Rica,2016,World,Food Products,Export,Export(US$ Mil),1388.426247
+Costa Rica,2016,World,Minerals,Export,Export(US$ Mil),32.956488
+Costa Rica,2016,World,Fuels,Export,Export(US$ Mil),3.345828
+Costa Rica,2016,World,Chemicals,Export,Export(US$ Mil),610.753979
+Costa Rica,2016,World,Plastic or Rubber,Export,Export(US$ Mil),597.596738
+Costa Rica,2016,World,Hides and Skins,Export,Export(US$ Mil),12.764092
+Costa Rica,2016,World,Wood,Export,Export(US$ Mil),320.309955
+Costa Rica,2016,World,Textiles and Clothing,Export,Export(US$ Mil),126.372393
+Costa Rica,2016,World,Footwear,Export,Export(US$ Mil),1.25332
+Costa Rica,2016,World,Stone and Glass,Export,Export(US$ Mil),116.08081
+Costa Rica,2016,World,Metals,Export,Export(US$ Mil),318.447489
+Costa Rica,2016,World,Mach and Elec,Export,Export(US$ Mil),516.377307
+Costa Rica,2016,World,Transportation,Export,Export(US$ Mil),13.487999
+Costa Rica,2016,World,Miscellaneous,Export,Export(US$ Mil),2673.830717
+Costa Rica,2016,World,Raw materials,Export,Export(US$ Mil),2998.988892
+Costa Rica,2016,World,Intermediate goods,Export,Export(US$ Mil),1394.09705
+Costa Rica,2016,World,Consumer goods,Export,Export(US$ Mil),3089.2501
+Costa Rica,2016,World,Capital goods,Export,Export(US$ Mil),2425.537816
+Costa Rica,2016,World,Raw materials,Import,Import(US$ Mil),897.603349
+Costa Rica,2016,World,Intermediate goods,Import,Import(US$ Mil),3348.623894
+Costa Rica,2016,World,Consumer goods,Import,Import(US$ Mil),7295.97855800001
+Costa Rica,2016,World,Capital goods,Import,Import(US$ Mil),3779.306521
+Costa Rica,2016,World,All Products,Export,Exports (in US$ Mil),9907.873818
+Costa Rica,2016,World,All Products,Import,Imports (in US$ Mil),15321.512292
+Costa Rica,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),10897363.503
+Costa Rica,2017,...,...,Development,Trade Balance (current US$ Mil),243.6594760788
+Costa Rica,2017,...,...,Development,GDP (current US$ Mil),57285.9844477113
+Costa Rica,2016,...,...,Tariff,No. Of Tariff Agreement,24
+Costa Rica,2016,...,...,Import,No. Of Import partners,201
+Costa Rica,2016,...,...,Import,No. Of Import products,4107
+Costa Rica,2016,...,...,Export,No. Of Export partners,149
+Costa Rica,2016,...,...,Export,No. Of Export products,2917
+Costa Rica,2016,...,...,Others,Population,4857274
+Costa Rica,2018,...,...,Others,Ease of Doing Business Rank,61
+Costa Rica,2018,...,...,Others,Trading Across Borders Rank,73
+Costa Rica,2016,...,...,Others,LPI Rank,89
+Costa Rica,2016,...,...,Others,LPI Score,2.64897
+Costa Rica,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1
+Costa Rica,2013,...,...,Others,No Of NTM Measures,1
+Costa Rica,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.015927
+Costa Rica,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0265392
+Costa Rica,,...,...,Others,Services Trade Restrictions Index - Over All,29.3
+Costa Rica,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0
+Costa Rica,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0
+Costa Rica,2016,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,40.9577
+Costa Rica,2016,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,5.8079
+Costa Rica,2016,Panama,All Products,Export,Partner share(%)-Top 5 Export Partner,5.6623
+Costa Rica,2016,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,5.3716
+Costa Rica,2016,Nicaragua,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2211
+Costa Rica,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,37.2755
+Costa Rica,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,13.5902
+Costa Rica,2016,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,6.965
+Costa Rica,2016,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,3.1661
+Costa Rica,2016,Guatemala,All Products,Import,Partner share(%)-Top 5 Import Partner,2.7197
+Costa Rica,2016,World,Animal,Export,Export Product share(%),3.1338
+Costa Rica,2016,World,Vegetable,Export,Export Product share(%),28.9202
+Costa Rica,2016,World,Food Products,Export,Export Product share(%),14.0134
+Costa Rica,2016,World,Minerals,Export,Export Product share(%),0.3326
+Costa Rica,2016,World,Fuels,Export,Export Product share(%),0.0338
+Costa Rica,2016,World,Chemicals,Export,Export Product share(%),6.1643
+Costa Rica,2016,World,Plastic or Rubber,Export,Export Product share(%),6.0315
+Costa Rica,2016,World,Hides and Skins,Export,Export Product share(%),0.1288
+Costa Rica,2016,World,Wood,Export,Export Product share(%),3.2329
+Costa Rica,2016,World,Textiles and Clothing,Export,Export Product share(%),1.2755
+Costa Rica,2016,World,Footwear,Export,Export Product share(%),0.0126
+Costa Rica,2016,World,Stone and Glass,Export,Export Product share(%),1.1716
+Costa Rica,2016,World,Metals,Export,Export Product share(%),3.2141
+Costa Rica,2016,World,Mach and Elec,Export,Export Product share(%),5.2118
+Costa Rica,2016,World,Transportation,Export,Export Product share(%),0.1361
+Costa Rica,2016,World,Miscellaneous,Export,Export Product share(%),26.9869
+Costa Rica,2016,World,Raw materials,Export,Export Product share(%),30.2687
+Costa Rica,2016,World,Intermediate goods,Export,Export Product share(%),14.0706
+Costa Rica,2016,World,Consumer goods,Export,Export Product share(%),31.1797
+Costa Rica,2016,World,Capital goods,Export,Export Product share(%),24.4809
+Costa Rica,2016,World,Raw materials,Import,Import Product share(%),5.8585
+Costa Rica,2016,World,Intermediate goods,Import,Import Product share(%),21.8557
+Costa Rica,2016,World,Consumer goods,Import,Import Product share(%),47.6192
+Costa Rica,2016,World,Capital goods,Import,Import Product share(%),24.6667
+Costa Rica,2016,World,Raw materials,Tariff,Weighted Average (%),3.31722734128612
+Costa Rica,2016,World,Intermediate goods,Tariff,Weighted Average (%),1.09146876092898
+Costa Rica,2016,World,Consumer goods,Tariff,Weighted Average (%),2.55198734666726
+Costa Rica,2016,World,Capital goods,Tariff,Weighted Average (%),0.987604835419721
+Costa Rica,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Costa Rica,2016,World,All Products,Trade Indicator,Country Growth (%),-1.09308581895834
+Costa Rica,2016,World,All Products,Tariff,Simple Average (%),3.81119770675724
+Costa Rica,2016,World,All Products,Tariff,Weighted Average (%),1.78114195565026
+Costa Rica,2016,World,All Products,Tariff,Maximum Rate (%),150
+Costa Rica,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),61.2062495309099
+Costa Rica,2016,...,...,Trade Indicator,Index of export market penetration,3.7117401503908
+Costa Rica,2016,...,...,Trade Indicator,HH Market concentration index,0.130904593595165
+Costa Rica,2017,...,...,Development,Trade Balance (% of GDP),0.425338725393196
+Costa Rica,2017,...,...,Development,Trade in services (% of GDP),21.6559184410754
+Costa Rica,2017,...,...,Development,Trade (% of GDP),66.2646152486654
+Costa Rica,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",11120

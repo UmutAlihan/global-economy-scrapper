@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Singapore,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,54038.5530267028
+Singapore,2017,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,46010.5132144344
+Singapore,2017,Malaysia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,39579.7288523505
+Singapore,2017,Indonesia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,27951.5809837755
+Singapore,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,24183.0471521751
+Singapore,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,45343.5229941315
+Singapore,2017,Malaysia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,38859.6132797086
+Singapore,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,34619.0935833579
+Singapore,2017,"Other Asia, nes",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27139.3268826929
+Singapore,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,20484.6201581612
+Singapore,2017,World,Animal,Export,Export(US$ Mil),686.214842096819
+Singapore,2017,World,Vegetable,Export,Export(US$ Mil),947.281466640531
+Singapore,2017,World,Food Products,Export,Export(US$ Mil),8322.22553857441
+Singapore,2017,World,Minerals,Export,Export(US$ Mil),79.3841159340307
+Singapore,2017,World,Fuels,Export,Export(US$ Mil),47808.8282122617
+Singapore,2017,World,Chemicals,Export,Export(US$ Mil),36921.9477348343
+Singapore,2017,World,Plastic or Rubber,Export,Export(US$ Mil),16757.8862722429
+Singapore,2017,World,Hides and Skins,Export,Export(US$ Mil),1506.53810604073
+Singapore,2017,World,Wood,Export,Export(US$ Mil),3124.18629242745
+Singapore,2017,World,Textiles and Clothing,Export,Export(US$ Mil),2250.53425164509
+Singapore,2017,World,Footwear,Export,Export(US$ Mil),502.97365837727
+Singapore,2017,World,Stone and Glass,Export,Export(US$ Mil),17526.2741460178
+Singapore,2017,World,Metals,Export,Export(US$ Mil),7960.07046277307
+Singapore,2017,World,Mach and Elec,Export,Export(US$ Mil),169111.472637849
+Singapore,2017,World,Transportation,Export,Export(US$ Mil),10439.9044782392
+Singapore,2017,World,Miscellaneous,Export,Export(US$ Mil),49308.8322044246
+Singapore,2017,World,Raw materials,Export,Export(US$ Mil),3430.2920760613
+Singapore,2017,World,Intermediate goods,Export,Export(US$ Mil),70557.5093588226
+Singapore,2017,World,Consumer goods,Export,Export(US$ Mil),91650.3925383333
+Singapore,2017,World,Capital goods,Export,Export(US$ Mil),186366.052315829
+Singapore,2017,World,Raw materials,Import,Import(US$ Mil),29006.2671926728
+Singapore,2017,World,Intermediate goods,Import,Import(US$ Mil),53662.5763384153
+Singapore,2017,World,Consumer goods,Import,Import(US$ Mil),93783.9854349703
+Singapore,2017,World,Capital goods,Import,Import(US$ Mil),148287.306760787
+Singapore,2017,World,All Products,Export,Exports (in US$ Mil),373254.554420379
+Singapore,2017,World,All Products,Import,Imports (in US$ Mil),327709.713161243
+Singapore,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),324672365.162226
+Singapore,2017,...,...,Development,Trade Balance (current US$ Mil),78587.298138895
+Singapore,2017,...,...,Development,GDP (current US$ Mil),323907.23441234
+Singapore,2017,...,...,Tariff,No. Of Tariff Agreement,18
+Singapore,2017,...,...,Import,No. Of Import partners,222
+Singapore,2017,...,...,Import,No. Of Import products,4309
+Singapore,2017,...,...,Export,No. Of Export partners,218
+Singapore,2017,...,...,Export,No. Of Export products,4278
+Singapore,2016,...,...,Others,Population,5607283
+Singapore,2018,...,...,Others,Ease of Doing Business Rank,2
+Singapore,2018,...,...,Others,Trading Across Borders Rank,42
+Singapore,2016,...,...,Others,LPI Rank,5
+Singapore,2016,...,...,Others,LPI Score,4.143632
+Singapore,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5205
+Singapore,2015,...,...,Others,No Of NTM Measures,48
+Singapore,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.140688
+Singapore,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1411219
+Singapore,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,14.4777
+Singapore,2017,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,12.3268
+Singapore,2017,Malaysia,All Products,Export,Partner share(%)-Top 5 Export Partner,10.604
+Singapore,2017,Indonesia,All Products,Export,Partner share(%)-Top 5 Export Partner,7.4886
+Singapore,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,6.479
+Singapore,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,13.8365
+Singapore,2017,Malaysia,All Products,Import,Partner share(%)-Top 5 Import Partner,11.8579
+Singapore,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.564
+Singapore,2017,"Other Asia, nes",All Products,Import,Partner share(%)-Top 5 Import Partner,8.2815
+Singapore,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2508
+Singapore,2017,World,Animal,Export,Export Product share(%),0.1838
+Singapore,2017,World,Vegetable,Export,Export Product share(%),0.2538
+Singapore,2017,World,Food Products,Export,Export Product share(%),2.2296
+Singapore,2017,World,Minerals,Export,Export Product share(%),0.0213
+Singapore,2017,World,Fuels,Export,Export Product share(%),12.8086
+Singapore,2017,World,Chemicals,Export,Export Product share(%),9.8919
+Singapore,2017,World,Plastic or Rubber,Export,Export Product share(%),4.4897
+Singapore,2017,World,Hides and Skins,Export,Export Product share(%),0.4036
+Singapore,2017,World,Wood,Export,Export Product share(%),0.837
+Singapore,2017,World,Textiles and Clothing,Export,Export Product share(%),0.6029
+Singapore,2017,World,Footwear,Export,Export Product share(%),0.1348
+Singapore,2017,World,Stone and Glass,Export,Export Product share(%),4.6955
+Singapore,2017,World,Metals,Export,Export Product share(%),2.1326
+Singapore,2017,World,Mach and Elec,Export,Export Product share(%),45.3073
+Singapore,2017,World,Transportation,Export,Export Product share(%),2.797
+Singapore,2017,World,Miscellaneous,Export,Export Product share(%),13.2105
+Singapore,2017,World,Raw materials,Export,Export Product share(%),0.919
+Singapore,2017,World,Intermediate goods,Export,Export Product share(%),18.9033
+Singapore,2017,World,Consumer goods,Export,Export Product share(%),24.5544
+Singapore,2017,World,Capital goods,Export,Export Product share(%),49.93
+Singapore,2017,World,Raw materials,Import,Import Product share(%),8.8512
+Singapore,2017,World,Intermediate goods,Import,Import Product share(%),16.375
+Singapore,2017,World,Consumer goods,Import,Import Product share(%),28.618
+Singapore,2017,World,Capital goods,Import,Import Product share(%),45.2496
+Singapore,2017,World,Raw materials,Tariff,Weighted Average (%),0
+Singapore,2017,World,Intermediate goods,Tariff,Weighted Average (%),0
+Singapore,2017,World,Consumer goods,Tariff,Weighted Average (%),0.298582381076299
+Singapore,2017,World,Capital goods,Tariff,Weighted Average (%),0
+Singapore,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Singapore,2017,World,All Products,Trade Indicator,Country Growth (%),0.514270769396585
+Singapore,2017,World,All Products,Tariff,Simple Average (%),0.186938032540086
+Singapore,2017,World,All Products,Tariff,Weighted Average (%),0.0740391931320005
+Singapore,2017,World,All Products,Tariff,Maximum Rate (%),455.083190917969
+Singapore,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),99.9259561767434
+Singapore,2017,...,...,Trade Indicator,Index of export market penetration,11.5305940886792
+Singapore,2017,...,...,Trade Indicator,HH Market concentration index,0.0845491219878067
+Singapore,2017,...,...,Development,Trade Balance (% of GDP),24.262285552675
+Singapore,2017,...,...,Development,Trade in services (% of GDP),103.571250254188
+Singapore,2017,...,...,Development,Trade (% of GDP),322.428124444564
+Singapore,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",54530

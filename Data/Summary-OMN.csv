@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Oman,2017,Unspecified,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,20549.1813937465
+Oman,2017,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2255.42457204428
+Oman,2017,Qatar,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1339.49289895148
+Oman,2017,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1314.02076080184
+Oman,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,935.677666114101
+Oman,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10282.7202995226
+Oman,2017,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2910.89999549622
+Oman,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1561.2631234655
+Oman,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1364.6983817285
+Oman,2017,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,901.50410352002
+Oman,2017,World,Animal,Export,Export(US$ Mil),474.31405874216
+Oman,2017,World,Vegetable,Export,Export(US$ Mil),416.27608997338
+Oman,2017,World,Food Products,Export,Export(US$ Mil),770.01880456046
+Oman,2017,World,Minerals,Export,Export(US$ Mil),1225.78082335982
+Oman,2017,World,Fuels,Export,Export(US$ Mil),21977.8736890913
+Oman,2017,World,Chemicals,Export,Export(US$ Mil),2277.14088218344
+Oman,2017,World,Plastic or Rubber,Export,Export(US$ Mil),599.22857805902
+Oman,2017,World,Hides and Skins,Export,Export(US$ Mil),9.33402776852
+Oman,2017,World,Wood,Export,Export(US$ Mil),137.07106438662
+Oman,2017,World,Textiles and Clothing,Export,Export(US$ Mil),98.1534372
+Oman,2017,World,Footwear,Export,Export(US$ Mil),28.17290253596
+Oman,2017,World,Stone and Glass,Export,Export(US$ Mil),341.60441919058
+Oman,2017,World,Metals,Export,Export(US$ Mil),1753.23019071382
+Oman,2017,World,Mach and Elec,Export,Export(US$ Mil),1035.47429692434
+Oman,2017,World,Transportation,Export,Export(US$ Mil),1542.43593660338
+Oman,2017,World,Miscellaneous,Export,Export(US$ Mil),217.9380037926
+Oman,2017,World,Raw materials,Export,Export(US$ Mil),16656.8501965921
+Oman,2017,World,Intermediate goods,Export,Export(US$ Mil),4547.93993918992
+Oman,2017,World,Consumer goods,Export,Export(US$ Mil),9437.05618577541
+Oman,2017,World,Capital goods,Export,Export(US$ Mil),826.56772534882
+Oman,2017,World,Raw materials,Import,Import(US$ Mil),2328.85422993496
+Oman,2017,World,Intermediate goods,Import,Import(US$ Mil),6829.04420203096
+Oman,2017,World,Consumer goods,Import,Import(US$ Mil),8200.68811499392
+Oman,2017,World,Capital goods,Import,Import(US$ Mil),6134.26772619934
+Oman,2017,World,All Products,Export,Exports (in US$ Mil),32904.0472050854
+Oman,2017,World,All Products,Import,Imports (in US$ Mil),26434.8734492097
+Oman,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),14570457.1724039
+Oman,2017,...,...,Development,Trade Balance (current US$ Mil),1966.1898569571
+Oman,2017,...,...,Development,GDP (current US$ Mil),72642.6527958387
+Oman,2017,...,...,Tariff,No. Of Tariff Agreement,6
+Oman,2017,...,...,Import,No. Of Import partners,148
+Oman,2017,...,...,Import,No. Of Import products,4026
+Oman,2017,...,...,Export,No. Of Export partners,160
+Oman,2017,...,...,Export,No. Of Export products,3104
+Oman,2016,...,...,Others,Population,4424762
+Oman,2018,...,...,Others,Ease of Doing Business Rank,71
+Oman,2018,...,...,Others,Trading Across Borders Rank,72
+Oman,2016,...,...,Others,LPI Rank,48
+Oman,2016,...,...,Others,LPI Score,3.234308
+Oman,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0628587
+Oman,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0794315
+Oman,,...,...,Others,Services Trade Restrictions Index - Over All,47.4
+Oman,2017,Unspecified,All Products,Export,Partner share(%)-Top 5 Export Partner,62.4518
+Oman,2017,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8546
+Oman,2017,Qatar,All Products,Export,Partner share(%)-Top 5 Export Partner,4.0709
+Oman,2017,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,3.9935
+Oman,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,2.8437
+Oman,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,38.8983
+Oman,2017,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,11.0116
+Oman,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,5.9061
+Oman,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1625
+Oman,2017,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,3.4103
+Oman,2017,World,Animal,Export,Export Product share(%),1.4415
+Oman,2017,World,Vegetable,Export,Export Product share(%),1.2651
+Oman,2017,World,Food Products,Export,Export Product share(%),2.3402
+Oman,2017,World,Minerals,Export,Export Product share(%),3.7253
+Oman,2017,World,Fuels,Export,Export Product share(%),66.7938
+Oman,2017,World,Chemicals,Export,Export Product share(%),6.9205
+Oman,2017,World,Plastic or Rubber,Export,Export Product share(%),1.8211
+Oman,2017,World,Hides and Skins,Export,Export Product share(%),0.0284
+Oman,2017,World,Wood,Export,Export Product share(%),0.4166
+Oman,2017,World,Textiles and Clothing,Export,Export Product share(%),0.2983
+Oman,2017,World,Footwear,Export,Export Product share(%),0.0856
+Oman,2017,World,Stone and Glass,Export,Export Product share(%),1.0382
+Oman,2017,World,Metals,Export,Export Product share(%),5.3283
+Oman,2017,World,Mach and Elec,Export,Export Product share(%),3.147
+Oman,2017,World,Transportation,Export,Export Product share(%),4.6877
+Oman,2017,World,Miscellaneous,Export,Export Product share(%),0.6623
+Oman,2017,World,Raw materials,Export,Export Product share(%),50.6225
+Oman,2017,World,Intermediate goods,Export,Export Product share(%),13.8218
+Oman,2017,World,Consumer goods,Export,Export Product share(%),28.6805
+Oman,2017,World,Capital goods,Export,Export Product share(%),2.5121
+Oman,2017,World,Raw materials,Import,Import Product share(%),8.8098
+Oman,2017,World,Intermediate goods,Import,Import Product share(%),25.8335
+Oman,2017,World,Consumer goods,Import,Import Product share(%),31.0222
+Oman,2017,World,Capital goods,Import,Import Product share(%),23.2052
+Oman,2017,World,Raw materials,Tariff,Weighted Average (%),2.4434598365955
+Oman,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.77193848207852
+Oman,2017,World,Consumer goods,Tariff,Weighted Average (%),1.35077120484324
+Oman,2017,World,Capital goods,Tariff,Weighted Average (%),1.98140974782555
+Oman,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Oman,2017,World,All Products,Trade Indicator,Country Growth (%),-1.47996987256755
+Oman,2017,World,All Products,Tariff,Simple Average (%),3.66047976279746
+Oman,2017,World,All Products,Tariff,Weighted Average (%),1.73414993580412
+Oman,2017,World,All Products,Tariff,Maximum Rate (%),1339.25402832031
+Oman,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),36.9966580836027
+Oman,2017,...,...,Trade Indicator,Index of export market penetration,2.22482995909904
+Oman,2017,...,...,Trade Indicator,HH Market concentration index,0.297467154933401
+Oman,2017,...,...,Development,Trade Balance (% of GDP),2.7066603177104
+Oman,2017,...,...,Development,Trade in services (% of GDP),20.4037792997769
+Oman,2017,...,...,Development,Trade (% of GDP),98.8718668437691
+Oman,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",14440

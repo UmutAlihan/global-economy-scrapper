@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Niger,2016,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,289.933424
+Niger,2016,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,107.599071
+Niger,2016,Malaysia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,103.088213
+Niger,2016,Nigeria,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,87.7186
+Niger,2016,Mali,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,52.226545
+Niger,2016,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,527.395473
+Niger,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,300.877363
+Niger,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,144.661888
+Niger,2016,Nigeria,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,108.445521
+Niger,2016,Thailand,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,107.604419
+Niger,2016,World,Animal,Export,Export(US$ Mil),7.831897
+Niger,2016,World,Vegetable,Export,Export(US$ Mil),286.660663
+Niger,2016,World,Food Products,Export,Export(US$ Mil),51.735994
+Niger,2016,World,Minerals,Export,Export(US$ Mil),299.11761
+Niger,2016,World,Fuels,Export,Export(US$ Mil),152.657924
+Niger,2016,World,Chemicals,Export,Export(US$ Mil),4.678456
+Niger,2016,World,Plastic or Rubber,Export,Export(US$ Mil),0.994335
+Niger,2016,World,Hides and Skins,Export,Export(US$ Mil),0.2348
+Niger,2016,World,Wood,Export,Export(US$ Mil),0.226389
+Niger,2016,World,Textiles and Clothing,Export,Export(US$ Mil),39.073133
+Niger,2016,World,Footwear,Export,Export(US$ Mil),0.508028
+Niger,2016,World,Stone and Glass,Export,Export(US$ Mil),35.5172
+Niger,2016,World,Metals,Export,Export(US$ Mil),0.527597
+Niger,2016,World,Mach and Elec,Export,Export(US$ Mil),10.164471
+Niger,2016,World,Transportation,Export,Export(US$ Mil),36.21847
+Niger,2016,World,Miscellaneous,Export,Export(US$ Mil),1.09466
+Niger,2016,World,Raw materials,Export,Export(US$ Mil),433.607226
+Niger,2016,World,Intermediate goods,Export,Export(US$ Mil),72.755989
+Niger,2016,World,Consumer goods,Export,Export(US$ Mil),396.491656
+Niger,2016,World,Capital goods,Export,Export(US$ Mil),24.382106
+Niger,2016,World,Raw materials,Import,Import(US$ Mil),61.625585
+Niger,2016,World,Intermediate goods,Import,Import(US$ Mil),652.517090000001
+Niger,2016,World,Consumer goods,Import,Import(US$ Mil),694.186575000001
+Niger,2016,World,Capital goods,Import,Import(US$ Mil),452.320937
+Niger,2016,World,All Products,Export,Exports (in US$ Mil),927.241624
+Niger,2016,World,All Products,Import,Imports (in US$ Mil),1860.691131
+Niger,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),217512.579
+Niger,2017,...,...,Development,Trade Balance (current US$ Mil),-1326.75243867656
+Niger,2017,...,...,Development,GDP (current US$ Mil),8119.7101263489
+Niger,2016,...,...,Tariff,No. Of Tariff Agreement,2
+Niger,2016,...,...,Import,No. Of Import partners,138
+Niger,2016,...,...,Import,No. Of Import products,2838
+Niger,2016,...,...,Export,No. Of Export partners,89
+Niger,2016,...,...,Export,No. Of Export products,656
+Niger,2016,...,...,Others,Population,20672987
+Niger,2018,...,...,Others,Ease of Doing Business Rank,144
+Niger,2018,...,...,Others,Trading Across Borders Rank,122
+Niger,2017,...,...,Others,CPIA Trade Ratings,4
+Niger,2016,...,...,Others,LPI Rank,100
+Niger,2016,...,...,Others,LPI Score,2.561951
+Niger,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Niger,2014,...,...,Others,No Of NTM Measures,33
+Niger,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0899045
+Niger,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0990844
+Niger,2016,France,All Products,Export,Partner share(%)-Top 5 Export Partner,31.2684
+Niger,2016,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,11.6042
+Niger,2016,Malaysia,All Products,Export,Partner share(%)-Top 5 Export Partner,11.1177
+Niger,2016,Nigeria,All Products,Export,Partner share(%)-Top 5 Export Partner,9.4602
+Niger,2016,Mali,All Products,Export,Partner share(%)-Top 5 Export Partner,5.6325
+Niger,2016,France,All Products,Import,Partner share(%)-Top 5 Import Partner,28.3441
+Niger,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.1702
+Niger,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.7746
+Niger,2016,Nigeria,All Products,Import,Partner share(%)-Top 5 Import Partner,5.8282
+Niger,2016,Thailand,All Products,Import,Partner share(%)-Top 5 Import Partner,5.783
+Niger,2016,World,Animal,Export,Export Product share(%),0.8446
+Niger,2016,World,Vegetable,Export,Export Product share(%),30.9154
+Niger,2016,World,Food Products,Export,Export Product share(%),5.5796
+Niger,2016,World,Minerals,Export,Export Product share(%),32.2589
+Niger,2016,World,Fuels,Export,Export Product share(%),16.4637
+Niger,2016,World,Chemicals,Export,Export Product share(%),0.5046
+Niger,2016,World,Plastic or Rubber,Export,Export Product share(%),0.1072
+Niger,2016,World,Hides and Skins,Export,Export Product share(%),0.0253
+Niger,2016,World,Wood,Export,Export Product share(%),0.0244
+Niger,2016,World,Textiles and Clothing,Export,Export Product share(%),4.2139
+Niger,2016,World,Footwear,Export,Export Product share(%),0.0548
+Niger,2016,World,Stone and Glass,Export,Export Product share(%),3.8304
+Niger,2016,World,Metals,Export,Export Product share(%),0.0569
+Niger,2016,World,Mach and Elec,Export,Export Product share(%),1.0962
+Niger,2016,World,Transportation,Export,Export Product share(%),3.906
+Niger,2016,World,Miscellaneous,Export,Export Product share(%),0.1181
+Niger,2016,World,Raw materials,Export,Export Product share(%),46.7631
+Niger,2016,World,Intermediate goods,Export,Export Product share(%),7.8465
+Niger,2016,World,Consumer goods,Export,Export Product share(%),42.7603
+Niger,2016,World,Capital goods,Export,Export Product share(%),2.6295
+Niger,2016,World,Raw materials,Import,Import Product share(%),3.312
+Niger,2016,World,Intermediate goods,Import,Import Product share(%),35.0685
+Niger,2016,World,Consumer goods,Import,Import Product share(%),37.308
+Niger,2016,World,Capital goods,Import,Import Product share(%),24.3093
+Niger,2016,World,Raw materials,Tariff,Weighted Average (%),10.758748264947
+Niger,2016,World,Intermediate goods,Tariff,Weighted Average (%),6.60376722859925
+Niger,2016,World,Consumer goods,Tariff,Weighted Average (%),13.5413381136264
+Niger,2016,World,Capital goods,Tariff,Weighted Average (%),7.87182624636392
+Niger,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Niger,2016,World,All Products,Trade Indicator,Country Growth (%),-14.8462723247127
+Niger,2016,World,All Products,Tariff,Simple Average (%),12.3562968719545
+Niger,2016,World,All Products,Tariff,Weighted Average (%),9.62376202874553
+Niger,2016,World,All Products,Tariff,Maximum Rate (%),35
+Niger,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),13.8825286212046
+Niger,2016,...,...,Trade Indicator,Index of export market penetration,1.50027727402167
+Niger,2016,...,...,Trade Indicator,HH Market concentration index,0.200974055190729
+Niger,2017,...,...,Development,Trade Balance (% of GDP),-16.3398990608196
+Niger,2017,...,...,Development,Trade (% of GDP),49.5874837091304
+Niger,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",360

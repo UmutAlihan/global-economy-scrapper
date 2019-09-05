@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Germany,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,126359.982509542
+Germany,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,118773.384513429
+Germany,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,97773.6090290647
+Germany,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,94818.7455361177
+Germany,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,91278.2714495941
+Germany,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,115179.029222793
+Germany,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,95302.8340390855
+Germany,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,72966.189720427
+Germany,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,71072.3390455401
+Germany,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,63047.4199739732
+Germany,2017,World,Animal,Export,Export(US$ Mil),23772.2527952304
+Germany,2017,World,Vegetable,Export,Export(US$ Mil),18242.6932386281
+Germany,2017,World,Food Products,Export,Export(US$ Mil),44460.1839773205
+Germany,2017,World,Minerals,Export,Export(US$ Mil),3583.52871393416
+Germany,2017,World,Fuels,Export,Export(US$ Mil),26790.5314917059
+Germany,2017,World,Chemicals,Export,Export(US$ Mil),178172.66362807
+Germany,2017,World,Plastic or Rubber,Export,Export(US$ Mil),81169.9142913453
+Germany,2017,World,Hides and Skins,Export,Export(US$ Mil),3805.88694879425
+Germany,2017,World,Wood,Export,Export(US$ Mil),36991.8151400665
+Germany,2017,World,Textiles and Clothing,Export,Export(US$ Mil),35806.5517828567
+Germany,2017,World,Footwear,Export,Export(US$ Mil),8345.66821022918
+Germany,2017,World,Stone and Glass,Export,Export(US$ Mil),27865.6431353158
+Germany,2017,World,Metals,Export,Export(US$ Mil),107896.497079646
+Germany,2017,World,Mach and Elec,Export,Export(US$ Mil),386459.274851952
+Germany,2017,World,Transportation,Export,Export(US$ Mil),312210.428269923
+Germany,2017,World,Miscellaneous,Export,Export(US$ Mil),154641.304937657
+Germany,2017,World,Raw materials,Export,Export(US$ Mil),37204.6419040614
+Germany,2017,World,Intermediate goods,Export,Export(US$ Mil),269151.956591118
+Germany,2017,World,Consumer goods,Export,Export(US$ Mil),510816.52698519
+Germany,2017,World,Capital goods,Export,Export(US$ Mil),561969.627651243
+Germany,2017,World,Raw materials,Import,Import(US$ Mil),111100.844004025
+Germany,2017,World,Intermediate goods,Import,Import(US$ Mil),238831.674742449
+Germany,2017,World,Consumer goods,Import,Import(US$ Mil),391251.715280289
+Germany,2017,World,Capital goods,Import,Import(US$ Mil),357335.900691606
+Germany,2017,World,All Products,Export,Exports (in US$ Mil),1450214.83849268
+Germany,2017,World,All Products,Import,Imports (in US$ Mil),1173627.5193361
+Germany,2017,...,...,Development,Trade Balance (current US$ Mil),278527.96742955
+Germany,2017,...,...,Development,GDP (current US$ Mil),3677439.1297766
+Germany,2017,...,...,Import,No. Of Import partners,221
+Germany,2017,...,...,Import,No. Of Import products,4506
+Germany,2017,...,...,Export,No. Of Export partners,231
+Germany,2017,...,...,Export,No. Of Export products,4408
+Germany,2016,...,...,Others,Population,82348669
+Germany,2018,...,...,Others,Ease of Doing Business Rank,20
+Germany,2018,...,...,Others,Trading Across Borders Rank,39
+Germany,2016,...,...,Others,LPI Rank,1
+Germany,2016,...,...,Others,LPI Score,4.225967
+Germany,,...,...,Others,Services Trade Restrictions Index - Over All,17.5
+Germany,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,8.7132
+Germany,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,8.1901
+Germany,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,6.742
+Germany,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.5383
+Germany,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,6.2941
+Germany,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8139
+Germany,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,8.1204
+Germany,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2172
+Germany,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0558
+Germany,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,5.372
+Germany,2017,World,Animal,Export,Export Product share(%),1.6392
+Germany,2017,World,Vegetable,Export,Export Product share(%),1.2579
+Germany,2017,World,Food Products,Export,Export Product share(%),3.0658
+Germany,2017,World,Minerals,Export,Export Product share(%),0.2471
+Germany,2017,World,Fuels,Export,Export Product share(%),1.8473
+Germany,2017,World,Chemicals,Export,Export Product share(%),12.2859
+Germany,2017,World,Plastic or Rubber,Export,Export Product share(%),5.5971
+Germany,2017,World,Hides and Skins,Export,Export Product share(%),0.2624
+Germany,2017,World,Wood,Export,Export Product share(%),2.5508
+Germany,2017,World,Textiles and Clothing,Export,Export Product share(%),2.4691
+Germany,2017,World,Footwear,Export,Export Product share(%),0.5755
+Germany,2017,World,Stone and Glass,Export,Export Product share(%),1.9215
+Germany,2017,World,Metals,Export,Export Product share(%),7.44
+Germany,2017,World,Mach and Elec,Export,Export Product share(%),26.6484
+Germany,2017,World,Transportation,Export,Export Product share(%),21.5286
+Germany,2017,World,Miscellaneous,Export,Export Product share(%),10.6633
+Germany,2017,World,Raw materials,Export,Export Product share(%),2.5655
+Germany,2017,World,Intermediate goods,Export,Export Product share(%),18.5595
+Germany,2017,World,Consumer goods,Export,Export Product share(%),35.2235
+Germany,2017,World,Capital goods,Export,Export Product share(%),38.7508
+Germany,2017,World,Raw materials,Import,Import Product share(%),9.4664
+Germany,2017,World,Intermediate goods,Import,Import Product share(%),20.3499
+Germany,2017,World,Consumer goods,Import,Import Product share(%),33.337
+Germany,2017,World,Capital goods,Import,Import Product share(%),30.4471
+Germany,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Germany,2017,World,All Products,Trade Indicator,Country Growth (%),2.2660846822057
+Germany,2017,...,...,Trade Indicator,Index of export market penetration,36.8678155324052
+Germany,2017,...,...,Trade Indicator,HH Market concentration index,0.0375844811879823
+Germany,2017,...,...,Development,Trade Balance (% of GDP),7.5739654036496
+Germany,2017,...,...,Development,Trade in services (% of GDP),17.4359052707422
+Germany,2017,...,...,Development,Trade (% of GDP),86.8977277950572
+Germany,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",43490

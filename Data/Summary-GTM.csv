@@ -1,0 +1,105 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Guatemala,2016,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3653.636687
+Guatemala,2016,El Salvador,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1204.21739
+Guatemala,2016,Honduras,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,913.93426
+Guatemala,2016,Nicaragua,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,569.273582
+Guatemala,2016,Mexico,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,458.661108
+Guatemala,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6537.799701
+Guatemala,2016,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1940.613715
+Guatemala,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1846.661364
+Guatemala,2016,El Salvador,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,902.04012
+Guatemala,2016,Costa Rica,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,595.498001
+Guatemala,2016,World,Animal,Export,Export(US$ Mil),74.263132
+Guatemala,2016,World,Vegetable,Export,Export(US$ Mil),2976.840752
+Guatemala,2016,World,Food Products,Export,Export(US$ Mil),1945.305504
+Guatemala,2016,World,Minerals,Export,Export(US$ Mil),670.87713
+Guatemala,2016,World,Fuels,Export,Export(US$ Mil),337.989675
+Guatemala,2016,World,Chemicals,Export,Export(US$ Mil),1042.956158
+Guatemala,2016,World,Plastic or Rubber,Export,Export(US$ Mil),454.459999
+Guatemala,2016,World,Hides and Skins,Export,Export(US$ Mil),33.763448
+Guatemala,2016,World,Wood,Export,Export(US$ Mil),384.589246
+Guatemala,2016,World,Textiles and Clothing,Export,Export(US$ Mil),1550.998491
+Guatemala,2016,World,Footwear,Export,Export(US$ Mil),45.988551
+Guatemala,2016,World,Stone and Glass,Export,Export(US$ Mil),155.145718
+Guatemala,2016,World,Metals,Export,Export(US$ Mil),475.632694
+Guatemala,2016,World,Mach and Elec,Export,Export(US$ Mil),186.547388
+Guatemala,2016,World,Transportation,Export,Export(US$ Mil),70.315041
+Guatemala,2016,World,Miscellaneous,Export,Export(US$ Mil),185.656671
+Guatemala,2016,World,Raw materials,Export,Export(US$ Mil),3327.537378
+Guatemala,2016,World,Intermediate goods,Export,Export(US$ Mil),2558.921149
+Guatemala,2016,World,Consumer goods,Export,Export(US$ Mil),4352.710542
+Guatemala,2016,World,Capital goods,Export,Export(US$ Mil),316.159154
+Guatemala,2016,World,Raw materials,Import,Import(US$ Mil),1096.702567
+Guatemala,2016,World,Intermediate goods,Import,Import(US$ Mil),4651.845506
+Guatemala,2016,World,Consumer goods,Import,Import(US$ Mil),7796.804522
+Guatemala,2016,World,Capital goods,Import,Import(US$ Mil),3379.926215
+Guatemala,2016,World,All Products,Export,Exports (in US$ Mil),10591.329598
+Guatemala,2016,World,All Products,Import,Imports (in US$ Mil),16978.677827
+Guatemala,2015,World,All Products,Tariff,Duty Free Imports (US$ Thousand),14550364.99
+Guatemala,2017,...,...,Development,Trade Balance (current US$ Mil),-6098.9262238191
+Guatemala,2017,...,...,Development,GDP (current US$ Mil),75620.0955375005
+Guatemala,2015,...,...,Tariff,No. Of Tariff Agreement,15
+Guatemala,2016,...,...,Import,No. Of Import partners,138
+Guatemala,2016,...,...,Import,No. Of Import products,4115
+Guatemala,2016,...,...,Export,No. Of Export partners,143
+Guatemala,2016,...,...,Export,No. Of Export products,3234
+Guatemala,2016,...,...,Others,Population,16582469
+Guatemala,2018,...,...,Others,Ease of Doing Business Rank,97
+Guatemala,2018,...,...,Others,Trading Across Borders Rank,79
+Guatemala,2016,...,...,Others,LPI Rank,111
+Guatemala,2016,...,...,Others,LPI Score,2.476327
+Guatemala,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),948
+Guatemala,2014,...,...,Others,No Of NTM Measures,21
+Guatemala,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1308463
+Guatemala,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1685059
+Guatemala,,...,...,Others,Services Trade Restrictions Index - Over All,17.7
+Guatemala,2016,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,34.4965
+Guatemala,2016,El Salvador,All Products,Export,Partner share(%)-Top 5 Export Partner,11.3698
+Guatemala,2016,Honduras,All Products,Export,Partner share(%)-Top 5 Export Partner,8.6291
+Guatemala,2016,Nicaragua,All Products,Export,Partner share(%)-Top 5 Export Partner,5.3749
+Guatemala,2016,Mexico,All Products,Export,Partner share(%)-Top 5 Export Partner,4.3305
+Guatemala,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,38.5059
+Guatemala,2016,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,11.4297
+Guatemala,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.8764
+Guatemala,2016,El Salvador,All Products,Import,Partner share(%)-Top 5 Import Partner,5.3128
+Guatemala,2016,Costa Rica,All Products,Import,Partner share(%)-Top 5 Import Partner,3.5073
+Guatemala,2016,World,Animal,Export,Export Product share(%),0.7012
+Guatemala,2016,World,Vegetable,Export,Export Product share(%),28.1064
+Guatemala,2016,World,Food Products,Export,Export Product share(%),18.367
+Guatemala,2016,World,Minerals,Export,Export Product share(%),6.3342
+Guatemala,2016,World,Fuels,Export,Export Product share(%),3.1912
+Guatemala,2016,World,Chemicals,Export,Export Product share(%),9.8473
+Guatemala,2016,World,Plastic or Rubber,Export,Export Product share(%),4.2909
+Guatemala,2016,World,Hides and Skins,Export,Export Product share(%),0.3188
+Guatemala,2016,World,Wood,Export,Export Product share(%),3.6312
+Guatemala,2016,World,Textiles and Clothing,Export,Export Product share(%),14.644
+Guatemala,2016,World,Footwear,Export,Export Product share(%),0.4342
+Guatemala,2016,World,Stone and Glass,Export,Export Product share(%),1.4648
+Guatemala,2016,World,Metals,Export,Export Product share(%),4.4908
+Guatemala,2016,World,Mach and Elec,Export,Export Product share(%),1.7613
+Guatemala,2016,World,Transportation,Export,Export Product share(%),0.6639
+Guatemala,2016,World,Miscellaneous,Export,Export Product share(%),1.7529
+Guatemala,2016,World,Raw materials,Export,Export Product share(%),31.4176
+Guatemala,2016,World,Intermediate goods,Export,Export Product share(%),24.1605
+Guatemala,2016,World,Consumer goods,Export,Export Product share(%),41.0969
+Guatemala,2016,World,Capital goods,Export,Export Product share(%),2.9851
+Guatemala,2016,World,Raw materials,Import,Import Product share(%),6.4593
+Guatemala,2016,World,Intermediate goods,Import,Import Product share(%),27.3982
+Guatemala,2016,World,Consumer goods,Import,Import Product share(%),45.9212
+Guatemala,2016,World,Capital goods,Import,Import Product share(%),19.9069
+Guatemala,2015,World,Raw materials,Tariff,Weighted Average (%),3.67667592239706
+Guatemala,2015,World,Intermediate goods,Tariff,Weighted Average (%),1.31405053631933
+Guatemala,2015,World,Consumer goods,Tariff,Weighted Average (%),1.68998573217217
+Guatemala,2015,World,Capital goods,Tariff,Weighted Average (%),0.458432152582131
+Guatemala,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Guatemala,2016,World,All Products,Trade Indicator,Country Growth (%),-0.958415133803292
+Guatemala,2015,World,All Products,Tariff,Simple Average (%),3.32852603978416
+Guatemala,2015,World,All Products,Tariff,Weighted Average (%),1.39026501810503
+Guatemala,2015,World,All Products,Tariff,Maximum Rate (%),40
+Guatemala,2015,World,All Products,Tariff,Duty Free Tariff Lines Share (%),64.5040557279665
+Guatemala,2016,...,...,Trade Indicator,Index of export market penetration,3.45404664351076
+Guatemala,2016,...,...,Trade Indicator,HH Market concentration index,0.178080657384331
+Guatemala,2017,...,...,Development,Trade Balance (% of GDP),-8.0652188819235
+Guatemala,2017,...,...,Development,Trade in services (% of GDP),8.09401251941649
+Guatemala,2017,...,...,Development,Trade (% of GDP),45.6572306721025
+Guatemala,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",4060

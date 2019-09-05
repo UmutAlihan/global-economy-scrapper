@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Spain,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,46955.0989335521
+Spain,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,34899.2949547206
+Spain,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,25084.1541103687
+Spain,2017,Portugal,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,22378.6224330252
+Spain,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,21370.8487283007
+Spain,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,43895.5619923037
+Spain,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,37615.5194195453
+Spain,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,28960.4198861362
+Spain,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,22778.0117158883
+Spain,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15600.5115141232
+Spain,2017,World,Animal,Export,Export(US$ Mil),12285.2246299253
+Spain,2017,World,Vegetable,Export,Export(US$ Mil),24541.7431390564
+Spain,2017,World,Food Products,Export,Export(US$ Mil),16442.5369692803
+Spain,2017,World,Minerals,Export,Export(US$ Mil),4155.62357235032
+Spain,2017,World,Fuels,Export,Export(US$ Mil),17653.8785764829
+Spain,2017,World,Chemicals,Export,Export(US$ Mil),31858.6936609783
+Spain,2017,World,Plastic or Rubber,Export,Export(US$ Mil),15976.476452502
+Spain,2017,World,Hides and Skins,Export,Export(US$ Mil),2206.28580496718
+Spain,2017,World,Wood,Export,Export(US$ Mil),7790.90860108219
+Spain,2017,World,Textiles and Clothing,Export,Export(US$ Mil),18559.0595736091
+Spain,2017,World,Footwear,Export,Export(US$ Mil),3370.25519125087
+Spain,2017,World,Stone and Glass,Export,Export(US$ Mil),8995.00921646635
+Spain,2017,World,Metals,Export,Export(US$ Mil),25823.8314942785
+Spain,2017,World,Mach and Elec,Export,Export(US$ Mil),40566.1368113696
+Spain,2017,World,Transportation,Export,Export(US$ Mil),64656.0403210245
+Spain,2017,World,Miscellaneous,Export,Export(US$ Mil),24740.1920290754
+Spain,2017,World,Raw materials,Export,Export(US$ Mil),34344.912776966
+Spain,2017,World,Intermediate goods,Export,Export(US$ Mil),68732.9929260115
+Spain,2017,World,Consumer goods,Export,Export(US$ Mil),137098.219747924
+Spain,2017,World,Capital goods,Export,Export(US$ Mil),65192.283147239
+Spain,2017,World,Raw materials,Import,Import(US$ Mil),56828.0665448842
+Spain,2017,World,Intermediate goods,Import,Import(US$ Mil),68908.178961164
+Spain,2017,World,Consumer goods,Import,Import(US$ Mil),129658.250452588
+Spain,2017,World,Capital goods,Import,Import(US$ Mil),85004.1157157034
+Spain,2017,World,All Products,Export,Exports (in US$ Mil),319621.896043699
+Spain,2017,World,All Products,Import,Imports (in US$ Mil),350921.56167141
+Spain,2017,...,...,Development,Trade Balance (current US$ Mil),34969.675663116
+Spain,2017,...,...,Development,GDP (current US$ Mil),1311320.01551599
+Spain,2017,...,...,Import,No. Of Import partners,231
+Spain,2017,...,...,Import,No. Of Import products,4537
+Spain,2017,...,...,Export,No. Of Export partners,228
+Spain,2017,...,...,Export,No. Of Export products,4491
+Spain,2016,...,...,Others,Population,46484062
+Spain,2018,...,...,Others,Ease of Doing Business Rank,28
+Spain,2018,...,...,Others,Trading Across Borders Rank,1
+Spain,2016,...,...,Others,LPI Rank,23
+Spain,2016,...,...,Others,LPI Score,3.727412
+Spain,,...,...,Others,Services Trade Restrictions Index - Over All,16.1
+Spain,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,14.6908
+Spain,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,10.9189
+Spain,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,7.8481
+Spain,2017,Portugal,All Products,Export,Partner share(%)-Top 5 Export Partner,7.0016
+Spain,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.6863
+Spain,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,12.5087
+Spain,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,10.7191
+Spain,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2527
+Spain,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,6.4909
+Spain,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4456
+Spain,2017,World,Animal,Export,Export Product share(%),3.8437
+Spain,2017,World,Vegetable,Export,Export Product share(%),7.6784
+Spain,2017,World,Food Products,Export,Export Product share(%),5.1444
+Spain,2017,World,Minerals,Export,Export Product share(%),1.3002
+Spain,2017,World,Fuels,Export,Export Product share(%),5.5234
+Spain,2017,World,Chemicals,Export,Export Product share(%),9.9676
+Spain,2017,World,Plastic or Rubber,Export,Export Product share(%),4.9986
+Spain,2017,World,Hides and Skins,Export,Export Product share(%),0.6903
+Spain,2017,World,Wood,Export,Export Product share(%),2.4375
+Spain,2017,World,Textiles and Clothing,Export,Export Product share(%),5.8066
+Spain,2017,World,Footwear,Export,Export Product share(%),1.0545
+Spain,2017,World,Stone and Glass,Export,Export Product share(%),2.8143
+Spain,2017,World,Metals,Export,Export Product share(%),8.0795
+Spain,2017,World,Mach and Elec,Export,Export Product share(%),12.6919
+Spain,2017,World,Transportation,Export,Export Product share(%),20.2289
+Spain,2017,World,Miscellaneous,Export,Export Product share(%),7.7405
+Spain,2017,World,Raw materials,Export,Export Product share(%),10.7455
+Spain,2017,World,Intermediate goods,Export,Export Product share(%),21.5045
+Spain,2017,World,Consumer goods,Export,Export Product share(%),42.8939
+Spain,2017,World,Capital goods,Export,Export Product share(%),20.3967
+Spain,2017,World,Raw materials,Import,Import Product share(%),16.194
+Spain,2017,World,Intermediate goods,Import,Import Product share(%),19.6363
+Spain,2017,World,Consumer goods,Import,Import Product share(%),36.9479
+Spain,2017,World,Capital goods,Import,Import Product share(%),24.2231
+Spain,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Spain,2017,World,All Products,Trade Indicator,Country Growth (%),2.73433684273561
+Spain,2017,...,...,Trade Indicator,Index of export market penetration,25.7221840440748
+Spain,2017,...,...,Trade Indicator,HH Market concentration index,0.0586423183893285
+Spain,2017,...,...,Development,Trade Balance (% of GDP),2.6667537480815
+Spain,2017,...,...,Development,Trade in services (% of GDP),16.4522482849795
+Spain,2017,...,...,Development,Trade (% of GDP),65.5188534127607
+Spain,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",27180

@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Thailand,2016,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,24381.248158
+Thailand,2016,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,23571.962078
+Thailand,2016,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,20423.267894
+Thailand,2016,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11390.478814
+Thailand,2016,Australia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10232.070063
+Thailand,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,42250.595872
+Thailand,2016,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,30861.997608
+Thailand,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,12216.909354
+Thailand,2016,Malaysia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10953.118359
+Thailand,2016,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7311.228884
+Thailand,2016,World,Animal,Export,Export(US$ Mil),3235.258214
+Thailand,2016,World,Vegetable,Export,Export(US$ Mil),9684.211037
+Thailand,2016,World,Food Products,Export,Export(US$ Mil),17270.755303
+Thailand,2016,World,Minerals,Export,Export(US$ Mil),1005.114829
+Thailand,2016,World,Fuels,Export,Export(US$ Mil),6251.276113
+Thailand,2016,World,Chemicals,Export,Export(US$ Mil),9475.328438
+Thailand,2016,World,Plastic or Rubber,Export,Export(US$ Mil),23655.058041
+Thailand,2016,World,Hides and Skins,Export,Export(US$ Mil),1024.194359
+Thailand,2016,World,Wood,Export,Export(US$ Mil),4319.68383
+Thailand,2016,World,Textiles and Clothing,Export,Export(US$ Mil),6526.949355
+Thailand,2016,World,Footwear,Export,Export(US$ Mil),719.205839
+Thailand,2016,World,Stone and Glass,Export,Export(US$ Mil),16038.726981
+Thailand,2016,World,Metals,Export,Export(US$ Mil),9518.395843
+Thailand,2016,World,Mach and Elec,Export,Export(US$ Mil),66720.474545
+Thailand,2016,World,Transportation,Export,Export(US$ Mil),29881.20582
+Thailand,2016,World,Miscellaneous,Export,Export(US$ Mil),8267.591319
+Thailand,2016,World,Raw materials,Export,Export(US$ Mil),12447.773733
+Thailand,2016,World,Intermediate goods,Export,Export(US$ Mil),45393.127049
+Thailand,2016,World,Consumer goods,Export,Export(US$ Mil),73652.999797
+Thailand,2016,World,Capital goods,Export,Export(US$ Mil),82099.529291
+Thailand,2016,World,Raw materials,Import,Import(US$ Mil),25865.321468
+Thailand,2016,World,Intermediate goods,Import,Import(US$ Mil),53372.2665710001
+Thailand,2016,World,Consumer goods,Import,Import(US$ Mil),41331.580865
+Thailand,2016,World,Capital goods,Import,Import(US$ Mil),75145.077287
+Thailand,2016,World,All Products,Export,Exports (in US$ Mil),213593.429868
+Thailand,2016,World,All Products,Import,Imports (in US$ Mil),195714.246168
+Thailand,2015,World,All Products,Tariff,Duty Free Imports (US$ Thousand),154633004.324
+Thailand,2017,...,...,Development,Trade Balance (current US$ Mil),61653.309683616
+Thailand,2017,...,...,Development,GDP (current US$ Mil),455302.682985757
+Thailand,2015,...,...,Tariff,No. Of Tariff Agreement,14
+Thailand,2016,...,...,Import,No. Of Import partners,232
+Thailand,2016,...,...,Import,No. Of Import products,4487
+Thailand,2016,...,...,Export,No. Of Export partners,226
+Thailand,2016,...,...,Export,No. Of Export products,4319
+Thailand,2016,...,...,Others,Population,68863514
+Thailand,2018,...,...,Others,Ease of Doing Business Rank,26
+Thailand,2018,...,...,Others,Trading Across Borders Rank,57
+Thailand,2016,...,...,Others,LPI Rank,45
+Thailand,2016,...,...,Others,LPI Score,3.2551
+Thailand,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5205
+Thailand,2015,...,...,Others,No Of NTM Measures,78
+Thailand,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1042005
+Thailand,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1042002
+Thailand,,...,...,Others,Services Trade Restrictions Index - Over All,48
+Thailand,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.7361487746
+Thailand,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.662310719
+Thailand,2016,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,11.4148
+Thailand,2016,China,All Products,Export,Partner share(%)-Top 5 Export Partner,11.0359
+Thailand,2016,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,9.5617
+Thailand,2016,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,5.3328
+Thailand,2016,Australia,All Products,Export,Partner share(%)-Top 5 Export Partner,4.7904
+Thailand,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.5879
+Thailand,2016,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,15.7689
+Thailand,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2422
+Thailand,2016,Malaysia,All Products,Import,Partner share(%)-Top 5 Import Partner,5.5965
+Thailand,2016,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,3.7357
+Thailand,2016,World,Animal,Export,Export Product share(%),1.5147
+Thailand,2016,World,Vegetable,Export,Export Product share(%),4.5339
+Thailand,2016,World,Food Products,Export,Export Product share(%),8.0858
+Thailand,2016,World,Minerals,Export,Export Product share(%),0.4706
+Thailand,2016,World,Fuels,Export,Export Product share(%),2.9267
+Thailand,2016,World,Chemicals,Export,Export Product share(%),4.4362
+Thailand,2016,World,Plastic or Rubber,Export,Export Product share(%),11.0748
+Thailand,2016,World,Hides and Skins,Export,Export Product share(%),0.4795
+Thailand,2016,World,Wood,Export,Export Product share(%),2.0224
+Thailand,2016,World,Textiles and Clothing,Export,Export Product share(%),3.0558
+Thailand,2016,World,Footwear,Export,Export Product share(%),0.3367
+Thailand,2016,World,Stone and Glass,Export,Export Product share(%),7.509
+Thailand,2016,World,Metals,Export,Export Product share(%),4.4563
+Thailand,2016,World,Mach and Elec,Export,Export Product share(%),31.2371
+Thailand,2016,World,Transportation,Export,Export Product share(%),13.9898
+Thailand,2016,World,Miscellaneous,Export,Export Product share(%),3.8707
+Thailand,2016,World,Raw materials,Export,Export Product share(%),5.8278
+Thailand,2016,World,Intermediate goods,Export,Export Product share(%),21.2521
+Thailand,2016,World,Consumer goods,Export,Export Product share(%),34.4828
+Thailand,2016,World,Capital goods,Export,Export Product share(%),38.4373
+Thailand,2016,World,Raw materials,Import,Import Product share(%),13.2159
+Thailand,2016,World,Intermediate goods,Import,Import Product share(%),27.2705
+Thailand,2016,World,Consumer goods,Import,Import Product share(%),21.1183
+Thailand,2016,World,Capital goods,Import,Import Product share(%),38.3953
+Thailand,2015,World,Raw materials,Tariff,Weighted Average (%),0.697655078104031
+Thailand,2015,World,Intermediate goods,Tariff,Weighted Average (%),3.37631055903867
+Thailand,2015,World,Consumer goods,Tariff,Weighted Average (%),5.52676903291097
+Thailand,2015,World,Capital goods,Tariff,Weighted Average (%),2.34005291653581
+Thailand,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Thailand,2016,World,All Products,Trade Indicator,Country Growth (%),1.24706378449813
+Thailand,2015,World,All Products,Tariff,Simple Average (%),7.95725131930766
+Thailand,2015,World,All Products,Tariff,Weighted Average (%),3.52135329458069
+Thailand,2015,World,All Products,Tariff,Maximum Rate (%),321.160491943359
+Thailand,2015,World,All Products,Tariff,Duty Free Tariff Lines Share (%),47.2522440730419
+Thailand,2016,...,...,Trade Indicator,Index of export market penetration,17.9606848212533
+Thailand,2016,...,...,Trade Indicator,HH Market concentration index,0.0575925489713039
+Thailand,2017,...,...,Development,Trade Balance (% of GDP),13.5411698607418
+Thailand,2017,...,...,Development,Trade in services (% of GDP),26.8379980326653
+Thailand,2017,...,...,Development,Trade (% of GDP),122.802846744057
+Thailand,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",5950

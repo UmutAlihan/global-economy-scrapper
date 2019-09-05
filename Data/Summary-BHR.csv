@@ -1,0 +1,100 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Bahrain,2016,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2337.891229
+Bahrain,2016,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2233.914108
+Bahrain,2016,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1412.111442
+Bahrain,2016,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1115.963564
+Bahrain,2016,Qatar,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,611.904253
+Bahrain,2016,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3156.748556
+Bahrain,2016,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1429.744263
+Bahrain,2016,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1275.117106
+Bahrain,2016,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1092.433036
+Bahrain,2016,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,895.860979
+Bahrain,2016,World,Animal,Export,Export(US$ Mil),82.102319
+Bahrain,2016,World,Vegetable,Export,Export(US$ Mil),14.647528
+Bahrain,2016,World,Food Products,Export,Export(US$ Mil),271.556135
+Bahrain,2016,World,Minerals,Export,Export(US$ Mil),780.426068
+Bahrain,2016,World,Fuels,Export,Export(US$ Mil),6146.792405
+Bahrain,2016,World,Chemicals,Export,Export(US$ Mil),472.580945
+Bahrain,2016,World,Plastic or Rubber,Export,Export(US$ Mil),232.961432
+Bahrain,2016,World,Hides and Skins,Export,Export(US$ Mil),14.166338
+Bahrain,2016,World,Wood,Export,Export(US$ Mil),80.635177
+Bahrain,2016,World,Textiles and Clothing,Export,Export(US$ Mil),446.634112
+Bahrain,2016,World,Footwear,Export,Export(US$ Mil),79.177504
+Bahrain,2016,World,Stone and Glass,Export,Export(US$ Mil),277.398359
+Bahrain,2016,World,Metals,Export,Export(US$ Mil),2395.241572
+Bahrain,2016,World,Mach and Elec,Export,Export(US$ Mil),871.427276
+Bahrain,2016,World,Transportation,Export,Export(US$ Mil),423.511247
+Bahrain,2016,World,Miscellaneous,Export,Export(US$ Mil),303.096226
+Bahrain,2016,World,Raw materials,Export,Export(US$ Mil),3198.933428
+Bahrain,2016,World,Intermediate goods,Export,Export(US$ Mil),2792.817085
+Bahrain,2016,World,Consumer goods,Export,Export(US$ Mil),5603.28177799999
+Bahrain,2016,World,Capital goods,Export,Export(US$ Mil),1181.614818
+Bahrain,2016,World,Raw materials,Import,Import(US$ Mil),4197.742498
+Bahrain,2016,World,Intermediate goods,Import,Import(US$ Mil),2589.153119
+Bahrain,2016,World,Consumer goods,Import,Import(US$ Mil),4977.579773
+Bahrain,2016,World,Capital goods,Import,Import(US$ Mil),2981.991597
+Bahrain,2016,World,All Products,Export,Exports (in US$ Mil),12892.354638
+Bahrain,2016,World,All Products,Import,Imports (in US$ Mil),14748.539854
+Bahrain,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),5430787.85399999
+Bahrain,2017,...,...,Development,GDP (current US$ Mil),35307.1276595745
+Bahrain,2016,...,...,Tariff,No. Of Tariff Agreement,6
+Bahrain,2016,...,...,Import,No. Of Import partners,212
+Bahrain,2016,...,...,Import,No. Of Import products,4118
+Bahrain,2016,...,...,Export,No. Of Export partners,138
+Bahrain,2016,...,...,Export,No. Of Export products,2960
+Bahrain,2016,...,...,Others,Population,1425171
+Bahrain,2018,...,...,Others,Ease of Doing Business Rank,66
+Bahrain,2018,...,...,Others,Trading Across Borders Rank,78
+Bahrain,2016,...,...,Others,LPI Rank,44
+Bahrain,2016,...,...,Others,LPI Score,3.314021
+Bahrain,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0434256
+Bahrain,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.04875
+Bahrain,,...,...,Others,Services Trade Restrictions Index - Over All,50.8
+Bahrain,2016,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,18.1339
+Bahrain,2016,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,17.3274
+Bahrain,2016,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,10.9531
+Bahrain,2016,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,8.656
+Bahrain,2016,Qatar,All Products,Export,Partner share(%)-Top 5 Export Partner,4.7463
+Bahrain,2016,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,21.4038
+Bahrain,2016,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.6941
+Bahrain,2016,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,8.6457
+Bahrain,2016,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4071
+Bahrain,2016,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0742
+Bahrain,2016,World,Animal,Export,Export Product share(%),0.6368
+Bahrain,2016,World,Vegetable,Export,Export Product share(%),0.1136
+Bahrain,2016,World,Food Products,Export,Export Product share(%),2.1063
+Bahrain,2016,World,Minerals,Export,Export Product share(%),6.0534
+Bahrain,2016,World,Fuels,Export,Export Product share(%),47.6778
+Bahrain,2016,World,Chemicals,Export,Export Product share(%),3.6656
+Bahrain,2016,World,Plastic or Rubber,Export,Export Product share(%),1.807
+Bahrain,2016,World,Hides and Skins,Export,Export Product share(%),0.1099
+Bahrain,2016,World,Wood,Export,Export Product share(%),0.6254
+Bahrain,2016,World,Textiles and Clothing,Export,Export Product share(%),3.4643
+Bahrain,2016,World,Footwear,Export,Export Product share(%),0.6141
+Bahrain,2016,World,Stone and Glass,Export,Export Product share(%),2.1517
+Bahrain,2016,World,Metals,Export,Export Product share(%),18.5788
+Bahrain,2016,World,Mach and Elec,Export,Export Product share(%),6.7593
+Bahrain,2016,World,Transportation,Export,Export Product share(%),3.285
+Bahrain,2016,World,Miscellaneous,Export,Export Product share(%),2.351
+Bahrain,2016,World,Raw materials,Export,Export Product share(%),24.8126
+Bahrain,2016,World,Intermediate goods,Export,Export Product share(%),21.6626
+Bahrain,2016,World,Consumer goods,Export,Export Product share(%),43.4621
+Bahrain,2016,World,Capital goods,Export,Export Product share(%),9.1652
+Bahrain,2016,World,Raw materials,Import,Import Product share(%),28.4621
+Bahrain,2016,World,Intermediate goods,Import,Import Product share(%),17.5553
+Bahrain,2016,World,Consumer goods,Import,Import Product share(%),33.7496
+Bahrain,2016,World,Capital goods,Import,Import Product share(%),20.2189
+Bahrain,2016,World,Raw materials,Tariff,Weighted Average (%),4.43638337908206
+Bahrain,2016,World,Intermediate goods,Tariff,Weighted Average (%),2.48434043227547
+Bahrain,2016,World,Consumer goods,Tariff,Weighted Average (%),3.00877336557436
+Bahrain,2016,World,Capital goods,Tariff,Weighted Average (%),2.23088072503208
+Bahrain,2016,World,All Products,Trade Indicator,World Growth (%),-1.59063243474449
+Bahrain,2016,World,All Products,Trade Indicator,Country Growth (%),-8.02949887393522
+Bahrain,2016,World,All Products,Tariff,Simple Average (%),3.59799046559088
+Bahrain,2016,World,All Products,Tariff,Weighted Average (%),3.12500293313395
+Bahrain,2016,World,All Products,Tariff,Maximum Rate (%),100
+Bahrain,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),29.4354174790935
+Bahrain,2016,...,...,Trade Indicator,Index of export market penetration,2.41424401787488
+Bahrain,2016,...,...,Trade Indicator,HH Market concentration index,0.0628758851863636
+Bahrain,2017,...,...,Development,Trade in services (% of GDP),54.2564186003067
+Bahrain,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",21150

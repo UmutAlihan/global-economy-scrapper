@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Mauritius,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,332.715093020507
+Mauritius,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,249.533595002982
+Mauritius,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,235.424263683169
+Mauritius,2017,South Africa,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,187.823603718204
+Mauritius,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,144.559759873688
+Mauritius,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,863.998121224863
+Mauritius,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,863.362940963686
+Mauritius,2017,South Africa,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,448.553838761756
+Mauritius,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,422.625007119422
+Mauritius,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,176.058727753876
+Mauritius,2017,World,Animal,Export,Export(US$ Mil),159.943805862484
+Mauritius,2017,World,Vegetable,Export,Export(US$ Mil),72.122386573362
+Mauritius,2017,World,Food Products,Export,Export(US$ Mil),623.601178451704
+Mauritius,2017,World,Minerals,Export,Export(US$ Mil),0.54031339941774
+Mauritius,2017,World,Fuels,Export,Export(US$ Mil),32.8509845141254
+Mauritius,2017,World,Chemicals,Export,Export(US$ Mil),77.1268725064917
+Mauritius,2017,World,Plastic or Rubber,Export,Export(US$ Mil),33.4861648277192
+Mauritius,2017,World,Hides and Skins,Export,Export(US$ Mil),11.7496621299404
+Mauritius,2017,World,Wood,Export,Export(US$ Mil),42.4822494418446
+Mauritius,2017,World,Textiles and Clothing,Export,Export(US$ Mil),719.820129731259
+Mauritius,2017,World,Footwear,Export,Export(US$ Mil),11.2975685860933
+Mauritius,2017,World,Stone and Glass,Export,Export(US$ Mil),112.708274383224
+Mauritius,2017,World,Metals,Export,Export(US$ Mil),23.5880793805203
+Mauritius,2017,World,Mach and Elec,Export,Export(US$ Mil),75.3026699279181
+Mauritius,2017,World,Transportation,Export,Export(US$ Mil),27.2318631105383
+Mauritius,2017,World,Miscellaneous,Export,Export(US$ Mil),78.769611589162
+Mauritius,2017,World,Raw materials,Export,Export(US$ Mil),192.043060740196
+Mauritius,2017,World,Intermediate goods,Export,Export(US$ Mil),359.020898383102
+Mauritius,2017,World,Consumer goods,Export,Export(US$ Mil),1445.66329761641
+Mauritius,2017,World,Capital goods,Export,Export(US$ Mil),105.873834091367
+Mauritius,2017,World,Raw materials,Import,Import(US$ Mil),801.763819047107
+Mauritius,2017,World,Intermediate goods,Import,Import(US$ Mil),963.029507890311
+Mauritius,2017,World,Consumer goods,Import,Import(US$ Mil),2578.85906583358
+Mauritius,2017,World,Capital goods,Import,Import(US$ Mil),925.542142586678
+Mauritius,2017,World,All Products,Export,Exports (in US$ Mil),2102.62181441581
+Mauritius,2017,World,All Products,Import,Imports (in US$ Mil),5269.48433835932
+Mauritius,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4128588.55411669
+Mauritius,2017,...,...,Development,Trade Balance (current US$ Mil),-1724.26293595968
+Mauritius,2017,...,...,Development,GDP (current US$ Mil),13266.4276972513
+Mauritius,2017,...,...,Tariff,No. Of Tariff Agreement,8
+Mauritius,2017,...,...,Import,No. Of Import partners,182
+Mauritius,2017,...,...,Import,No. Of Import products,3912
+Mauritius,2017,...,...,Export,No. Of Export partners,147
+Mauritius,2017,...,...,Export,No. Of Export products,2384
+Mauritius,2016,...,...,Others,Population,1263473
+Mauritius,2018,...,...,Others,Ease of Doing Business Rank,25
+Mauritius,2018,...,...,Others,Trading Across Borders Rank,70
+Mauritius,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.097361
+Mauritius,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0984901
+Mauritius,,...,...,Others,Services Trade Restrictions Index - Over All,16.9
+Mauritius,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,15.8238
+Mauritius,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,11.8677
+Mauritius,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,11.1967
+Mauritius,2017,South Africa,All Products,Export,Partner share(%)-Top 5 Export Partner,8.9328
+Mauritius,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8752
+Mauritius,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.3963
+Mauritius,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,16.3842
+Mauritius,2017,South Africa,All Products,Import,Partner share(%)-Top 5 Import Partner,8.5123
+Mauritius,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,8.0202
+Mauritius,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,3.3411
+Mauritius,2017,World,Animal,Export,Export Product share(%),7.6069
+Mauritius,2017,World,Vegetable,Export,Export Product share(%),3.4301
+Mauritius,2017,World,Food Products,Export,Export Product share(%),29.6583
+Mauritius,2017,World,Minerals,Export,Export Product share(%),0.0257
+Mauritius,2017,World,Fuels,Export,Export Product share(%),1.5624
+Mauritius,2017,World,Chemicals,Export,Export Product share(%),3.6681
+Mauritius,2017,World,Plastic or Rubber,Export,Export Product share(%),1.5926
+Mauritius,2017,World,Hides and Skins,Export,Export Product share(%),0.5588
+Mauritius,2017,World,Wood,Export,Export Product share(%),2.0204
+Mauritius,2017,World,Textiles and Clothing,Export,Export Product share(%),34.2344
+Mauritius,2017,World,Footwear,Export,Export Product share(%),0.5373
+Mauritius,2017,World,Stone and Glass,Export,Export Product share(%),5.3604
+Mauritius,2017,World,Metals,Export,Export Product share(%),1.1218
+Mauritius,2017,World,Mach and Elec,Export,Export Product share(%),3.5814
+Mauritius,2017,World,Transportation,Export,Export Product share(%),1.2951
+Mauritius,2017,World,Miscellaneous,Export,Export Product share(%),3.7463
+Mauritius,2017,World,Raw materials,Export,Export Product share(%),9.1335
+Mauritius,2017,World,Intermediate goods,Export,Export Product share(%),17.0749
+Mauritius,2017,World,Consumer goods,Export,Export Product share(%),68.7553
+Mauritius,2017,World,Capital goods,Export,Export Product share(%),5.0353
+Mauritius,2017,World,Raw materials,Import,Import Product share(%),15.2152
+Mauritius,2017,World,Intermediate goods,Import,Import Product share(%),18.2756
+Mauritius,2017,World,Consumer goods,Import,Import Product share(%),48.9395
+Mauritius,2017,World,Capital goods,Import,Import Product share(%),17.5642
+Mauritius,2017,World,Raw materials,Tariff,Weighted Average (%),0
+Mauritius,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.40210033966453
+Mauritius,2017,World,Consumer goods,Tariff,Weighted Average (%),1.72866948057289
+Mauritius,2017,World,Capital goods,Tariff,Weighted Average (%),0.162015328701671
+Mauritius,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Mauritius,2017,World,All Products,Trade Indicator,Country Growth (%),2.91517894233615
+Mauritius,2017,World,All Products,Tariff,Simple Average (%),1.24741932756327
+Mauritius,2017,World,All Products,Tariff,Weighted Average (%),0.871686903297617
+Mauritius,2017,World,All Products,Tariff,Maximum Rate (%),30
+Mauritius,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),90.9420601227205
+Mauritius,2017,...,...,Trade Indicator,Index of export market penetration,2.89208452222488
+Mauritius,2017,...,...,Trade Indicator,HH Market concentration index,0.0638103625209792
+Mauritius,2017,...,...,Development,Trade Balance (% of GDP),-12.9971909191269
+Mauritius,2017,...,...,Development,Trade in services (% of GDP),39.6377955551365
+Mauritius,2017,...,...,Development,Trade (% of GDP),97.5975253855655
+Mauritius,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",10130

@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+"Hong Kong, China",2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,297814.125928979
+"Hong Kong, China",2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,42421.549551348
+"Hong Kong, China",2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,21070.3020176418
+"Hong Kong, China",2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16513.3277931476
+"Hong Kong, China",2017,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13388.2446705521
+"Hong Kong, China",2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,262582.642858795
+"Hong Kong, China",2017,"Other Asia, nes",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,42401.3853239565
+"Hong Kong, China",2017,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,37688.5133775255
+"Hong Kong, China",2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,35714.1795870492
+"Hong Kong, China",2017,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,32498.5298918739
+"Hong Kong, China",2017,World,Animal,Export,Export(US$ Mil),4539.40804032711
+"Hong Kong, China",2017,World,Vegetable,Export,Export(US$ Mil),2793.14030630793
+"Hong Kong, China",2017,World,Food Products,Export,Export(US$ Mil),4331.87200433363
+"Hong Kong, China",2017,World,Minerals,Export,Export(US$ Mil),71.0365650111612
+"Hong Kong, China",2017,World,Fuels,Export,Export(US$ Mil),588.0985910785
+"Hong Kong, China",2017,World,Chemicals,Export,Export(US$ Mil),7800.52664352915
+"Hong Kong, China",2017,World,Plastic or Rubber,Export,Export(US$ Mil),11372.1326436739
+"Hong Kong, China",2017,World,Hides and Skins,Export,Export(US$ Mil),6449.52639577931
+"Hong Kong, China",2017,World,Wood,Export,Export(US$ Mil),3429.39086930458
+"Hong Kong, China",2017,World,Textiles and Clothing,Export,Export(US$ Mil),21310.4774670671
+"Hong Kong, China",2017,World,Footwear,Export,Export(US$ Mil),3409.64974927408
+"Hong Kong, China",2017,World,Stone and Glass,Export,Export(US$ Mil),90090.0304050901
+"Hong Kong, China",2017,World,Metals,Export,Export(US$ Mil),6548.55836752207
+"Hong Kong, China",2017,World,Mach and Elec,Export,Export(US$ Mil),348687.832024626
+"Hong Kong, China",2017,World,Transportation,Export,Export(US$ Mil),2010.02260160048
+"Hong Kong, China",2017,World,Miscellaneous,Export,Export(US$ Mil),36429.7525387896
+"Hong Kong, China",2017,World,Raw materials,Export,Export(US$ Mil),14821.227334022
+"Hong Kong, China",2017,World,Intermediate goods,Export,Export(US$ Mil),107444.679655848
+"Hong Kong, China",2017,World,Consumer goods,Export,Export(US$ Mil),79222.7222664547
+"Hong Kong, China",2017,World,Capital goods,Export,Export(US$ Mil),347725.135889436
+"Hong Kong, China",2017,World,Raw materials,Import,Import(US$ Mil),20327.43724124
+"Hong Kong, China",2017,World,Intermediate goods,Import,Import(US$ Mil),91308.4700746371
+"Hong Kong, China",2017,World,Consumer goods,Import,Import(US$ Mil),108310.28295434
+"Hong Kong, China",2017,World,Capital goods,Import,Import(US$ Mil),368776.719011393
+"Hong Kong, China",2017,World,All Products,Export,Exports (in US$ Mil),549861.455213315
+"Hong Kong, China",2017,World,All Products,Import,Imports (in US$ Mil),589317.440320895
+"Hong Kong, China",2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),577064086.979188
+"Hong Kong, China",2017,...,...,Development,Trade Balance (current US$ Mil),3107.45265102893
+"Hong Kong, China",2017,...,...,Development,GDP (current US$ Mil),341449.340450649
+"Hong Kong, China",2017,...,...,Tariff,No. Of Tariff Agreement,1
+"Hong Kong, China",2017,...,...,Import,No. Of Import partners,194
+"Hong Kong, China",2017,...,...,Import,No. Of Import products,4126
+"Hong Kong, China",2017,...,...,Export,No. Of Export partners,195
+"Hong Kong, China",2017,...,...,Export,No. Of Export products,3957
+"Hong Kong, China",2016,...,...,Others,Population,7336600
+"Hong Kong, China",2018,...,...,Others,Ease of Doing Business Rank,5
+"Hong Kong, China",2018,...,...,Others,Trading Across Borders Rank,31
+"Hong Kong, China",2016,...,...,Others,LPI Rank,9
+"Hong Kong, China",2016,...,...,Others,LPI Score,4.069103
+"Hong Kong, China",2010,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+"Hong Kong, China",2010,...,...,Others,No Of NTM Measures,56
+"Hong Kong, China",2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0129341
+"Hong Kong, China",2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0129341
+"Hong Kong, China",2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,54.1617
+"Hong Kong, China",2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.715
+"Hong Kong, China",2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,3.8319
+"Hong Kong, China",2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,3.0032
+"Hong Kong, China",2017,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,2.4348
+"Hong Kong, China",2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,44.5571
+"Hong Kong, China",2017,"Other Asia, nes",All Products,Import,Partner share(%)-Top 5 Import Partner,7.195
+"Hong Kong, China",2017,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,6.3953
+"Hong Kong, China",2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0603
+"Hong Kong, China",2017,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,5.5146
+"Hong Kong, China",2017,World,Animal,Export,Export Product share(%),0.8256
+"Hong Kong, China",2017,World,Vegetable,Export,Export Product share(%),0.508
+"Hong Kong, China",2017,World,Food Products,Export,Export Product share(%),0.7878
+"Hong Kong, China",2017,World,Minerals,Export,Export Product share(%),0.0129
+"Hong Kong, China",2017,World,Fuels,Export,Export Product share(%),0.107
+"Hong Kong, China",2017,World,Chemicals,Export,Export Product share(%),1.4186
+"Hong Kong, China",2017,World,Plastic or Rubber,Export,Export Product share(%),2.0682
+"Hong Kong, China",2017,World,Hides and Skins,Export,Export Product share(%),1.1729
+"Hong Kong, China",2017,World,Wood,Export,Export Product share(%),0.6237
+"Hong Kong, China",2017,World,Textiles and Clothing,Export,Export Product share(%),3.8756
+"Hong Kong, China",2017,World,Footwear,Export,Export Product share(%),0.6201
+"Hong Kong, China",2017,World,Stone and Glass,Export,Export Product share(%),16.3841
+"Hong Kong, China",2017,World,Metals,Export,Export Product share(%),1.1909
+"Hong Kong, China",2017,World,Mach and Elec,Export,Export Product share(%),63.4138
+"Hong Kong, China",2017,World,Transportation,Export,Export Product share(%),0.3656
+"Hong Kong, China",2017,World,Miscellaneous,Export,Export Product share(%),6.6253
+"Hong Kong, China",2017,World,Raw materials,Export,Export Product share(%),2.6954
+"Hong Kong, China",2017,World,Intermediate goods,Export,Export Product share(%),19.5403
+"Hong Kong, China",2017,World,Consumer goods,Export,Export Product share(%),14.4078
+"Hong Kong, China",2017,World,Capital goods,Export,Export Product share(%),63.2387
+"Hong Kong, China",2017,World,Raw materials,Import,Import Product share(%),3.4493
+"Hong Kong, China",2017,World,Intermediate goods,Import,Import Product share(%),15.4939
+"Hong Kong, China",2017,World,Consumer goods,Import,Import Product share(%),18.3789
+"Hong Kong, China",2017,World,Capital goods,Import,Import Product share(%),62.5769
+"Hong Kong, China",2017,World,Raw materials,Tariff,Weighted Average (%),0
+"Hong Kong, China",2017,World,Intermediate goods,Tariff,Weighted Average (%),0
+"Hong Kong, China",2017,World,Consumer goods,Tariff,Weighted Average (%),0
+"Hong Kong, China",2017,World,Capital goods,Tariff,Weighted Average (%),0
+"Hong Kong, China",2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+"Hong Kong, China",2017,World,All Products,Trade Indicator,Country Growth (%),-7.5413874018852
+"Hong Kong, China",2017,World,All Products,Tariff,Simple Average (%),0
+"Hong Kong, China",2017,World,All Products,Tariff,Weighted Average (%),0
+"Hong Kong, China",2017,World,All Products,Tariff,Maximum Rate (%),0
+"Hong Kong, China",2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),100
+"Hong Kong, China",2017,...,...,Trade Indicator,Index of export market penetration,15.2313496344642
+"Hong Kong, China",2017,...,...,Trade Indicator,HH Market concentration index,0.0694414847732462
+"Hong Kong, China",2017,...,...,Development,Trade Balance (% of GDP),0.910077215826021
+"Hong Kong, China",2017,...,...,Development,Trade in services (% of GDP),53.0545875487652
+"Hong Kong, China",2017,...,...,Development,Trade (% of GDP),375.091047180685
+"Hong Kong, China",2017,...,...,Development,"GNI per capita, Atlas method (current US$)",46310

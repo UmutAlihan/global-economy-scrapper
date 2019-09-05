@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Argentina,2017,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9307.36822708
+Argentina,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4517.08317079
+Argentina,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4324.96226978
+Argentina,2017,Chile,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2620.64702147
+Argentina,2017,Vietnam,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2271.61213333
+Argentina,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,17870.3038141
+Argentina,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,12314.21763776
+Argentina,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7634.94204063
+Argentina,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3229.33280358
+Argentina,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2081.37389584
+Argentina,2017,World,Animal,Export,Export(US$ Mil),4662.1353885
+Argentina,2017,World,Vegetable,Export,Export(US$ Mil),17473.26103587
+Argentina,2017,World,Food Products,Export,Export(US$ Mil),13046.57668935
+Argentina,2017,World,Minerals,Export,Export(US$ Mil),820.48924465
+Argentina,2017,World,Fuels,Export,Export(US$ Mil),1626.52292784
+Argentina,2017,World,Chemicals,Export,Export(US$ Mil),4512.54097826
+Argentina,2017,World,Plastic or Rubber,Export,Export(US$ Mil),1293.13623526
+Argentina,2017,World,Hides and Skins,Export,Export(US$ Mil),770.0868902
+Argentina,2017,World,Wood,Export,Export(US$ Mil),580.76151107
+Argentina,2017,World,Textiles and Clothing,Export,Export(US$ Mil),417.33137088
+Argentina,2017,World,Footwear,Export,Export(US$ Mil),50.7979579
+Argentina,2017,World,Stone and Glass,Export,Export(US$ Mil),2615.27232131
+Argentina,2017,World,Metals,Export,Export(US$ Mil),1716.12236102
+Argentina,2017,World,Mach and Elec,Export,Export(US$ Mil),1334.99833236
+Argentina,2017,World,Transportation,Export,Export(US$ Mil),6360.30741235
+Argentina,2017,World,Miscellaneous,Export,Export(US$ Mil),1103.85431246
+Argentina,2017,World,Raw materials,Export,Export(US$ Mil),17072.89620358
+Argentina,2017,World,Intermediate goods,Export,Export(US$ Mil),25412.84035108
+Argentina,2017,World,Consumer goods,Export,Export(US$ Mil),8752.58190812999
+Argentina,2017,World,Capital goods,Export,Export(US$ Mil),6245.56394305
+Argentina,2017,World,Raw materials,Import,Import(US$ Mil),3171.40047497
+Argentina,2017,World,Intermediate goods,Import,Import(US$ Mil),13961.18885706
+Argentina,2017,World,Consumer goods,Import,Import(US$ Mil),22101.04067565
+Argentina,2017,World,Capital goods,Import,Import(US$ Mil),27109.18405756
+Argentina,2017,World,All Products,Export,Exports (in US$ Mil),58384.19496928
+Argentina,2017,World,All Products,Import,Imports (in US$ Mil),66899.29958697
+Argentina,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),27988334.75212
+Argentina,2017,...,...,Development,Trade Balance (current US$ Mil),-16940.964879227
+Argentina,2017,...,...,Development,GDP (current US$ Mil),637430.331479469
+Argentina,2017,...,...,Tariff,No. Of Tariff Agreement,31
+Argentina,2017,...,...,Import,No. Of Import partners,185
+Argentina,2017,...,...,Import,No. Of Import products,4102
+Argentina,2017,...,...,Export,No. Of Export partners,182
+Argentina,2017,...,...,Export,No. Of Export products,3335
+Argentina,2016,...,...,Others,Population,43847430
+Argentina,2018,...,...,Others,Ease of Doing Business Rank,117
+Argentina,2018,...,...,Others,Trading Across Borders Rank,116
+Argentina,2016,...,...,Others,LPI Rank,66
+Argentina,2016,...,...,Others,LPI Score,2.962629
+Argentina,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5205
+Argentina,2014,...,...,Others,No Of NTM Measures,73
+Argentina,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0916354
+Argentina,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1447481
+Argentina,,...,...,Others,Services Trade Restrictions Index - Over All,17
+Argentina,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,3.022084475
+Argentina,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.992624998
+Argentina,2017,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,15.9416
+Argentina,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7368
+Argentina,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,7.4078
+Argentina,2017,Chile,All Products,Export,Partner share(%)-Top 5 Export Partner,4.4886
+Argentina,2017,Vietnam,All Products,Export,Partner share(%)-Top 5 Export Partner,3.8908
+Argentina,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,26.7122
+Argentina,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,18.4071
+Argentina,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,11.4126
+Argentina,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,4.8272
+Argentina,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,3.1112
+Argentina,2017,World,Animal,Export,Export Product share(%),7.9853
+Argentina,2017,World,Vegetable,Export,Export Product share(%),29.9281
+Argentina,2017,World,Food Products,Export,Export Product share(%),22.3461
+Argentina,2017,World,Minerals,Export,Export Product share(%),1.4053
+Argentina,2017,World,Fuels,Export,Export Product share(%),2.7859
+Argentina,2017,World,Chemicals,Export,Export Product share(%),7.729
+Argentina,2017,World,Plastic or Rubber,Export,Export Product share(%),2.2149
+Argentina,2017,World,Hides and Skins,Export,Export Product share(%),1.319
+Argentina,2017,World,Wood,Export,Export Product share(%),0.9947
+Argentina,2017,World,Textiles and Clothing,Export,Export Product share(%),0.7148
+Argentina,2017,World,Footwear,Export,Export Product share(%),0.087
+Argentina,2017,World,Stone and Glass,Export,Export Product share(%),4.4794
+Argentina,2017,World,Metals,Export,Export Product share(%),2.9394
+Argentina,2017,World,Mach and Elec,Export,Export Product share(%),2.2866
+Argentina,2017,World,Transportation,Export,Export Product share(%),10.8939
+Argentina,2017,World,Miscellaneous,Export,Export Product share(%),1.8907
+Argentina,2017,World,Raw materials,Export,Export Product share(%),29.2423
+Argentina,2017,World,Intermediate goods,Export,Export Product share(%),43.5269
+Argentina,2017,World,Consumer goods,Export,Export Product share(%),14.9914
+Argentina,2017,World,Capital goods,Export,Export Product share(%),10.6974
+Argentina,2017,World,Raw materials,Import,Import Product share(%),4.7406
+Argentina,2017,World,Intermediate goods,Import,Import Product share(%),20.869
+Argentina,2017,World,Consumer goods,Import,Import Product share(%),33.0363
+Argentina,2017,World,Capital goods,Import,Import Product share(%),40.5224
+Argentina,2017,World,Raw materials,Tariff,Weighted Average (%),0.877047926864156
+Argentina,2017,World,Intermediate goods,Tariff,Weighted Average (%),5.5631423220844
+Argentina,2017,World,Consumer goods,Tariff,Weighted Average (%),9.02627755571769
+Argentina,2017,World,Capital goods,Tariff,Weighted Average (%),9.03928102533477
+Argentina,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Argentina,2017,World,All Products,Trade Indicator,Country Growth (%),-2.0918694269738
+Argentina,2017,World,All Products,Tariff,Simple Average (%),12.7255000561281
+Argentina,2017,World,All Products,Tariff,Weighted Average (%),7.93462335487832
+Argentina,2017,World,All Products,Tariff,Maximum Rate (%),35
+Argentina,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),21.5605928509154
+Argentina,2017,...,...,Trade Indicator,Index of export market penetration,5.60453216800761
+Argentina,2017,...,...,Trade Indicator,HH Market concentration index,0.0502310048869815
+Argentina,2017,...,...,Development,Trade Balance (% of GDP),-2.6576966991683
+Argentina,2017,...,...,Development,Trade in services (% of GDP),6.00507192301702
+Argentina,2017,...,...,Development,Trade (% of GDP),25.0208364920701
+Argentina,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",13030

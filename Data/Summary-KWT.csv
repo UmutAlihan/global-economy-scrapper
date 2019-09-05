@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Kuwait,2017,Unspecified,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,49588.8868070486
+Kuwait,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,765.906298474474
+Kuwait,2017,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,668.4906559294
+Kuwait,2017,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,590.41898574184
+Kuwait,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,499.669672017968
+Kuwait,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5499.61088629218
+Kuwait,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3443.29684595772
+Kuwait,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2929.74196224371
+Kuwait,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1992.55335096931
+Kuwait,2017,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1836.1763756393
+Kuwait,2017,World,Animal,Export,Export(US$ Mil),134.111559589031
+Kuwait,2017,World,Vegetable,Export,Export(US$ Mil),156.970271068709
+Kuwait,2017,World,Food Products,Export,Export(US$ Mil),245.189251944959
+Kuwait,2017,World,Minerals,Export,Export(US$ Mil),4.95420202982232
+Kuwait,2017,World,Fuels,Export,Export(US$ Mil),49605.2920972467
+Kuwait,2017,World,Chemicals,Export,Export(US$ Mil),1696.27416490136
+Kuwait,2017,World,Plastic or Rubber,Export,Export(US$ Mil),670.025954607758
+Kuwait,2017,World,Hides and Skins,Export,Export(US$ Mil),5.79454128704836
+Kuwait,2017,World,Wood,Export,Export(US$ Mil),94.3049382448738
+Kuwait,2017,World,Textiles and Clothing,Export,Export(US$ Mil),77.9189247124503
+Kuwait,2017,World,Footwear,Export,Export(US$ Mil),15.3488240265615
+Kuwait,2017,World,Stone and Glass,Export,Export(US$ Mil),174.766185996537
+Kuwait,2017,World,Metals,Export,Export(US$ Mil),252.128492040356
+Kuwait,2017,World,Mach and Elec,Export,Export(US$ Mil),379.597518473148
+Kuwait,2017,World,Transportation,Export,Export(US$ Mil),889.065301280818
+Kuwait,2017,World,Miscellaneous,Export,Export(US$ Mil),405.104940791048
+Kuwait,2017,World,Raw materials,Export,Export(US$ Mil),38441.8343788744
+Kuwait,2017,World,Intermediate goods,Export,Export(US$ Mil),2518.03601059098
+Kuwait,2017,World,Consumer goods,Export,Export(US$ Mil),12936.7854789926
+Kuwait,2017,World,Capital goods,Export,Export(US$ Mil),715.937176666584
+Kuwait,2017,World,Raw materials,Import,Import(US$ Mil),2790.08741089065
+Kuwait,2017,World,Intermediate goods,Import,Import(US$ Mil),5755.97059375923
+Kuwait,2017,World,Consumer goods,Import,Import(US$ Mil),14554.2319026798
+Kuwait,2017,World,Capital goods,Import,Import(US$ Mil),10444.1432910571
+Kuwait,2017,World,All Products,Export,Exports (in US$ Mil),54806.8471682412
+Kuwait,2017,World,All Products,Import,Imports (in US$ Mil),33589.6519368935
+Kuwait,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),12890133.9714654
+Kuwait,2017,...,...,Development,Trade Balance (current US$ Mil),2779.4263105836
+Kuwait,2017,...,...,Development,GDP (current US$ Mil),120126.277612925
+Kuwait,2017,...,...,Tariff,No. Of Tariff Agreement,5
+Kuwait,2017,...,...,Import,No. Of Import partners,202
+Kuwait,2017,...,...,Import,No. Of Import products,4146
+Kuwait,2017,...,...,Export,No. Of Export partners,145
+Kuwait,2017,...,...,Export,No. Of Export products,2633
+Kuwait,2016,...,...,Others,Population,4052584
+Kuwait,2018,...,...,Others,Ease of Doing Business Rank,96
+Kuwait,2018,...,...,Others,Trading Across Borders Rank,154
+Kuwait,2016,...,...,Others,LPI Rank,53
+Kuwait,2016,...,...,Others,LPI Score,3.151619
+Kuwait,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0379894
+Kuwait,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0434525
+Kuwait,,...,...,Others,Services Trade Restrictions Index - Over All,51.8
+Kuwait,2017,Unspecified,All Products,Export,Partner share(%)-Top 5 Export Partner,90.4794
+Kuwait,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,1.3975
+Kuwait,2017,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,1.2197
+Kuwait,2017,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,1.0773
+Kuwait,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,0.9117
+Kuwait,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.3729
+Kuwait,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,10.2511
+Kuwait,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,8.7222
+Kuwait,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,5.932
+Kuwait,2017,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4665
+Kuwait,2017,World,Animal,Export,Export Product share(%),0.2447
+Kuwait,2017,World,Vegetable,Export,Export Product share(%),0.2864
+Kuwait,2017,World,Food Products,Export,Export Product share(%),0.4474
+Kuwait,2017,World,Minerals,Export,Export Product share(%),0.009
+Kuwait,2017,World,Fuels,Export,Export Product share(%),90.5093
+Kuwait,2017,World,Chemicals,Export,Export Product share(%),3.095
+Kuwait,2017,World,Plastic or Rubber,Export,Export Product share(%),1.2225
+Kuwait,2017,World,Hides and Skins,Export,Export Product share(%),0.0106
+Kuwait,2017,World,Wood,Export,Export Product share(%),0.1721
+Kuwait,2017,World,Textiles and Clothing,Export,Export Product share(%),0.1422
+Kuwait,2017,World,Footwear,Export,Export Product share(%),0.028
+Kuwait,2017,World,Stone and Glass,Export,Export Product share(%),0.3189
+Kuwait,2017,World,Metals,Export,Export Product share(%),0.46
+Kuwait,2017,World,Mach and Elec,Export,Export Product share(%),0.6926
+Kuwait,2017,World,Transportation,Export,Export Product share(%),1.6222
+Kuwait,2017,World,Miscellaneous,Export,Export Product share(%),0.7392
+Kuwait,2017,World,Raw materials,Export,Export Product share(%),70.1406
+Kuwait,2017,World,Intermediate goods,Export,Export Product share(%),4.5944
+Kuwait,2017,World,Consumer goods,Export,Export Product share(%),23.6043
+Kuwait,2017,World,Capital goods,Export,Export Product share(%),1.3063
+Kuwait,2017,World,Raw materials,Import,Import Product share(%),8.3064
+Kuwait,2017,World,Intermediate goods,Import,Import Product share(%),17.1361
+Kuwait,2017,World,Consumer goods,Import,Import Product share(%),43.3295
+Kuwait,2017,World,Capital goods,Import,Import Product share(%),31.0933
+Kuwait,2017,World,Raw materials,Tariff,Weighted Average (%),1.75959647714971
+Kuwait,2017,World,Intermediate goods,Tariff,Weighted Average (%),3.21289165520852
+Kuwait,2017,World,Consumer goods,Tariff,Weighted Average (%),6.32627482901278
+Kuwait,2017,World,Capital goods,Tariff,Weighted Average (%),3.06650440444752
+Kuwait,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Kuwait,2017,World,All Products,Trade Indicator,Country Growth (%),4.53808440847803
+Kuwait,2017,World,All Products,Tariff,Simple Average (%),3.87857669529509
+Kuwait,2017,World,All Products,Tariff,Weighted Average (%),4.34094755792525
+Kuwait,2017,World,All Products,Tariff,Maximum Rate (%),1278.38598632813
+Kuwait,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),25.7673615035603
+Kuwait,2017,...,...,Trade Indicator,Index of export market penetration,2.12386524328035
+Kuwait,2017,...,...,Trade Indicator,HH Market concentration index,0.115306352922948
+Kuwait,2017,...,...,Development,Trade Balance (% of GDP),2.31375379793209
+Kuwait,2017,...,...,Development,Trade in services (% of GDP),27.8700493987164
+Kuwait,2017,...,...,Development,Trade (% of GDP),97.9763574433981
+Kuwait,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",31430

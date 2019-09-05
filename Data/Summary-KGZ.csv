@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Kyrgyz Republic,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,489.262641
+Kyrgyz Republic,2017,Kazakhstan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,266.192624
+Kyrgyz Republic,2017,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,265.228092
+Kyrgyz Republic,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,191.165889
+Kyrgyz Republic,2017,Uzbekistan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,146.285445
+Kyrgyz Republic,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1493.693988
+Kyrgyz Republic,2017,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1232.49422
+Kyrgyz Republic,2017,Kazakhstan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,520.295756
+Kyrgyz Republic,2017,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,224.85185
+Kyrgyz Republic,2017,Uzbekistan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,163.614069
+Kyrgyz Republic,2017,World,Animal,Export,Export(US$ Mil),49.479348
+Kyrgyz Republic,2017,World,Vegetable,Export,Export(US$ Mil),118.60771
+Kyrgyz Republic,2017,World,Food Products,Export,Export(US$ Mil),50.529134
+Kyrgyz Republic,2017,World,Minerals,Export,Export(US$ Mil),153.498818
+Kyrgyz Republic,2017,World,Fuels,Export,Export(US$ Mil),87.146204
+Kyrgyz Republic,2017,World,Chemicals,Export,Export(US$ Mil),15.440756
+Kyrgyz Republic,2017,World,Plastic or Rubber,Export,Export(US$ Mil),22.446195
+Kyrgyz Republic,2017,World,Hides and Skins,Export,Export(US$ Mil),11.938187
+Kyrgyz Republic,2017,World,Wood,Export,Export(US$ Mil),5.580432
+Kyrgyz Republic,2017,World,Textiles and Clothing,Export,Export(US$ Mil),150.047373
+Kyrgyz Republic,2017,World,Footwear,Export,Export(US$ Mil),31.225961
+Kyrgyz Republic,2017,World,Stone and Glass,Export,Export(US$ Mil),767.414839
+Kyrgyz Republic,2017,World,Metals,Export,Export(US$ Mil),72.46095
+Kyrgyz Republic,2017,World,Mach and Elec,Export,Export(US$ Mil),72.080044
+Kyrgyz Republic,2017,World,Transportation,Export,Export(US$ Mil),138.79281
+Kyrgyz Republic,2017,World,Miscellaneous,Export,Export(US$ Mil),10.774909
+Kyrgyz Republic,2017,World,Raw materials,Export,Export(US$ Mil),328.634683
+Kyrgyz Republic,2017,World,Intermediate goods,Export,Export(US$ Mil),878.727324
+Kyrgyz Republic,2017,World,Consumer goods,Export,Export(US$ Mil),339.382579
+Kyrgyz Republic,2017,World,Capital goods,Export,Export(US$ Mil),209.429148
+Kyrgyz Republic,2017,World,Raw materials,Import,Import(US$ Mil),205.439395
+Kyrgyz Republic,2017,World,Intermediate goods,Import,Import(US$ Mil),983.318444
+Kyrgyz Republic,2017,World,Consumer goods,Import,Import(US$ Mil),2514.421219
+Kyrgyz Republic,2017,World,Capital goods,Import,Import(US$ Mil),774.651707
+Kyrgyz Republic,2017,World,All Products,Export,Exports (in US$ Mil),1757.46367
+Kyrgyz Republic,2017,World,All Products,Import,Imports (in US$ Mil),4487.291617
+Kyrgyz Republic,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1888638.938
+Kyrgyz Republic,2017,...,...,Development,Trade Balance (current US$ Mil),-2373.12082617579
+Kyrgyz Republic,2017,...,...,Development,GDP (current US$ Mil),7564.73883604122
+Kyrgyz Republic,2017,...,...,Tariff,No. Of Tariff Agreement,6
+Kyrgyz Republic,2017,...,...,Import,No. Of Import partners,128
+Kyrgyz Republic,2017,...,...,Import,No. Of Import products,3549
+Kyrgyz Republic,2017,...,...,Export,No. Of Export partners,90
+Kyrgyz Republic,2017,...,...,Export,No. Of Export products,1629
+Kyrgyz Republic,2016,...,...,Others,Population,6079500
+Kyrgyz Republic,2018,...,...,Others,Ease of Doing Business Rank,77
+Kyrgyz Republic,2018,...,...,Others,Trading Across Borders Rank,84
+Kyrgyz Republic,2017,...,...,Others,CPIA Trade Ratings,5
+Kyrgyz Republic,2016,...,...,Others,LPI Rank,146
+Kyrgyz Republic,2016,...,...,Others,LPI Score,2.15593
+Kyrgyz Republic,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0183065
+Kyrgyz Republic,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.029087
+Kyrgyz Republic,,...,...,Others,Services Trade Restrictions Index - Over All,15.2
+Kyrgyz Republic,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,27.8391
+Kyrgyz Republic,2017,Kazakhstan,All Products,Export,Partner share(%)-Top 5 Export Partner,15.1464
+Kyrgyz Republic,2017,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,15.0915
+Kyrgyz Republic,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,10.8774
+Kyrgyz Republic,2017,Uzbekistan,All Products,Export,Partner share(%)-Top 5 Export Partner,8.3237
+Kyrgyz Republic,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,33.2872
+Kyrgyz Republic,2017,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,27.4663
+Kyrgyz Republic,2017,Kazakhstan,All Products,Import,Partner share(%)-Top 5 Import Partner,11.5949
+Kyrgyz Republic,2017,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,5.0109
+Kyrgyz Republic,2017,Uzbekistan,All Products,Import,Partner share(%)-Top 5 Import Partner,3.6462
+Kyrgyz Republic,2017,World,Animal,Export,Export Product share(%),2.8154
+Kyrgyz Republic,2017,World,Vegetable,Export,Export Product share(%),6.7488
+Kyrgyz Republic,2017,World,Food Products,Export,Export Product share(%),2.8751
+Kyrgyz Republic,2017,World,Minerals,Export,Export Product share(%),8.7341
+Kyrgyz Republic,2017,World,Fuels,Export,Export Product share(%),4.9586
+Kyrgyz Republic,2017,World,Chemicals,Export,Export Product share(%),0.8786
+Kyrgyz Republic,2017,World,Plastic or Rubber,Export,Export Product share(%),1.2772
+Kyrgyz Republic,2017,World,Hides and Skins,Export,Export Product share(%),0.6793
+Kyrgyz Republic,2017,World,Wood,Export,Export Product share(%),0.3175
+Kyrgyz Republic,2017,World,Textiles and Clothing,Export,Export Product share(%),8.5377
+Kyrgyz Republic,2017,World,Footwear,Export,Export Product share(%),1.7768
+Kyrgyz Republic,2017,World,Stone and Glass,Export,Export Product share(%),43.666
+Kyrgyz Republic,2017,World,Metals,Export,Export Product share(%),4.123
+Kyrgyz Republic,2017,World,Mach and Elec,Export,Export Product share(%),4.1014
+Kyrgyz Republic,2017,World,Transportation,Export,Export Product share(%),7.8973
+Kyrgyz Republic,2017,World,Miscellaneous,Export,Export Product share(%),0.6131
+Kyrgyz Republic,2017,World,Raw materials,Export,Export Product share(%),18.6994
+Kyrgyz Republic,2017,World,Intermediate goods,Export,Export Product share(%),49.9997
+Kyrgyz Republic,2017,World,Consumer goods,Export,Export Product share(%),19.3109
+Kyrgyz Republic,2017,World,Capital goods,Export,Export Product share(%),11.9166
+Kyrgyz Republic,2017,World,Raw materials,Import,Import Product share(%),4.5782
+Kyrgyz Republic,2017,World,Intermediate goods,Import,Import Product share(%),21.9134
+Kyrgyz Republic,2017,World,Consumer goods,Import,Import Product share(%),56.0343
+Kyrgyz Republic,2017,World,Capital goods,Import,Import Product share(%),17.2632
+Kyrgyz Republic,2017,World,Raw materials,Tariff,Weighted Average (%),0.683684235411569
+Kyrgyz Republic,2017,World,Intermediate goods,Tariff,Weighted Average (%),3.74315107611645
+Kyrgyz Republic,2017,World,Consumer goods,Tariff,Weighted Average (%),3.11963614229847
+Kyrgyz Republic,2017,World,Capital goods,Tariff,Weighted Average (%),2.25989453368564
+Kyrgyz Republic,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Kyrgyz Republic,2017,World,All Products,Trade Indicator,Country Growth (%),29.4344197341014
+Kyrgyz Republic,2017,World,All Products,Tariff,Simple Average (%),4.11772192769087
+Kyrgyz Republic,2017,World,All Products,Tariff,Weighted Average (%),2.93128677894243
+Kyrgyz Republic,2017,World,All Products,Tariff,Maximum Rate (%),100
+Kyrgyz Republic,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),43.4947941514888
+Kyrgyz Republic,2017,...,...,Trade Indicator,Index of export market penetration,1.49506613631571
+Kyrgyz Republic,2017,...,...,Trade Indicator,HH Market concentration index,0.152275143877146
+Kyrgyz Republic,2017,...,...,Development,Trade Balance (% of GDP),-31.3708229406329
+Kyrgyz Republic,2017,...,...,Development,Trade in services (% of GDP),22.9951600405855
+Kyrgyz Republic,2017,...,...,Development,Trade (% of GDP),102.206355744967
+Kyrgyz Republic,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",1130

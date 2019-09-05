@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Peru,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11626.23331201
+Peru,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6940.06669535
+Peru,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2349.3786668
+Peru,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2136.85575933
+Peru,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1964.21156143
+Peru,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8861.2400134
+Peru,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8070.12271037
+Peru,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2452.72861744
+Peru,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1773.96375139
+Peru,2017,Ecuador,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1569.42686749
+Peru,2017,World,Animal,Export,Export(US$ Mil),881.20694945
+Peru,2017,World,Vegetable,Export,Export(US$ Mil),4654.72460459
+Peru,2017,World,Food Products,Export,Export(US$ Mil),3259.41281206
+Peru,2017,World,Minerals,Export,Export(US$ Mil),16917.79196258
+Peru,2017,World,Fuels,Export,Export(US$ Mil),3514.46082029
+Peru,2017,World,Chemicals,Export,Export(US$ Mil),788.78911352
+Peru,2017,World,Plastic or Rubber,Export,Export(US$ Mil),528.62217069
+Peru,2017,World,Hides and Skins,Export,Export(US$ Mil),40.94164021
+Peru,2017,World,Wood,Export,Export(US$ Mil),338.27204908
+Peru,2017,World,Textiles and Clothing,Export,Export(US$ Mil),1302.64229695
+Peru,2017,World,Footwear,Export,Export(US$ Mil),29.8484002
+Peru,2017,World,Stone and Glass,Export,Export(US$ Mil),7691.73391299
+Peru,2017,World,Metals,Export,Export(US$ Mil),3743.12761628
+Peru,2017,World,Mach and Elec,Export,Export(US$ Mil),363.82547824
+Peru,2017,World,Transportation,Export,Export(US$ Mil),73.51343951
+Peru,2017,World,Miscellaneous,Export,Export(US$ Mil),109.03615607
+Peru,2017,World,Raw materials,Export,Export(US$ Mil),21764.25314021
+Peru,2017,World,Intermediate goods,Export,Export(US$ Mil),14771.97348511
+Peru,2017,World,Consumer goods,Export,Export(US$ Mil),7244.12798032001
+Peru,2017,World,Capital goods,Export,Export(US$ Mil),454.89133347
+Peru,2017,World,Raw materials,Import,Import(US$ Mil),5023.09473078
+Peru,2017,World,Intermediate goods,Import,Import(US$ Mil),9773.73896242001
+Peru,2017,World,Consumer goods,Import,Import(US$ Mil),13820.96040402
+Peru,2017,World,Capital goods,Import,Import(US$ Mil),11145.73545248
+Peru,2017,World,All Products,Export,Exports (in US$ Mil),44237.94942271
+Peru,2017,World,All Products,Import,Imports (in US$ Mil),39763.9139023
+Peru,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),29589441.67261
+Peru,2017,...,...,Development,Trade Balance (current US$ Mil),3509.0624712485
+Peru,2017,...,...,Development,GDP (current US$ Mil),211389.272242157
+Peru,2017,...,...,Tariff,No. Of Tariff Agreement,54
+Peru,2017,...,...,Import,No. Of Import partners,200
+Peru,2017,...,...,Import,No. Of Import products,4122
+Peru,2017,...,...,Export,No. Of Export partners,173
+Peru,2017,...,...,Export,No. Of Export products,3294
+Peru,2016,...,...,Others,Population,31773839
+Peru,2018,...,...,Others,Ease of Doing Business Rank,58
+Peru,2018,...,...,Others,Trading Across Borders Rank,92
+Peru,2016,...,...,Others,LPI Rank,69
+Peru,2016,...,...,Others,LPI Score,2.893389
+Peru,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1972
+Peru,2014,...,...,Others,No Of NTM Measures,53
+Peru,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0931461
+Peru,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1004942
+Peru,,...,...,Others,Services Trade Restrictions Index - Over All,16.4
+Peru,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,5.656722069
+Peru,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.467296243
+Peru,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,26.2811
+Peru,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,15.688
+Peru,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,5.3108
+Peru,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,4.8304
+Peru,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,4.4401
+Peru,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,22.2846
+Peru,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,20.2951
+Peru,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,6.1682
+Peru,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4612
+Peru,2017,Ecuador,All Products,Import,Partner share(%)-Top 5 Import Partner,3.9469
+Peru,2017,World,Animal,Export,Export Product share(%),1.992
+Peru,2017,World,Vegetable,Export,Export Product share(%),10.522
+Peru,2017,World,Food Products,Export,Export Product share(%),7.3679
+Peru,2017,World,Minerals,Export,Export Product share(%),38.2427
+Peru,2017,World,Fuels,Export,Export Product share(%),7.9444
+Peru,2017,World,Chemicals,Export,Export Product share(%),1.7831
+Peru,2017,World,Plastic or Rubber,Export,Export Product share(%),1.195
+Peru,2017,World,Hides and Skins,Export,Export Product share(%),0.0925
+Peru,2017,World,Wood,Export,Export Product share(%),0.7647
+Peru,2017,World,Textiles and Clothing,Export,Export Product share(%),2.9446
+Peru,2017,World,Footwear,Export,Export Product share(%),0.0675
+Peru,2017,World,Stone and Glass,Export,Export Product share(%),17.3872
+Peru,2017,World,Metals,Export,Export Product share(%),8.4613
+Peru,2017,World,Mach and Elec,Export,Export Product share(%),0.8224
+Peru,2017,World,Transportation,Export,Export Product share(%),0.1662
+Peru,2017,World,Miscellaneous,Export,Export Product share(%),0.2465
+Peru,2017,World,Raw materials,Export,Export Product share(%),49.1982
+Peru,2017,World,Intermediate goods,Export,Export Product share(%),33.3921
+Peru,2017,World,Consumer goods,Export,Export Product share(%),16.3754
+Peru,2017,World,Capital goods,Export,Export Product share(%),1.0283
+Peru,2017,World,Raw materials,Import,Import Product share(%),12.6323
+Peru,2017,World,Intermediate goods,Import,Import Product share(%),24.5794
+Peru,2017,World,Consumer goods,Import,Import Product share(%),34.7575
+Peru,2017,World,Capital goods,Import,Import Product share(%),28.0298
+Peru,2017,World,Raw materials,Tariff,Weighted Average (%),0.0723504047283771
+Peru,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.602185495313476
+Peru,2017,World,Consumer goods,Tariff,Weighted Average (%),2.0045945874748
+Peru,2017,World,Capital goods,Tariff,Weighted Average (%),0.116099421082459
+Peru,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Peru,2017,World,All Products,Trade Indicator,Country Growth (%),10.1151900907207
+Peru,2017,World,All Products,Tariff,Simple Average (%),1.37754813511503
+Peru,2017,World,All Products,Tariff,Weighted Average (%),0.798251524139039
+Peru,2017,World,All Products,Tariff,Maximum Rate (%),11
+Peru,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),80.837366892546
+Peru,2017,...,...,Trade Indicator,Index of export market penetration,4.62997103759166
+Peru,2017,...,...,Trade Indicator,HH Market concentration index,0.124465889242052
+Peru,2017,...,...,Development,Trade Balance (% of GDP),1.6600002611432
+Peru,2017,...,...,Development,Trade in services (% of GDP),7.49348755740512
+Peru,2017,...,...,Development,Trade (% of GDP),46.8670795630784
+Peru,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",5960

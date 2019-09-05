@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Bolivia,2017,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1452.28478773
+Bolivia,2017,Argentina,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1231.0763486
+Bolivia,2017,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,609.94593559
+Bolivia,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,581.30323016
+Bolivia,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,567.74718983
+Bolivia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2027.34195311
+Bolivia,2017,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1559.95501332
+Bolivia,2017,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1164.04141869
+Bolivia,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,744.08083422
+Bolivia,2017,Peru,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,609.72155932
+Bolivia,2017,World,Animal,Export,Export(US$ Mil),26.25810633
+Bolivia,2017,World,Vegetable,Export,Export(US$ Mil),616.28160301
+Bolivia,2017,World,Food Products,Export,Export(US$ Mil),450.40521251
+Bolivia,2017,World,Minerals,Export,Export(US$ Mil),2262.94503557
+Bolivia,2017,World,Fuels,Export,Export(US$ Mil),2723.39738729
+Bolivia,2017,World,Chemicals,Export,Export(US$ Mil),45.13451048
+Bolivia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),2.42583798
+Bolivia,2017,World,Hides and Skins,Export,Export(US$ Mil),35.46340447
+Bolivia,2017,World,Wood,Export,Export(US$ Mil),46.21259805
+Bolivia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),16.22881501
+Bolivia,2017,World,Footwear,Export,Export(US$ Mil),8.73837896
+Bolivia,2017,World,Stone and Glass,Export,Export(US$ Mil),1250.80360857
+Bolivia,2017,World,Metals,Export,Export(US$ Mil),354.01827121
+Bolivia,2017,World,Mach and Elec,Export,Export(US$ Mil),4.92637398
+Bolivia,2017,World,Transportation,Export,Export(US$ Mil),0.001
+Bolivia,2017,World,Miscellaneous,Export,Export(US$ Mil),9.12083576
+Bolivia,2017,World,Raw materials,Export,Export(US$ Mil),2680.22607381
+Bolivia,2017,World,Intermediate goods,Export,Export(US$ Mil),2216.81286898
+Bolivia,2017,World,Consumer goods,Export,Export(US$ Mil),2950.12902976
+Bolivia,2017,World,Capital goods,Export,Export(US$ Mil),5.14831378
+Bolivia,2017,World,Raw materials,Import,Import(US$ Mil),166.00652944
+Bolivia,2017,World,Intermediate goods,Import,Import(US$ Mil),2278.75242487
+Bolivia,2017,World,Consumer goods,Import,Import(US$ Mil),3746.73727639
+Bolivia,2017,World,Capital goods,Import,Import(US$ Mil),3104.88991292
+Bolivia,2017,World,All Products,Export,Exports (in US$ Mil),7852.36097918
+Bolivia,2017,World,All Products,Import,Imports (in US$ Mil),9302.38588751001
+Bolivia,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),2924222.81088
+Bolivia,2017,...,...,Development,Trade Balance (current US$ Mil),-2586.73256150509
+Bolivia,2017,...,...,Development,GDP (current US$ Mil),37508.6421128799
+Bolivia,2017,...,...,Tariff,No. Of Tariff Agreement,22
+Bolivia,2017,...,...,Import,No. Of Import partners,199
+Bolivia,2017,...,...,Import,No. Of Import products,3927
+Bolivia,2017,...,...,Export,No. Of Export partners,90
+Bolivia,2017,...,...,Export,No. Of Export products,693
+Bolivia,2016,...,...,Others,Population,10887882
+Bolivia,2018,...,...,Others,Ease of Doing Business Rank,152
+Bolivia,2018,...,...,Others,Trading Across Borders Rank,89
+Bolivia,2015,...,...,Others,CPIA Trade Ratings,4.5
+Bolivia,2016,...,...,Others,LPI Rank,138
+Bolivia,2016,...,...,Others,LPI Score,2.251462
+Bolivia,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1577
+Bolivia,2014,...,...,Others,No Of NTM Measures,31
+Bolivia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1073379
+Bolivia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.154539
+Bolivia,,...,...,Others,Services Trade Restrictions Index - Over All,13.8
+Bolivia,2017,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,18.4949
+Bolivia,2017,Argentina,All Products,Export,Partner share(%)-Top 5 Export Partner,15.6778
+Bolivia,2017,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,7.7677
+Bolivia,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.4029
+Bolivia,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2303
+Bolivia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.7938
+Bolivia,2017,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,16.7694
+Bolivia,2017,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,12.5134
+Bolivia,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.9988
+Bolivia,2017,Peru,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5545
+Bolivia,2017,World,Animal,Export,Export Product share(%),0.3344
+Bolivia,2017,World,Vegetable,Export,Export Product share(%),7.8484
+Bolivia,2017,World,Food Products,Export,Export Product share(%),5.7359
+Bolivia,2017,World,Minerals,Export,Export Product share(%),28.8187
+Bolivia,2017,World,Fuels,Export,Export Product share(%),34.6825
+Bolivia,2017,World,Chemicals,Export,Export Product share(%),0.5748
+Bolivia,2017,World,Plastic or Rubber,Export,Export Product share(%),0.0309
+Bolivia,2017,World,Hides and Skins,Export,Export Product share(%),0.4516
+Bolivia,2017,World,Wood,Export,Export Product share(%),0.5885
+Bolivia,2017,World,Textiles and Clothing,Export,Export Product share(%),0.2067
+Bolivia,2017,World,Footwear,Export,Export Product share(%),0.1113
+Bolivia,2017,World,Stone and Glass,Export,Export Product share(%),15.929
+Bolivia,2017,World,Metals,Export,Export Product share(%),4.5084
+Bolivia,2017,World,Mach and Elec,Export,Export Product share(%),0.0627
+Bolivia,2017,World,Transportation,Export,Export Product share(%),0
+Bolivia,2017,World,Miscellaneous,Export,Export Product share(%),0.1162
+Bolivia,2017,World,Raw materials,Export,Export Product share(%),34.1327
+Bolivia,2017,World,Intermediate goods,Export,Export Product share(%),28.2312
+Bolivia,2017,World,Consumer goods,Export,Export Product share(%),37.57
+Bolivia,2017,World,Capital goods,Export,Export Product share(%),0.0656
+Bolivia,2017,World,Raw materials,Import,Import Product share(%),1.7846
+Bolivia,2017,World,Intermediate goods,Import,Import Product share(%),24.4964
+Bolivia,2017,World,Consumer goods,Import,Import Product share(%),40.2772
+Bolivia,2017,World,Capital goods,Import,Import Product share(%),33.3774
+Bolivia,2017,World,Raw materials,Tariff,Weighted Average (%),3.50072857975079
+Bolivia,2017,World,Intermediate goods,Tariff,Weighted Average (%),4.76759247673974
+Bolivia,2017,World,Consumer goods,Tariff,Weighted Average (%),8.78283008506008
+Bolivia,2017,World,Capital goods,Tariff,Weighted Average (%),4.88298150600025
+Bolivia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Bolivia,2017,World,All Products,Trade Indicator,Country Growth (%),2.34629650578997
+Bolivia,2017,World,All Products,Tariff,Simple Average (%),10.3281611045573
+Bolivia,2017,World,All Products,Tariff,Weighted Average (%),6.09774106198574
+Bolivia,2017,World,All Products,Tariff,Maximum Rate (%),40
+Bolivia,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),23.0354469564335
+Bolivia,2017,...,...,Trade Indicator,Index of export market penetration,1.95111819567236
+Bolivia,2017,...,...,Trade Indicator,HH Market concentration index,0.0857330184926995
+Bolivia,2017,...,...,Development,Trade Balance (% of GDP),-6.8963641864732
+Bolivia,2017,...,...,Development,Trade in services (% of GDP),11.8792795226335
+Bolivia,2017,...,...,Development,Trade (% of GDP),56.7046528441721
+Bolivia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",3130

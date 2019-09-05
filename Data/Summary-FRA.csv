@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+France,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,77609.8861414755
+France,2017,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,40190.9901835072
+France,2017,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,39738.1788908571
+France,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,38414.0567212611
+France,2017,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,36488.4889767024
+France,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,97082.2070721518
+France,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,55401.0502573483
+France,2017,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,47044.6476832295
+France,2017,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,41279.2311172499
+France,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,39676.9208775668
+France,2017,World,Animal,Export,Export(US$ Mil),14471.8663010666
+France,2017,World,Vegetable,Export,Export(US$ Mil),16702.1959640545
+France,2017,World,Food Products,Export,Export(US$ Mil),37289.2213991521
+France,2017,World,Minerals,Export,Export(US$ Mil),1392.89728173258
+France,2017,World,Fuels,Export,Export(US$ Mil),14663.2069857441
+France,2017,World,Chemicals,Export,Export(US$ Mil),79049.9837541911
+France,2017,World,Plastic or Rubber,Export,Export(US$ Mil),28053.2000164091
+France,2017,World,Hides and Skins,Export,Export(US$ Mil),8330.64493892224
+France,2017,World,Wood,Export,Export(US$ Mil),11941.942860461
+France,2017,World,Textiles and Clothing,Export,Export(US$ Mil),15764.0171187499
+France,2017,World,Footwear,Export,Export(US$ Mil),4053.57846135656
+France,2017,World,Stone and Glass,Export,Export(US$ Mil),13178.0903064231
+France,2017,World,Metals,Export,Export(US$ Mil),36471.6371634671
+France,2017,World,Mach and Elec,Export,Export(US$ Mil),101673.214116913
+France,2017,World,Transportation,Export,Export(US$ Mil),105399.312237649
+France,2017,World,Miscellaneous,Export,Export(US$ Mil),34950.1243782035
+France,2017,World,Raw materials,Export,Export(US$ Mil),27630.8831770922
+France,2017,World,Intermediate goods,Export,Export(US$ Mil),100482.466813425
+France,2017,World,Consumer goods,Export,Export(US$ Mil),198186.572854386
+France,2017,World,Capital goods,Export,Export(US$ Mil),184407.917949865
+France,2017,World,Raw materials,Import,Import(US$ Mil),57097.8008934781
+France,2017,World,Intermediate goods,Import,Import(US$ Mil),131543.847198308
+France,2017,World,Consumer goods,Import,Import(US$ Mil),247537.187867963
+France,2017,World,Capital goods,Import,Import(US$ Mil),176295.603902083
+France,2017,World,All Products,Export,Exports (in US$ Mil),523385.133284496
+France,2017,World,All Products,Import,Imports (in US$ Mil),613132.639717873
+France,2017,...,...,Development,Trade Balance (current US$ Mil),-28467.51568064
+France,2017,...,...,Development,GDP (current US$ Mil),2582501.30721642
+France,2017,...,...,Import,No. Of Import partners,234
+France,2017,...,...,Import,No. Of Import products,4546
+France,2017,...,...,Export,No. Of Export partners,230
+France,2017,...,...,Export,No. Of Export products,4347
+France,2016,...,...,Others,Population,66859768
+France,2018,...,...,Others,Ease of Doing Business Rank,31
+France,2018,...,...,Others,Trading Across Borders Rank,1
+France,2016,...,...,Others,LPI Rank,16
+France,2016,...,...,Others,LPI Score,3.900953
+France,,...,...,Others,Services Trade Restrictions Index - Over All,26.4
+France,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,14.8284
+France,2017,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,7.679
+France,2017,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,7.5925
+France,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.3395
+France,2017,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,6.9716
+France,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,15.8338
+France,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.0357
+France,2017,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,7.6728
+France,2017,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,6.7325
+France,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.4712
+France,2017,World,Animal,Export,Export Product share(%),2.7651
+France,2017,World,Vegetable,Export,Export Product share(%),3.1912
+France,2017,World,Food Products,Export,Export Product share(%),7.1246
+France,2017,World,Minerals,Export,Export Product share(%),0.2661
+France,2017,World,Fuels,Export,Export Product share(%),2.8016
+France,2017,World,Chemicals,Export,Export Product share(%),15.1036
+France,2017,World,Plastic or Rubber,Export,Export Product share(%),5.36
+France,2017,World,Hides and Skins,Export,Export Product share(%),1.5917
+France,2017,World,Wood,Export,Export Product share(%),2.2817
+France,2017,World,Textiles and Clothing,Export,Export Product share(%),3.0119
+France,2017,World,Footwear,Export,Export Product share(%),0.7745
+France,2017,World,Stone and Glass,Export,Export Product share(%),2.5179
+France,2017,World,Metals,Export,Export Product share(%),6.9684
+France,2017,World,Mach and Elec,Export,Export Product share(%),19.4261
+France,2017,World,Transportation,Export,Export Product share(%),20.138
+France,2017,World,Miscellaneous,Export,Export Product share(%),6.6777
+France,2017,World,Raw materials,Export,Export Product share(%),5.2793
+France,2017,World,Intermediate goods,Export,Export Product share(%),19.1986
+France,2017,World,Consumer goods,Export,Export Product share(%),37.8663
+France,2017,World,Capital goods,Export,Export Product share(%),35.2337
+France,2017,World,Raw materials,Import,Import Product share(%),9.3125
+France,2017,World,Intermediate goods,Import,Import Product share(%),21.4544
+France,2017,World,Consumer goods,Import,Import Product share(%),40.3725
+France,2017,World,Capital goods,Import,Import Product share(%),28.7533
+France,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+France,2017,World,All Products,Trade Indicator,Country Growth (%),1.39504032006963
+France,2017,...,...,Trade Indicator,Index of export market penetration,30.1706015786392
+France,2017,...,...,Trade Indicator,HH Market concentration index,0.0510335191226791
+France,2017,...,...,Development,Trade Balance (% of GDP),-1.1023233793181
+France,2017,...,...,Development,Trade in services (% of GDP),20.2097178761534
+France,2017,...,...,Development,Trade (% of GDP),62.8660320591001
+France,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",37970

@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+United Kingdom,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,59188.5127890587
+United Kingdom,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,46697.7878657056
+United Kingdom,2017,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,30406.1682896231
+United Kingdom,2017,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,27575.1883530339
+United Kingdom,2017,Ireland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,25107.5636589365
+United Kingdom,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,89695.4133854085
+United Kingdom,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,59862.5237537817
+United Kingdom,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,58829.0291832875
+United Kingdom,2017,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,51411.2846177193
+United Kingdom,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,36502.4692701571
+United Kingdom,2017,World,Animal,Export,Export(US$ Mil),7117.91540720525
+United Kingdom,2017,World,Vegetable,Export,Export(US$ Mil),3706.86664095422
+United Kingdom,2017,World,Food Products,Export,Export(US$ Mil),19406.3187688627
+United Kingdom,2017,World,Minerals,Export,Export(US$ Mil),880.555644669941
+United Kingdom,2017,World,Fuels,Export,Export(US$ Mil),35028.0398325076
+United Kingdom,2017,World,Chemicals,Export,Export(US$ Mil),62452.777702724
+United Kingdom,2017,World,Plastic or Rubber,Export,Export(US$ Mil),14227.5604143989
+United Kingdom,2017,World,Hides and Skins,Export,Export(US$ Mil),1670.87575734859
+United Kingdom,2017,World,Wood,Export,Export(US$ Mil),8269.68007328629
+United Kingdom,2017,World,Textiles and Clothing,Export,Export(US$ Mil),12166.0780298969
+United Kingdom,2017,World,Footwear,Export,Export(US$ Mil),2455.0707387223
+United Kingdom,2017,World,Stone and Glass,Export,Export(US$ Mil),35000.8511638949
+United Kingdom,2017,World,Metals,Export,Export(US$ Mil),22160.0515749512
+United Kingdom,2017,World,Mach and Elec,Export,Export(US$ Mil),93247.7396533433
+United Kingdom,2017,World,Transportation,Export,Export(US$ Mil),75554.4685335013
+United Kingdom,2017,World,Miscellaneous,Export,Export(US$ Mil),48720.8572873721
+United Kingdom,2017,World,Raw materials,Export,Export(US$ Mil),35265.9825561643
+United Kingdom,2017,World,Intermediate goods,Export,Export(US$ Mil),96882.2953327594
+United Kingdom,2017,World,Consumer goods,Export,Export(US$ Mil),167230.596911828
+United Kingdom,2017,World,Capital goods,Export,Export(US$ Mil),126823.113327163
+United Kingdom,2017,World,Raw materials,Import,Import(US$ Mil),52772.8180118222
+United Kingdom,2017,World,Intermediate goods,Import,Import(US$ Mil),133729.484918229
+United Kingdom,2017,World,Consumer goods,Import,Import(US$ Mil),259036.134828897
+United Kingdom,2017,World,Capital goods,Import,Import(US$ Mil),182204.244249243
+United Kingdom,2017,World,All Products,Export,Exports (in US$ Mil),442065.707223639
+United Kingdom,2017,World,All Products,Import,Imports (in US$ Mil),641332.435861443
+United Kingdom,2017,...,...,Development,Trade Balance (current US$ Mil),-36833.853669725
+United Kingdom,2017,...,...,Development,GDP (current US$ Mil),2622433.95960416
+United Kingdom,2017,...,...,Import,No. Of Import partners,227
+United Kingdom,2017,...,...,Import,No. Of Import products,4512
+United Kingdom,2017,...,...,Export,No. Of Export partners,233
+United Kingdom,2017,...,...,Export,No. Of Export products,4479
+United Kingdom,2016,...,...,Others,Population,65595565
+United Kingdom,2018,...,...,Others,Ease of Doing Business Rank,7
+United Kingdom,2018,...,...,Others,Trading Across Borders Rank,28
+United Kingdom,2016,...,...,Others,LPI Rank,8
+United Kingdom,2016,...,...,Others,LPI Score,4.069669
+United Kingdom,,...,...,Others,Services Trade Restrictions Index - Over All,14.3
+United Kingdom,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,13.3891
+United Kingdom,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,10.5635
+United Kingdom,2017,France,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8782
+United Kingdom,2017,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,6.2378
+United Kingdom,2017,Ireland,All Products,Export,Partner share(%)-Top 5 Export Partner,5.6796
+United Kingdom,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,13.9858
+United Kingdom,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.3341
+United Kingdom,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,9.1729
+United Kingdom,2017,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,8.0163
+United Kingdom,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,5.6917
+United Kingdom,2017,World,Animal,Export,Export Product share(%),1.6101
+United Kingdom,2017,World,Vegetable,Export,Export Product share(%),0.8385
+United Kingdom,2017,World,Food Products,Export,Export Product share(%),4.3899
+United Kingdom,2017,World,Minerals,Export,Export Product share(%),0.1992
+United Kingdom,2017,World,Fuels,Export,Export Product share(%),7.9237
+United Kingdom,2017,World,Chemicals,Export,Export Product share(%),14.1275
+United Kingdom,2017,World,Plastic or Rubber,Export,Export Product share(%),3.2184
+United Kingdom,2017,World,Hides and Skins,Export,Export Product share(%),0.378
+United Kingdom,2017,World,Wood,Export,Export Product share(%),1.8707
+United Kingdom,2017,World,Textiles and Clothing,Export,Export Product share(%),2.7521
+United Kingdom,2017,World,Footwear,Export,Export Product share(%),0.5554
+United Kingdom,2017,World,Stone and Glass,Export,Export Product share(%),7.9176
+United Kingdom,2017,World,Metals,Export,Export Product share(%),5.0128
+United Kingdom,2017,World,Mach and Elec,Export,Export Product share(%),21.0936
+United Kingdom,2017,World,Transportation,Export,Export Product share(%),17.0912
+United Kingdom,2017,World,Miscellaneous,Export,Export Product share(%),11.0212
+United Kingdom,2017,World,Raw materials,Export,Export Product share(%),7.9775
+United Kingdom,2017,World,Intermediate goods,Export,Export Product share(%),21.9158
+United Kingdom,2017,World,Consumer goods,Export,Export Product share(%),37.8294
+United Kingdom,2017,World,Capital goods,Export,Export Product share(%),28.6887
+United Kingdom,2017,World,Raw materials,Import,Import Product share(%),8.2286
+United Kingdom,2017,World,Intermediate goods,Import,Import Product share(%),20.8518
+United Kingdom,2017,World,Consumer goods,Import,Import Product share(%),40.3903
+United Kingdom,2017,World,Capital goods,Import,Import Product share(%),28.4103
+United Kingdom,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+United Kingdom,2017,World,All Products,Trade Indicator,Country Growth (%),2.43719415789894
+United Kingdom,2017,...,...,Trade Indicator,Index of export market penetration,30.2863489053276
+United Kingdom,2017,...,...,Trade Indicator,HH Market concentration index,0.0493410456768807
+United Kingdom,2017,...,...,Development,Trade Balance (% of GDP),-1.4045674452479
+United Kingdom,2017,...,...,Development,Trade in services (% of GDP),21.8259318119451
+United Kingdom,2017,...,...,Development,Trade (% of GDP),62.4618308060607
+United Kingdom,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",40530

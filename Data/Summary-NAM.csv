@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Namibia,2017,South Africa,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1139.45239482235
+Namibia,2017,Botswana,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,639.019831785145
+Namibia,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,496.97566954374
+Namibia,2017,Unspecified,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,412.523837898905
+Namibia,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,252.634732469386
+Namibia,2017,South Africa,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3736.16356367112
+Namibia,2017,Bulgaria,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,440.999639770417
+Namibia,2017,Botswana,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,413.170437780662
+Namibia,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,349.075134773235
+Namibia,2017,Zambia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,321.461266933369
+Namibia,2017,World,Animal,Export,Export(US$ Mil),951.223511125783
+Namibia,2017,World,Vegetable,Export,Export(US$ Mil),62.0432303070723
+Namibia,2017,World,Food Products,Export,Export(US$ Mil),155.381501117168
+Namibia,2017,World,Minerals,Export,Export(US$ Mil),689.000957978989
+Namibia,2017,World,Fuels,Export,Export(US$ Mil),79.6718884851563
+Namibia,2017,World,Chemicals,Export,Export(US$ Mil),58.3215245139293
+Namibia,2017,World,Plastic or Rubber,Export,Export(US$ Mil),35.4394008884346
+Namibia,2017,World,Hides and Skins,Export,Export(US$ Mil),24.1135027723776
+Namibia,2017,World,Wood,Export,Export(US$ Mil),42.6177062299096
+Namibia,2017,World,Textiles and Clothing,Export,Export(US$ Mil),5.42359995360399
+Namibia,2017,World,Footwear,Export,Export(US$ Mil),1.77482629811882
+Namibia,2017,World,Stone and Glass,Export,Export(US$ Mil),1975.90153615329
+Namibia,2017,World,Metals,Export,Export(US$ Mil),696.921408881416
+Namibia,2017,World,Mach and Elec,Export,Export(US$ Mil),110.069931929825
+Namibia,2017,World,Transportation,Export,Export(US$ Mil),308.934023916539
+Namibia,2017,World,Miscellaneous,Export,Export(US$ Mil),32.5223748928727
+Namibia,2017,World,Raw materials,Export,Export(US$ Mil),3055.7854196942
+Namibia,2017,World,Intermediate goods,Export,Export(US$ Mil),1345.36644634196
+Namibia,2017,World,Consumer goods,Export,Export(US$ Mil),392.479433093683
+Namibia,2017,World,Capital goods,Export,Export(US$ Mil),384.636507956339
+Namibia,2017,World,Raw materials,Import,Import(US$ Mil),1283.10517220271
+Namibia,2017,World,Intermediate goods,Import,Import(US$ Mil),1041.92626227047
+Namibia,2017,World,Consumer goods,Import,Import(US$ Mil),2889.59858040322
+Namibia,2017,World,Capital goods,Import,Import(US$ Mil),1479.00617179083
+Namibia,2017,World,All Products,Export,Exports (in US$ Mil),5229.36092544448
+Namibia,2017,World,All Products,Import,Imports (in US$ Mil),6778.20285384203
+Namibia,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),5601997.2649278
+Namibia,2017,...,...,Development,Trade Balance (current US$ Mil),-1431.35458089522
+Namibia,2017,...,...,Development,GDP (current US$ Mil),13253.6980147075
+Namibia,2017,...,...,Tariff,No. Of Tariff Agreement,9
+Namibia,2017,...,...,Import,No. Of Import partners,172
+Namibia,2017,...,...,Import,No. Of Import products,4135
+Namibia,2017,...,...,Export,No. Of Export partners,163
+Namibia,2017,...,...,Export,No. Of Export products,2980
+Namibia,2016,...,...,Others,Population,2479713
+Namibia,2018,...,...,Others,Ease of Doing Business Rank,106
+Namibia,2018,...,...,Others,Trading Across Borders Rank,132
+Namibia,2016,...,...,Others,LPI Rank,79
+Namibia,2016,...,...,Others,LPI Score,2.744745
+Namibia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0114815
+Namibia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0822302
+Namibia,,...,...,Others,Services Trade Restrictions Index - Over All,37
+Namibia,2017,South Africa,All Products,Export,Partner share(%)-Top 5 Export Partner,21.7895
+Namibia,2017,Botswana,All Products,Export,Partner share(%)-Top 5 Export Partner,12.2198
+Namibia,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,9.5036
+Namibia,2017,Unspecified,All Products,Export,Partner share(%)-Top 5 Export Partner,7.8886
+Namibia,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,4.8311
+Namibia,2017,South Africa,All Products,Import,Partner share(%)-Top 5 Import Partner,55.1203
+Namibia,2017,Bulgaria,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5061
+Namibia,2017,Botswana,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0956
+Namibia,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,5.15
+Namibia,2017,Zambia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.7426
+Namibia,2017,World,Animal,Export,Export Product share(%),18.1901
+Namibia,2017,World,Vegetable,Export,Export Product share(%),1.1864
+Namibia,2017,World,Food Products,Export,Export Product share(%),2.9713
+Namibia,2017,World,Minerals,Export,Export Product share(%),13.1756
+Namibia,2017,World,Fuels,Export,Export Product share(%),1.5235
+Namibia,2017,World,Chemicals,Export,Export Product share(%),1.1153
+Namibia,2017,World,Plastic or Rubber,Export,Export Product share(%),0.6777
+Namibia,2017,World,Hides and Skins,Export,Export Product share(%),0.4611
+Namibia,2017,World,Wood,Export,Export Product share(%),0.815
+Namibia,2017,World,Textiles and Clothing,Export,Export Product share(%),0.1037
+Namibia,2017,World,Footwear,Export,Export Product share(%),0.0339
+Namibia,2017,World,Stone and Glass,Export,Export Product share(%),37.7848
+Namibia,2017,World,Metals,Export,Export Product share(%),13.3271
+Namibia,2017,World,Mach and Elec,Export,Export Product share(%),2.1048
+Namibia,2017,World,Transportation,Export,Export Product share(%),5.9077
+Namibia,2017,World,Miscellaneous,Export,Export Product share(%),0.6219
+Namibia,2017,World,Raw materials,Export,Export Product share(%),58.4352
+Namibia,2017,World,Intermediate goods,Export,Export Product share(%),25.7272
+Namibia,2017,World,Consumer goods,Export,Export Product share(%),7.5053
+Namibia,2017,World,Capital goods,Export,Export Product share(%),7.3553
+Namibia,2017,World,Raw materials,Import,Import Product share(%),18.9299
+Namibia,2017,World,Intermediate goods,Import,Import Product share(%),15.3717
+Namibia,2017,World,Consumer goods,Import,Import Product share(%),42.6307
+Namibia,2017,World,Capital goods,Import,Import Product share(%),21.82
+Namibia,2017,World,Raw materials,Tariff,Weighted Average (%),0.298277213573147
+Namibia,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.738432757435854
+Namibia,2017,World,Consumer goods,Tariff,Weighted Average (%),1.24689730121462
+Namibia,2017,World,Capital goods,Tariff,Weighted Average (%),0.409018416400724
+Namibia,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Namibia,2017,World,All Products,Trade Indicator,Country Growth (%),16.3937314390163
+Namibia,2017,World,All Products,Tariff,Simple Average (%),6.04582233157216
+Namibia,2017,World,All Products,Tariff,Weighted Average (%),0.910247747986413
+Namibia,2017,World,All Products,Tariff,Maximum Rate (%),282.795806884766
+Namibia,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),69.9543396891963
+Namibia,2017,...,...,Trade Indicator,Index of export market penetration,1.98132914926611
+Namibia,2017,...,...,Trade Indicator,HH Market concentration index,0.0851933136472703
+Namibia,2017,...,...,Development,Trade Balance (% of GDP),-10.7996619457216
+Namibia,2017,...,...,Development,Trade in services (% of GDP),10.0919407404363
+Namibia,2017,...,...,Development,Trade (% of GDP),84.1290738225836
+Namibia,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",4570

@@ -1,0 +1,107 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Canada,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,319066.985678802
+Canada,2017,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,18187.4829552959
+Canada,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13635.9527415681
+Canada,2017,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9117.77445684117
+Canada,2017,Mexico,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6052.11873661266
+Canada,2017,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,221967.496750589
+Canada,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,54661.4021587296
+Canada,2017,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27352.4424874155
+Canada,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,13825.5677034576
+Canada,2017,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,13503.0620155231
+Canada,2017,World,Animal,Export,Export(US$ Mil),11778.5645164458
+Canada,2017,World,Vegetable,Export,Export(US$ Mil),24539.8099627859
+Canada,2017,World,Food Products,Export,Export(US$ Mil),13688.1918988991
+Canada,2017,World,Minerals,Export,Export(US$ Mil),8465.18031445486
+Canada,2017,World,Fuels,Export,Export(US$ Mil),84589.990704781
+Canada,2017,World,Chemicals,Export,Export(US$ Mil),24410.5367307054
+Canada,2017,World,Plastic or Rubber,Export,Export(US$ Mil),15766.5022027086
+Canada,2017,World,Hides and Skins,Export,Export(US$ Mil),837.085745793881
+Canada,2017,World,Wood,Export,Export(US$ Mil),29128.7053063637
+Canada,2017,World,Textiles and Clothing,Export,Export(US$ Mil),3091.69682036421
+Canada,2017,World,Footwear,Export,Export(US$ Mil),333.977763533257
+Canada,2017,World,Stone and Glass,Export,Export(US$ Mil),19959.0568777428
+Canada,2017,World,Metals,Export,Export(US$ Mil),32423.1702042641
+Canada,2017,World,Mach and Elec,Export,Export(US$ Mil),45262.0902024819
+Canada,2017,World,Transportation,Export,Export(US$ Mil),72782.2622349693
+Canada,2017,World,Miscellaneous,Export,Export(US$ Mil),33575.0288796668
+Canada,2017,World,Raw materials,Export,Export(US$ Mil),102477.000893068
+Canada,2017,World,Intermediate goods,Export,Export(US$ Mil),96160.1414036928
+Canada,2017,World,Consumer goods,Export,Export(US$ Mil),120439.856097234
+Canada,2017,World,Capital goods,Export,Export(US$ Mil),73438.4342515405
+Canada,2017,World,Raw materials,Import,Import(US$ Mil),35654.831131363
+Canada,2017,World,Intermediate goods,Import,Import(US$ Mil),75499.5546203483
+Canada,2017,World,Consumer goods,Import,Import(US$ Mil),155111.011738964
+Canada,2017,World,Capital goods,Import,Import(US$ Mil),156633.410754819
+Canada,2017,World,All Products,Export,Exports (in US$ Mil),420631.850365961
+Canada,2017,World,All Products,Import,Imports (in US$ Mil),432405.190660335
+Canada,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),351983066.811421
+Canada,2017,...,...,Development,Trade Balance (current US$ Mil),-37600.082413443
+Canada,2017,...,...,Development,GDP (current US$ Mil),1653042.79525504
+Canada,2017,...,...,Tariff,No. Of Tariff Agreement,23
+Canada,2017,...,...,Import,No. Of Import partners,223
+Canada,2017,...,...,Import,No. Of Import products,4519
+Canada,2017,...,...,Export,No. Of Export partners,222
+Canada,2017,...,...,Export,No. Of Export products,4378
+Canada,2016,...,...,Others,Population,36264604
+Canada,2018,...,...,Others,Ease of Doing Business Rank,18
+Canada,2018,...,...,Others,Trading Across Borders Rank,46
+Canada,2016,...,...,Others,LPI Rank,14
+Canada,2016,...,...,Others,LPI Score,3.930707
+Canada,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5319
+Canada,2015,...,...,Others,No Of NTM Measures,90
+Canada,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0484893
+Canada,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0709994
+Canada,,...,...,Others,Services Trade Restrictions Index - Over All,21.6
+Canada,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,1.394808173
+Canada,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.454475224
+Canada,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,75.8542
+Canada,2017,China,All Products,Export,Partner share(%)-Top 5 Export Partner,4.3238
+Canada,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,3.2418
+Canada,2017,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,2.1676
+Canada,2017,Mexico,All Products,Export,Partner share(%)-Top 5 Export Partner,1.4388
+Canada,2017,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,51.3332
+Canada,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,12.6412
+Canada,2017,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,6.3257
+Canada,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,3.1974
+Canada,2017,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,3.1228
+Canada,2017,World,Animal,Export,Export Product share(%),2.8002
+Canada,2017,World,Vegetable,Export,Export Product share(%),5.834
+Canada,2017,World,Food Products,Export,Export Product share(%),3.2542
+Canada,2017,World,Minerals,Export,Export Product share(%),2.0125
+Canada,2017,World,Fuels,Export,Export Product share(%),20.1102
+Canada,2017,World,Chemicals,Export,Export Product share(%),5.8033
+Canada,2017,World,Plastic or Rubber,Export,Export Product share(%),3.7483
+Canada,2017,World,Hides and Skins,Export,Export Product share(%),0.199
+Canada,2017,World,Wood,Export,Export Product share(%),6.925
+Canada,2017,World,Textiles and Clothing,Export,Export Product share(%),0.735
+Canada,2017,World,Footwear,Export,Export Product share(%),0.0794
+Canada,2017,World,Stone and Glass,Export,Export Product share(%),4.745
+Canada,2017,World,Metals,Export,Export Product share(%),7.7082
+Canada,2017,World,Mach and Elec,Export,Export Product share(%),10.7605
+Canada,2017,World,Transportation,Export,Export Product share(%),17.3031
+Canada,2017,World,Miscellaneous,Export,Export Product share(%),7.982
+Canada,2017,World,Raw materials,Export,Export Product share(%),24.3626
+Canada,2017,World,Intermediate goods,Export,Export Product share(%),22.8609
+Canada,2017,World,Consumer goods,Export,Export Product share(%),28.6331
+Canada,2017,World,Capital goods,Export,Export Product share(%),17.4591
+Canada,2017,World,Raw materials,Import,Import Product share(%),8.2457
+Canada,2017,World,Intermediate goods,Import,Import Product share(%),17.4604
+Canada,2017,World,Consumer goods,Import,Import Product share(%),35.8717
+Canada,2017,World,Capital goods,Import,Import Product share(%),36.2238
+Canada,2017,World,Raw materials,Tariff,Weighted Average (%),1.68100747403708
+Canada,2017,World,Intermediate goods,Tariff,Weighted Average (%),0.199568560298592
+Canada,2017,World,Consumer goods,Tariff,Weighted Average (%),3.63524506707655
+Canada,2017,World,Capital goods,Tariff,Weighted Average (%),0.189240215220859
+Canada,2017,World,All Products,Trade Indicator,World Growth (%),1.50064825967466
+Canada,2017,World,All Products,Trade Indicator,Country Growth (%),3.80634337366443
+Canada,2017,World,All Products,Tariff,Simple Average (%),1.99157076034056
+Canada,2017,World,All Products,Tariff,Weighted Average (%),1.51780080388293
+Canada,2017,World,All Products,Tariff,Maximum Rate (%),625.080688476563
+Canada,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),81.4312642468876
+Canada,2017,...,...,Trade Indicator,Index of export market penetration,15.3267654655121
+Canada,2017,...,...,Trade Indicator,HH Market concentration index,0.526714609805361
+Canada,2017,...,...,Development,Trade Balance (% of GDP),-2.27459824521
+Canada,2017,...,...,Development,Trade in services (% of GDP),11.7146373125053
+Canada,2017,...,...,Development,Trade (% of GDP),64.0626529567679
+Canada,2017,...,...,Development,"GNI per capita, Atlas method (current US$)",42870
